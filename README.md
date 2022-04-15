@@ -4,7 +4,7 @@ Hi, my name is Amaury! I am DevOps Engineer, Lifelong Learner, you can follow me
 
 ## Latest articles
 
-Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
+Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about IaC, Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
 - March 29, 2022 - [[Trilha CI/CD]: Parte II — Pipeline de IaC com GitLab & Terraform](https://amauryborgesouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3)
 - March 8, 2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
