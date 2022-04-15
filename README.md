@@ -1,4 +1,4 @@
-## A bit about me
+## About me
 
 Hi, my name is Amaury! I am DevOps Engineer, Lifelong Learner, you can follow me on the web, sometimes I am writing about DevOps on @medium, sometimes talking about Infrastructure as Code around Terraform, GitLab, CI/CD and GitOps. I love DevOps communities, and I have been helping many of them for years now, both as an organizer and Digital Creator. Also, I am enjoy code on GitHub using HCL/YML technologies, check my [profile](https://github.com/amaurybsouza) to learn more about how I contribute on open-source projects. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat! DM me on Twitter [@amaurybsouza_](https://twitter.com/amaurybsouza_)
 
