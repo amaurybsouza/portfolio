@@ -6,6 +6,7 @@ Hi, my name is Amaury! I am DevOps Engineer with lifelong learn mindset, follow 
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about IaC, Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
+- April 11, 2022 - [Vai ficar de fora dessa? Exames da AWS com 85% e 50% de desconto](https://medium.com/@amauryborgesouza/vai-ficar-de-fora-dessa-exames-da-aws-com-85-e-50-de-desconto-b4ab2120c1a6)
 - March 29, 2022 - [[Trilha CI/CD]: Parte II — Pipeline de IaC com GitLab & Terraform](https://amauryborgesouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3)
 - March 8, 2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
 - February 28, 2022 - [Boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
@@ -15,7 +16,6 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - December 22, 2021 - [Terraform import: uma ferramenta que o DevOps Engineer ama demais](https://amauryborgesouza.medium.com/terraform-import-uma-ferramenta-que-o-devops-engineer-ama-demais-e30abf8d5a37)
 - November 28. 2021 - [Como eu contribuo com projetos Open-Source de DevOps no Github](https://amauryborgesouza.medium.com/como-eu-contribuo-com-projetos-open-source-de-devops-no-github-9e7705a24715)
 - November 12, 2021 - [(IaC) Parte 6: Provisionando um DigitalOcean Droplet com Terraform](https://amauryborgesouza.medium.com/iac-parte-6-provisionando-um-digitalocean-droplet-com-terraform-120d232d0bba)
-- November 7, 2022 - [Conheça 5 livros sobre a cultura DevOps que todo entusiasta precisa ler](https://amauryborgesouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe)
 
 ## Recent Open Source projects
 
