@@ -1,6 +1,8 @@
 ## About me
 
-Hi, my name is Amaury! I'm a DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, 8+ years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  I love DevOps communities, and I have been helping many of them for years now, both as an organizer and Digital Creator. Also, I am enjoy coding on GitHub using HCL/YML technologies, check my [profile](https://github.com/amaurybsouza) to learn more about how I contribute on open-source projects. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat! DM me on Twitter [@amaurybsouza_](https://twitter.com/amaurybsouza_)
+Hi, my name is Amaury! I'm a DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, 8+ years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
+
+I love DevOps communities, and I have been helping many of them for years now, both as an organizer and Digital Creator. Also, I am enjoy coding on GitHub using HCL/YML technologies, check my [profile](https://github.com/amaurybsouza) to learn more about how I contribute on Open-Source projects. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat! DM me on Twitter [@amaurybsouza_](https://twitter.com/amaurybsouza_)
 
 ## Latest articles
 
