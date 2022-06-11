@@ -23,6 +23,7 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
+- [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
 - [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3) - Terraform import command to deploy an AWS S3 Bucket.
 - [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy) - Deploying a Docker using Terraform and Ansible together.
 - [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - How you can use the local and output features on Terraform.
