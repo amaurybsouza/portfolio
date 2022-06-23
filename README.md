@@ -8,6 +8,7 @@ I love DevOps communities, and I have been helping many of them for years now, b
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
+- June 19, 2022 - [Kubernetes + Ansible: Health check do cluster de forma simples e direta](https://amaurybsouza.medium.com/kubernetes-ansible-health-check-do-cluster-de-forma-simples-e-direta-858bb4697d45)
 - June 06, 2022 - [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
 - June 04, 2022 - [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
 - June 02, 2022 - [Cloud Native: Conheça projetos, iniciativas e uma trilha de estudos](https://amaurybsouza.medium.com/cloud-native-conhe%C3%A7a-projetos-iniciativas-e-uma-trilha-de-estudos-9704f7c59d8)
@@ -17,7 +18,6 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - March 8, 2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
 - February 28, 2022 - [Boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
 - January 13, 2022 - [Criando um cluster Kubernetes com Kind](https://amauryborgesouza.medium.com/criando-um-cluster-kubernetes-com-kind-dc5025748480)
-- January 11, 2022 - [SRE/DevOps: A STACK para você começar com TUDO em 2022!](https://amauryborgesouza.medium.com/sre-devops-a-stack-para-voc%C3%AA-come%C3%A7ar-com-tudo-em-2022-a85424287344)
 
 ## Recent Open Source projects
 
