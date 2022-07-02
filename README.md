@@ -8,6 +8,7 @@ I love DevOps communities, and I have been helping many of them for years now, b
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
+- June 25, 2022 - [DevOps Days Vitória 2022: Voltou com TUDO e eu FUI](https://amaurybsouza.medium.com/devops-days-vit%C3%B3ria-2022-voltou-com-tudo-e-eu-fui-72665dbe9d89)
 - June 19, 2022 - [Kubernetes + Ansible: Health check do cluster de forma simples e direta](https://amaurybsouza.medium.com/kubernetes-ansible-health-check-do-cluster-de-forma-simples-e-direta-858bb4697d45)
 - June 06, 2022 - [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
 - June 04, 2022 - [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
@@ -17,7 +18,6 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - March 29, 2022 - [[Trilha CI/CD]: Parte II — Pipeline de IaC com GitLab & Terraform](https://amauryborgesouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3)
 - March 8, 2022 - [[Trilha CI/CD]: Provisionando o GitLab na AWS com Terraform e Ansible](https://amauryborgesouza.medium.com/trilha-ci-cd-provisionando-o-gitlab-em-uma-inst%C3%A2ncia-ec2-da-aws-com-terraform-e-ansible-dcbbfe0ecf7e)
 - February 28, 2022 - [Boas práticas do Ansible que ninguém te conta e que não existem no Google](https://amauryborgesouza.medium.com/as-boas-pr%C3%A1ticas-do-ansible-que-ningu%C3%A9m-te-conta-e-que-n%C3%A3o-existem-no-google-4fcc3126ad1)
-- January 13, 2022 - [Criando um cluster Kubernetes com Kind](https://amauryborgesouza.medium.com/criando-um-cluster-kubernetes-com-kind-dc5025748480)
 
 ## Recent Open Source projects
 
