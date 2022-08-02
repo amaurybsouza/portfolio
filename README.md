@@ -9,7 +9,7 @@ I love DevOps communities, and I have been helping many of them for years now, b
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
 - July 25, 2022 - [HashiTalks: Brasil](https://amaurybsouza.medium.com/hashitalks-brasil-fb6a85dd22ce)
-- July 23, 2022 - [Trilha CI/CD]: Parte III — Criando um pipeline de CI/CD com GitHub Actions](https://amaurybsouza.medium.com/trilha-ci-cd-parte-iii-criando-um-pipeline-de-ci-cd-com-github-actions-para-automatizar-a-c5074deb3d8d)
+- July 23, 2022 - [Trilha CI/CD: Parte III — Criando um pipeline de CI/CD com GitHub Actions](https://amaurybsouza.medium.com/trilha-ci-cd-parte-iii-criando-um-pipeline-de-ci-cd-com-github-actions-para-automatizar-a-c5074deb3d8d)
 - June 25, 2022 - [DevOps Days Vitória 2022: Voltou com TUDO e eu FUI](https://amaurybsouza.medium.com/devops-days-vit%C3%B3ria-2022-voltou-com-tudo-e-eu-fui-72665dbe9d89)
 - June 19, 2022 - [Kubernetes + Ansible: Health check do cluster de forma simples e direta](https://amaurybsouza.medium.com/kubernetes-ansible-health-check-do-cluster-de-forma-simples-e-direta-858bb4697d45)
 - June 06, 2022 - [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
