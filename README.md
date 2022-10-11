@@ -8,6 +8,7 @@ I love DevOps communities, and I have been helping many of them for years now, b
 
 Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
+- September 05, 2022 - [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 - August 10, 2022 - [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 - July 25, 2022 - [HashiTalks: Brasil](https://amaurybsouza.medium.com/hashitalks-brasil-fb6a85dd22ce)
 - July 23, 2022 - [Trilha CI/CD: Parte III — Criando um pipeline de CI/CD com GitHub Actions](https://amaurybsouza.medium.com/trilha-ci-cd-parte-iii-criando-um-pipeline-de-ci-cd-com-github-actions-para-automatizar-a-c5074deb3d8d)
@@ -17,7 +18,6 @@ Below you can check some posts developed by me on [Medium](https://amauryborgeso
 - June 04, 2022 - [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
 - June 02, 2022 - [Cloud Native: Conheça projetos, iniciativas e uma trilha de estudos](https://amaurybsouza.medium.com/cloud-native-conhe%C3%A7a-projetos-iniciativas-e-uma-trilha-de-estudos-9704f7c59d8)
 - May 17, 2022 - [Deploy do Grafana no Kubernetes](https://amaurybsouza.medium.com/deploy-do-grafana-no-kubernetes-3ed321e49877)
-- April 11, 2022 - [Vai ficar de fora dessa? Exames da AWS com 85% e 50% de desconto](https://medium.com/@amauryborgesouza/vai-ficar-de-fora-dessa-exames-da-aws-com-85-e-50-de-desconto-b4ab2120c1a6)
 
 ## Recent Open Source projects
 
