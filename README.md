@@ -9,6 +9,10 @@ Recently I have created a weekly newsletter to publish everything related to SRE
 - Oct 11, 2022: [Cloud Native Glossary - um guia que salva](https://www.getrevue.co/profile/amaurybsouza_/issues/cloud-native-glossary-um-guia-que-salva-demais-1388804) #11
 - Oct 01, 2022: [Conheça meu blog de DevOps no Medium](https://www.getrevue.co/profile/amaurybsouza_/issues/conheca-meu-blog-de-devops-no-medium-1382563) #10
 - Sep 28, 2022: [Kubernetes + Podcast == Kubecast](https://www.getrevue.co/profile/amaurybsouza_/issues/kubernetes-podcast-kubecast-1380913) #9
+- Sep 27, 2022: [Mentoria IaC - Bora conhecer essa iniciativa da comunidade?](https://www.getrevue.co/profile/amaurybsouza_/issues/mentoria-iac-bora-conhecer-essa-iniciativa-da-comunidade-1379074) #8
+- Sep 26, 2022: [Você trabalha como DevOps e está meio de boa no trampo?](https://www.getrevue.co/profile/amaurybsouza_/issues/voce-trabalha-como-devops-e-esta-meio-de-boa-no-trampo-1378517) #7
+- Sep 23, 2022: [E você, já conhece o canal da LINUXtips?](https://www.getrevue.co/profile/amaurybsouza_/issues/e-voce-ja-conhece-o-canal-da-linuxtips-1373076) #4
+- Sep 22, 2022: [CodeCon 2022](https://www.getrevue.co/profile/amaurybsouza_/issues/codecon-2022-1344089) #3
 
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
