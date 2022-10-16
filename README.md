@@ -13,6 +13,7 @@ Recently I have created a weekly newsletter to publish everything related to SRE
 - Sep 26, 2022: [Você trabalha como DevOps e está meio de boa no trampo?](https://www.getrevue.co/profile/amaurybsouza_/issues/voce-trabalha-como-devops-e-esta-meio-de-boa-no-trampo-1378517) #7
 - Sep 23, 2022: [E você, já conhece o canal da LINUXtips?](https://www.getrevue.co/profile/amaurybsouza_/issues/e-voce-ja-conhece-o-canal-da-linuxtips-1373076) #4
 - Sep 22, 2022: [CodeCon 2022](https://www.getrevue.co/profile/amaurybsouza_/issues/codecon-2022-1344089) #3
+- Sep 03, 2022: [Evento legal sobre SRE](https://www.getrevue.co/profile/amaurybsouza_/issues/evento-legal-sobre-sre-1344085) #2
 
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
