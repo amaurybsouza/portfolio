@@ -1,11 +1,15 @@
 ## About me
-
-Hi, my name is Amaury! I'm a DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, 8+ years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
+Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, 8+ years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
 
 I love DevOps communities, and I have been helping many of them for years now, both as an organizer and Digital Creator. Also, I am enjoy coding on GitHub using HCL/YML technologies, check my [profile](https://github.com/amaurybsouza) to learn more about how I contribute on Open-Source projects. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat! DM me on Twitter [@amaurybsouza_](https://twitter.com/amaurybsouza_)
 
-## Latest articles
+## My Weekly Newsletter
+Recently I have created a weekly newsletter to publish everything related to SRE/DevOps world, make sure you have subscribed to keep up-to-date on those posts.
 
+- Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
+- Oct 12, 2022: [Artigos, dicas e praticas do Ansible](https://www.getrevue.co/profile/amaurybsouza_/issues/artigos-dicas-e-praticas-do-ansible-1403336) #12
+
+## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
 - September 05, 2022 - [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
@@ -19,8 +23,7 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - June 02, 2022 - [Cloud Native: Conheça projetos, iniciativas e uma trilha de estudos](https://amaurybsouza.medium.com/cloud-native-conhe%C3%A7a-projetos-iniciativas-e-uma-trilha-de-estudos-9704f7c59d8)
 - May 17, 2022 - [Deploy do Grafana no Kubernetes](https://amaurybsouza.medium.com/deploy-do-grafana-no-kubernetes-3ed321e49877)
 
-## Recent Open Source projects
-
+## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
 - [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod) - Deep dive into Ansible.
