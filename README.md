@@ -6,6 +6,9 @@ Recently I have created a weekly newsletter to publish everything related to SRE
 
 - Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 - Oct 12, 2022: [Artigos, dicas e praticas do Ansible](https://www.getrevue.co/profile/amaurybsouza_/issues/artigos-dicas-e-praticas-do-ansible-1403336) #12
+- Oct 11, 2022: [Cloud Native Glossary - um guia que salva](https://www.getrevue.co/profile/amaurybsouza_/issues/cloud-native-glossary-um-guia-que-salva-demais-1388804) #11
+- Oct 01, 2022: [Conheça meu blog de DevOps no Medium](https://www.getrevue.co/profile/amaurybsouza_/issues/conheca-meu-blog-de-devops-no-medium-1382563) #10
+- Sep 28, 2022: [Kubernetes + Podcast == Kubecast](https://www.getrevue.co/profile/amaurybsouza_/issues/kubernetes-podcast-kubecast-1380913) #9
 
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
