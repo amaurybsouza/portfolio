@@ -6,7 +6,7 @@ I love DevOps communities, and I have been helping many of them for years now, b
 
 ## Latest articles
 
-Below you can check some posts developed by me on [Medium](https://amauryborgesouza.medium.com/), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
+Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
 - September 05, 2022 - [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 - August 10, 2022 - [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
