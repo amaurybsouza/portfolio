@@ -4,6 +4,7 @@ Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challe
 ## My Weekly Newsletter
 Recently I have created a weekly newsletter to publish everything related to SRE/DevOps world, make sure you have subscribed to keep up-to-date on those posts.
 
+- Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
 - Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 - Oct 12, 2022: [Artigos, dicas e praticas do Ansible](https://www.getrevue.co/profile/amaurybsouza_/issues/artigos-dicas-e-praticas-do-ansible-1403336) #12
 - Oct 11, 2022: [Cloud Native Glossary - um guia que salva](https://www.getrevue.co/profile/amaurybsouza_/issues/cloud-native-glossary-um-guia-que-salva-demais-1388804) #11
@@ -13,7 +14,6 @@ Recently I have created a weekly newsletter to publish everything related to SRE
 - Sep 26, 2022: [Você trabalha como DevOps e está meio de boa no trampo?](https://www.getrevue.co/profile/amaurybsouza_/issues/voce-trabalha-como-devops-e-esta-meio-de-boa-no-trampo-1378517) #7
 - Sep 23, 2022: [E você, já conhece o canal da LINUXtips?](https://www.getrevue.co/profile/amaurybsouza_/issues/e-voce-ja-conhece-o-canal-da-linuxtips-1373076) #4
 - Sep 22, 2022: [CodeCon 2022](https://www.getrevue.co/profile/amaurybsouza_/issues/codecon-2022-1344089) #3
-- Sep 03, 2022: [Evento legal sobre SRE](https://www.getrevue.co/profile/amaurybsouza_/issues/evento-legal-sobre-sre-1344085) #2
 
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
