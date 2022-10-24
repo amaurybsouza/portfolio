@@ -4,6 +4,7 @@ Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challe
 ## My Weekly Newsletter
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to sre/devops | cncf solutions | terraform | conferences | kubecon | ansible | k8s. make sure you have subscribed to keep up-to-date on those posts.
 
+- Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 - Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
 - Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 - Oct 12, 2022: [Artigos, dicas e praticas do Ansible](https://www.getrevue.co/profile/amaurybsouza_/issues/artigos-dicas-e-praticas-do-ansible-1403336) #12
@@ -13,7 +14,6 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 - Sep 27, 2022: [Mentoria IaC - Bora conhecer essa iniciativa da comunidade?](https://www.getrevue.co/profile/amaurybsouza_/issues/mentoria-iac-bora-conhecer-essa-iniciativa-da-comunidade-1379074) #8
 - Sep 26, 2022: [Você trabalha como DevOps e está meio de boa no trampo?](https://www.getrevue.co/profile/amaurybsouza_/issues/voce-trabalha-como-devops-e-esta-meio-de-boa-no-trampo-1378517) #7
 - Sep 23, 2022: [E você, já conhece o canal da LINUXtips?](https://www.getrevue.co/profile/amaurybsouza_/issues/e-voce-ja-conhece-o-canal-da-linuxtips-1373076) #4
-- Sep 22, 2022: [CodeCon 2022](https://www.getrevue.co/profile/amaurybsouza_/issues/codecon-2022-1344089) #3
 
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
