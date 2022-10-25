@@ -32,9 +32,9 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
+- Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
+- Aug 22, 2022: [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) 
 - [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod) - Deep dive into Ansible.
-- [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) - DevOps quick guide to several terms and tools used inside DevOps world.
-- [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) - Deep Dive into Kubernetes.
 - [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3) - Terraform import command to deploy an AWS S3 Bucket.
 - [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy) - Deploying a Docker using Terraform and Ansible together.
 - [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - How you can use the local and output features on Terraform.
@@ -43,7 +43,6 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - [devops exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
 - [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - Integrate OTRS 6 (Ticket Management) with Zabbix
 - [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet) - Deploying a DigitalOcean Droplet using Terraform
-- [iac-practice](https://github.com/amaurybsouza/iac-practice) - Terraform + Ansible to provision an EC2 on AWS Cloud and install Docker.
 
 ## Events/Meetups/Podcasts
 
