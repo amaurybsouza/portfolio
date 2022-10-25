@@ -1,5 +1,5 @@
 ## About me
-Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, 8+ years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
+Hi, my name is Amaury! I'm DevOps Engineer Advocate that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, 8+ years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
 
 ## My Weekly Newsletter
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to sre/devops | cncf solutions | terraform | conferences | kubecon | ansible | k8s. make sure you have subscribed to keep up-to-date on those posts.
