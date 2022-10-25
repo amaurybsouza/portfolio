@@ -77,16 +77,14 @@ I did many DevOps courses during my carreer on several platforms like, [Udemy](h
 ## Previous work
 Previously, I have worked at [Kyndryl](https://www.kyndryl.com/us/en) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
 
-Also, in the past experiences, I have installed and configured the Zabbix and Grafana to monitoring the infrastructure, I have created several scripts (Bash) to automate the routine in the PROD/TEST servers, and I have worked with network team to ensure the network environment (datacenter) is working fine.
-
 During my time at Kyndryl, I have started and shipped some projects like:
 
 - GSI Tools (Implemmeting the CI/CD environment using K8s, Docker, GitHub).
-- Centrify Upgrade (Updating the Centrify Agent using Ansible Playbooks).
-- Automate several procedures using Ansible (Confguration as Code).
+- SRE@HCS (Sharing and learn the best practices to HCS community around SRE world).
+- Ansible Automation (Applying Ansible playbooks and roles to improve other accounts)
 
 ## Contact
-Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_)
+Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
 
 ## Support
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
