@@ -32,6 +32,7 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
+- Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) (constantly updating).
 - Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure)
 - Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) (constantly updating).
 - Jul 01, 2022: [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) (constantly updating).
@@ -41,8 +42,6 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - How you can use the local and output features on Terraform.
 - [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2) - Terraform best practices like variables and modules.
 - [devops exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
-- [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) - Integrate OTRS 6 (Ticket Management) with Zabbix
-- [terraform-digitalocean-dropletPublic](https://github.com/amaurybsouza/terraform-digitalocean-droplet) - Deploying a DigitalOcean Droplet using Terraform
 
 ## Events/Meetups/Podcasts
 
