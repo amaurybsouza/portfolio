@@ -38,10 +38,9 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - Jul 01, 2022: [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) (constantly updating).
 - May 22, 2022: [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) 
 - May 10, 2022: [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3)
-- [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy) - Deploying a Docker using Terraform and Ansible together.
-- [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - How you can use the local and output features on Terraform.
-- [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2) - Terraform best practices like variables and modules.
-- [devops exercises](https://github.com/amaurybsouza/devops-exercises) - DevOps interview questions about several tools
+- Apr 14, 2022: [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy)
+- Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
+- Feb 14, 2022: [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2)
 
 ## Events/Meetups/Podcasts
 
