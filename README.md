@@ -86,7 +86,7 @@ During my time at Kyndryl, I have started and shipped some projects like:
 - Automate several procedures using Ansible (Confguration as Code).
 
 ## Contact
-Best way to get a hold of me is to message me on [Linkedin](https://www.linkedin.com/in/amaurybsouza/). If that doesn't work, email me at address [amauryborgesouza@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com).
+Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_)
 
 ## Support
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
