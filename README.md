@@ -32,6 +32,7 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
+- Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (constantly updating).
 - Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) (constantly updating).
 - Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure)
 - Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) (constantly updating).
