@@ -34,7 +34,7 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 
 - Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (constantly updating).
 - Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) (constantly updating).
-- Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure)
+- Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) (IaC on Azure Platform)
 - Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) (constantly updating).
 - Jul 01, 2022: [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) (constantly updating).
 - May 22, 2022: [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) 
@@ -74,40 +74,19 @@ I did many DevOps courses during my carreer on several platforms like, [Udemy](h
 - 12/2021 - [HashiCorp Terraform na Prática com Digital Ocean [v0.15.0]](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
 - 11/2021 - [Git and Github Essential for Developers"](https://www.udemy.com/certificate/UC-f16443db-4d36-4577-95ab-238e54048a2f/)
 
-## IT community contributions
-
-I have developed several articles and Shell Scripts for Linux community on [Viva o Linux](https://www.vivaolinux.com.br). Feel free to comment or replying me on those automations at Linux forum:
-
-- 06/2020 - [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/)
-- 05/2020 - [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/)
-- 09/2020 - [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/)
-- 09/2019 - [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/)
-- 09/2019 - [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/)
-- 09/2019 - [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/)
-- 11/2018 - [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/)
-- 11/2018 - [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/)
-- 11/2018 - [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/dica/Gerenciamento-de-usuarios-e-grupos-no-Linux-LPIC-102/)
-
-
 ## Previous work
-
-Previously, I worked at [IBM](https://www.ibm.com/br-pt) as a Linux Administrator, improving the infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Satellite, Linux, Shell Scrupt), creating and maintaining IT documentation and other assets.
+Previously, I have worked at [Kyndryl](https://www.kyndryl.com/us/en) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
 
 Also, in the past experiences, I have installed and configured the Zabbix and Grafana to monitoring the infrastructure, I have created several scripts (Bash) to automate the routine in the PROD/TEST servers, and I have worked with network team to ensure the network environment (datacenter) is working fine.
 
-During my time at IBM, I have started and shipped some projects like:
+During my time at Kyndryl, I have started and shipped some projects like:
 
-- SBC (Secure Baseline Configuration on Red Hat Enterprise Linux servers).
+- GSI Tools (Implemmeting the CI/CD environment using K8s, Docker, GitHub).
 - Centrify Upgrade (Updating the Centrify Agent using Ansible Playbooks).
 - Automate several procedures using Ansible (Confguration as Code).
-- Perform the automation of filesystem /var and /var/log 
-
 
 ## Contact
-
-Best way to get a hold of me is to message me on [Linkedin](https://www.linkedin.com/in/amaurybsouza/). If that doesn't work out, email me at address [amauryborgesouza@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com).
-
+Best way to get a hold of me is to message me on [Linkedin](https://www.linkedin.com/in/amaurybsouza/). If that doesn't work, email me at address [amauryborgesouza@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=SUBJECT&body=BODY&bcc=someone.else@example.com).
 
 ## Support
-
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
