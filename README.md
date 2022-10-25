@@ -33,10 +33,9 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
 - Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) (constantly updating).
-- Jul 01, 2022: [[devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) (constantly updating).
-- Aug 22, 2022: [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) 
-- [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod) - Deep dive into Ansible.
-- [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3) - Terraform import command to deploy an AWS S3 Bucket.
+- Jul 01, 2022: [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) (constantly updating).
+- May 22, 2022: [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) 
+- May 10, 2022: [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3) - Terraform import command to deploy an AWS S3 Bucket.
 - [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy) - Deploying a Docker using Terraform and Ansible together.
 - [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting) - How you can use the local and output features on Terraform.
 - [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2) - Terraform best practices like variables and modules.
