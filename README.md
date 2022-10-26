@@ -18,6 +18,7 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
+- Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 - Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 - Jul 25, 2022: [HashiTalks: Brasil](https://amaurybsouza.medium.com/hashitalks-brasil-fb6a85dd22ce)
@@ -27,7 +28,6 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - Jun 06, 2022: [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
 - Jun 04, 2022: [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
 - Jun 02, 2022: [Cloud Native: Conheça projetos, iniciativas e uma trilha de estudos](https://amaurybsouza.medium.com/cloud-native-conhe%C3%A7a-projetos-iniciativas-e-uma-trilha-de-estudos-9704f7c59d8)
-- May 17, 2022: [Deploy do Grafana no Kubernetes](https://amaurybsouza.medium.com/deploy-do-grafana-no-kubernetes-3ed321e49877)
 
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
