@@ -4,7 +4,7 @@ Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challe
 ## My Weekly Newsletter
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to sre/devops | cncf solutions | terraform | conferences | kubecon | ansible | k8s. make sure you have subscribed to keep up-to-date on those posts.
 
-- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092)
+- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 - Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
 - Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
