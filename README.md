@@ -28,7 +28,6 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - Jun 19, 2022: [Kubernetes + Ansible: Health check do cluster de forma simples e direta](https://amaurybsouza.medium.com/kubernetes-ansible-health-check-do-cluster-de-forma-simples-e-direta-858bb4697d45)
 - Jun 06, 2022: [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
 - Jun 04, 2022: [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
-- Jun 02, 2022: [Cloud Native: Conheça projetos, iniciativas e uma trilha de estudos](https://amaurybsouza.medium.com/cloud-native-conhe%C3%A7a-projetos-iniciativas-e-uma-trilha-de-estudos-9704f7c59d8)
 
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
