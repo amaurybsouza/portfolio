@@ -4,6 +4,7 @@ Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challe
 ## My Weekly Newsletter
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to sre/devops | cncf solutions | terraform | conferences | kubecon | ansible | k8s. make sure you have subscribed to keep up-to-date on those posts.
 
+- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 - Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
@@ -13,7 +14,6 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 - Oct 01, 2022: [Conheça meu blog de DevOps no Medium](https://www.getrevue.co/profile/amaurybsouza_/issues/conheca-meu-blog-de-devops-no-medium-1382563) #10
 - Sep 28, 2022: [Kubernetes + Podcast == Kubecast](https://www.getrevue.co/profile/amaurybsouza_/issues/kubernetes-podcast-kubecast-1380913) #9
 - Sep 27, 2022: [Mentoria IaC - Bora conhecer essa iniciativa da comunidade?](https://www.getrevue.co/profile/amaurybsouza_/issues/mentoria-iac-bora-conhecer-essa-iniciativa-da-comunidade-1379074) #8
-- Sep 26, 2022: [Você trabalha como DevOps e está meio de boa no trampo?](https://www.getrevue.co/profile/amaurybsouza_/issues/voce-trabalha-como-devops-e-esta-meio-de-boa-no-trampo-1378517) #7
 
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
