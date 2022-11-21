@@ -2,7 +2,7 @@
 Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, 8+ years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
 
 ## My Weekly Newsletter
-A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to sre/devops | cncf solutions | terraform | conferences | kubecon | ansible | k8s. make sure you have subscribed to keep up-to-date on those posts.
+A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
