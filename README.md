@@ -4,6 +4,7 @@ Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challe
 ## Recents tech news
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
+- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
@@ -13,7 +14,6 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 - Oct 11, 2022: [Cloud Native Glossary - um guia que salva](https://www.getrevue.co/profile/amaurybsouza_/issues/cloud-native-glossary-um-guia-que-salva-demais-1388804) #11
 - Oct 01, 2022: [Conheça meu blog de DevOps no Medium](https://www.getrevue.co/profile/amaurybsouza_/issues/conheca-meu-blog-de-devops-no-medium-1382563) #10
 - Sep 28, 2022: [Kubernetes + Podcast == Kubecast](https://www.getrevue.co/profile/amaurybsouza_/issues/kubernetes-podcast-kubecast-1380913) #9
-- Sep 27, 2022: [Mentoria IaC - Bora conhecer essa iniciativa da comunidade?](https://www.getrevue.co/profile/amaurybsouza_/issues/mentoria-iac-bora-conhecer-essa-iniciativa-da-comunidade-1379074) #8
 
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
