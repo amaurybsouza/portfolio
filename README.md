@@ -36,7 +36,7 @@ I did and went in many DevOps confs/courses during my carreer on several platfor
 - Dec 07, 2022: [Learning Terraform](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/terraform-certified-linkedin.pdf)
 - Dec 10, 2022: [DevOps Days Recife 2022](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/DevOps%20Days%20Recife%20Certificado.pdf)
 
-## Recent Open-Source projects
+## Recent Open-Source projects🤝
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
 - Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (constantly updating).
@@ -50,7 +50,7 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
 - Feb 14, 2022: [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2)
 
-## Previous work
+## Previous work🧑‍💼
 Previously, I have worked at [Kyndryl](https://www.kyndryl.com/us/en) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
 
 During my time at Kyndryl, I have started and shipped some projects like:
