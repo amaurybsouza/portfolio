@@ -1,7 +1,7 @@
 ## About me
 Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I have adapted my tech career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
 
-## Recents tech news
+## Recents tech newsℹ️
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
@@ -15,7 +15,7 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 - Oct 12, 2022: [Artigos, dicas e praticas do Ansible](https://www.getrevue.co/profile/amaurybsouza_/issues/artigos-dicas-e-praticas-do-ansible-1403336) #12
 - Oct 11, 2022: [Cloud Native Glossary - um guia que salva](https://www.getrevue.co/profile/amaurybsouza_/issues/cloud-native-glossary-um-guia-que-salva-demais-1388804) #11
 
-## Latest articles
+## Latest articles📝
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
