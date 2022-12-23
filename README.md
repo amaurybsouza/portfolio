@@ -50,22 +50,6 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
 - Feb 14, 2022: [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2)
 
-## Events/Meetups/Podcasts
-
-I have participated in some events and meetups related to DevOps like, [SRE Brasil](https://www.meetup.com/SREBrasil/), [#FiqueEmCasaConf](https://www.youtube.com/watch?v=jke_qf6SgAg&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&ab_channel=LINUXtips), [KCD Brazil](https://twitter.com/kcdbrasil), [DevOps Days](https://devopsdays.org/), [Kubicast](https://getup.io/kubicast) and much more. Below you can check some events around SRE/DevOps:
-
-- 02/2022: [Qual o significado de SRE em 2022?](https://www.meetup.com/SREBrasil/events/284175191?response=3&action=rsvp&utm_medium=email&utm_source=braze_canvas&utm_campaign=mmrk_alleng_event_announcement_prod_v4_en&utm_term=promo&utm_content=lp_meetup) 
-- 01/2022: [Carreira na Cloud, por onde eu começo?](https://www.youtube.com/watch?v=VJ53PFSUbtc) 
-- 01/2022: [KCD Brasil](https://twitter.com/kcdbrasil) 
-- 11/2021: [Bem vindo ao Hands-On Especial Ansible](https://www.youtube.com/watch?v=9Lx6bCs4nJo&ab_channel=4LinuxOpenSoftwareSpecialists) 
-- 09/2021: [Mesa DevOps - Como começar com containers](https://www.youtube.com/watch?v=6YfWh8nPcRY) 
-- 09/2021: [Como gerenciar código com Git](https://www.youtube.com/watch?v=uh4oANEA-lo&ab_channel=Fabr%C3%ADcioVeronezKubeDev) 
-- 07/2021: [SRE e DevOps no mundo real na Stone Pagamentos](https://www.youtube.com/watch?v=q-68OyzfiAU) 
-- 10/2020: [Evolução da Carreira de SysAdmin](https://www.youtube.com/watch?v=VIX351V0unw) 
-- 04/2020: [Rafael Gomex - Melhores práticas para seu pipeline de Infra as Code #FiqueEmCasaConf](https://www.youtube.com/watch?v=XGSuK8kyGag&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&index=16&ab_channel=LINUXtips) 
-- 04/2020: [Fernando Ike - DevOps é Cultura ou Ferramenta? #FiqueEmCasaConf](https://www.youtube.com/watch?v=5BgPIETVYSQ&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&index=14&ab_channel=LINUXtips) 
-- 04/2020: [Lucas de Souza - Terraform além do básico #FiqueEmCasaConf](https://www.youtube.com/watch?v=P3aY4_vxzWQ&ab_channel=LINUXtips) 
-
 ## Previous work
 Previously, I have worked at [Kyndryl](https://www.kyndryl.com/us/en) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
 
