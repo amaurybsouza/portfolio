@@ -29,9 +29,9 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - Jun 06, 2022: [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
 - Jun 04, 2022: [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
 
-## DevOps Lifelong Learning
+## Lifelong Learning📚
 
-I did and went in many DevOps confs/courses during my carreer on several platforms like [LinkedIn Learning](https://www.linkedin.com/learning/?originalSubdomain=br)  [Udemy](https://www.udemy.com/), [LinuxTips](https://www.linuxtips.io/collections/treinamentos), [Alura](https://www.alura.com.br/escola-devops), [CloudGuru](https://acloudguru.com/). Below you can check some certificates about those courses:
+I did and went in many DevOps confs/courses during my carreer on several platforms like [LinkedIn Learning](https://www.linkedin.com/learning/?originalSubdomain=br),  [Udemy](https://www.udemy.com/), [LinuxTips](https://www.linuxtips.io/collections/treinamentos), [Alura](https://www.alura.com.br/escola-devops), [CloudGuru](https://acloudguru.com/). Below you can check some certificates about those courses:
 
 - Dec 07, 2022: [Learning Terraform](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/terraform-certified-linkedin.pdf)
 - Dec 10, 2022: [DevOps Days Recife 2022](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/DevOps%20Days%20Recife%20Certificado.pdf)
