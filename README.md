@@ -1,7 +1,7 @@
 ## About me👨‍💻
 Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I have adapted my tech career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
 
-## DevOps Weekly Newsletter ℹ️
+## DevOps Weekly Newsletter✍️
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
@@ -59,8 +59,8 @@ During my time at Kyndryl, I have started and shipped some projects like:
 - SRE@HCS (Sharing and learn the best practices to HCS community around SRE world).
 - Ansible Automation (Applying Ansible playbooks and roles to improve other accounts)
 
-## Contact
+## Contact📳
 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
 
-## Support
+## Support⚠️
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
