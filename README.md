@@ -29,6 +29,12 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - Jun 06, 2022: [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
 - Jun 04, 2022: [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
 
+## Lifelong Learning
+
+I did many DevOps courses during my carreer on several platforms like and couting [Udemy](https://www.udemy.com/), [LinuxTips](https://www.linuxtips.io/collections/treinamentos), [Alura](https://www.alura.com.br/escola-devops), [CloudGuru](https://acloudguru.com/). Below you can check some certificates about those courses:
+
+- Dec 07, 2022: [Learning Terraform](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/terraform-certified-linkedin.pdf)
+
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
@@ -58,21 +64,6 @@ I have participated in some events and meetups related to DevOps like, [SRE Bras
 - 04/2020: [Rafael Gomex - Melhores práticas para seu pipeline de Infra as Code #FiqueEmCasaConf](https://www.youtube.com/watch?v=XGSuK8kyGag&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&index=16&ab_channel=LINUXtips) 
 - 04/2020: [Fernando Ike - DevOps é Cultura ou Ferramenta? #FiqueEmCasaConf](https://www.youtube.com/watch?v=5BgPIETVYSQ&list=PLf-O3X2-mxDmn0ikyO7OF8sPr2GDQeZXk&index=14&ab_channel=LINUXtips) 
 - 04/2020: [Lucas de Souza - Terraform além do básico #FiqueEmCasaConf](https://www.youtube.com/watch?v=P3aY4_vxzWQ&ab_channel=LINUXtips) 
-
-## Latest DevOps courses
-
-I did many DevOps courses during my carreer on several platforms like, [Udemy](https://www.udemy.com/), [LinuxTips](https://www.linuxtips.io/collections/treinamentos), [Alura](https://www.alura.com.br/escola-devops), [CloudGuru](https://acloudguru.com/). Below you can check some certificates about those courses:
-
-- 02/2022 - [DevOps , CI/CD(Continuous Integration/Delivery for Beginners](https://t.co/MpmJhwyR4F)
-- 02/2022 - [Automation with Ansible Playbooks - Hands-on!](https://www.udemy.com/certificate/UC-58d8c463-e3dc-445f-8f8a-4a6324743367/)
-- 02/2022 - [Docker para Desenvolvedores (com Docker Swarm e Kubernetes)](http://ude.my/UC-54319ead-6091-4745-a452-1a983b580375)
-- 02/2022 - [DevOps: AWS com Terraform Automatizando sua infraestrutura](https://www.udemy.com/certificate/UC-c488a961-c184-4588-ae9a-f1e5a4790c44/)
-- 01/2022 - [Escalando uma aplicação na AWS passo a passo](https://www.udemy.com/certificate/UC-ff476ef3-51c5-4be7-8924-a78b32f07073/)
-- 01/2022 - [AWS para administradores de sistemas e profissionais de TI](https://www.udemy.com/certificate/UC-bffcf718-9d78-47fb-ac11-7e1e973af13c/)
-- 12/2021 - [AWS essencial com Terraform e Spring Boot](https://www.udemy.com/certificate/UC-445d49eb-900d-4ca3-93a0-d7cebb056af2/)
-- 12/2021 - [Ansible for the Absolute Beginner - Hands-On - DevOps](https://www.udemy.com/certificate/UC-6c94c794-60b6-43fe-b7e1-a1a8e9c2d579/)
-- 12/2021 - [HashiCorp Terraform na Prática com Digital Ocean [v0.15.0]](https://www.udemy.com/certificate/UC-afe8fa93-e550-40e7-99ea-81d8d96b18ff/)
-- 11/2021 - [Git and Github Essential for Developers"](https://www.udemy.com/certificate/UC-f16443db-4d36-4577-95ab-238e54048a2f/)
 
 ## Previous work
 Previously, I have worked at [Kyndryl](https://www.kyndryl.com/us/en) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
