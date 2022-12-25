@@ -1,7 +1,7 @@
 ## About me👨‍💻
 Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I have adapted my tech career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
 
-## DevOps Weekly Newsletter✍️
+## DevOps Weekly Newsletter
 A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
@@ -15,7 +15,7 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 - Oct 12, 2022: [Artigos, dicas e praticas do Ansible](https://www.getrevue.co/profile/amaurybsouza_/issues/artigos-dicas-e-praticas-do-ansible-1403336) #12
 - Oct 11, 2022: [Cloud Native Glossary - um guia que salva](https://www.getrevue.co/profile/amaurybsouza_/issues/cloud-native-glossary-um-guia-que-salva-demais-1388804) #11
 
-## Latest articles📝
+## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
@@ -29,14 +29,14 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - Jun 06, 2022: [O que é DevOps? Meus 0.05 centavos](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b)
 - Jun 04, 2022: [GitOps: Futuro do DevOps?](https://amaurybsouza.medium.com/gitops-futuro-do-devops-f0486e1d6e7)
 
-## Lifelong Learning📚
+## Lifelong Learning
 
 I did and went in many DevOps confs/courses during my carreer on several platforms like [LinkedIn Learning](https://www.linkedin.com/learning/?originalSubdomain=br),  [Udemy](https://www.udemy.com/), [LinuxTips](https://www.linuxtips.io/collections/treinamentos), [Alura](https://www.alura.com.br/escola-devops), [CloudGuru](https://acloudguru.com/). Below you can check some certificates about those courses:
 
 - Dec 07, 2022: [Learning Terraform](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/terraform-certified-linkedin.pdf)
 - Dec 10, 2022: [DevOps Days Recife 2022](https://github.com/amaurybsouza/devops-lifelong-learner/blob/main/certificates/DevOps%20Days%20Recife%20Certificado.pdf)
 
-## Recent Open-Source projects🤝
+## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
 - Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (constantly updating).
@@ -50,7 +50,7 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
 - Feb 14, 2022: [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2)
 
-## Previous work🧑‍💼
+## Previous work
 Previously, I have worked at [Kyndryl](https://www.kyndryl.com/us/en) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
 
 During my time at Kyndryl, I have started and shipped some projects like:
@@ -59,8 +59,8 @@ During my time at Kyndryl, I have started and shipped some projects like:
 - SRE@HCS (Sharing and learn the best practices to HCS community around SRE world).
 - Ansible Automation (Applying Ansible playbooks and roles to improve other accounts)
 
-## Contact📳
+## Contact
 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
 
-## Support⚠️
+## Support
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
