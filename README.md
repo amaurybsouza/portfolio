@@ -1,4 +1,3 @@
-## About me👨‍💻
 Hi, my name is Amaury! I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the IT market, I have adapted my tech career adhering to the pillars of DevOps and the premise of comunication, collaboration and automation mindset.  
 
 ## DevOps Weekly Newsletter
