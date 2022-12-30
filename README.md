@@ -44,7 +44,7 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - Feb 14, 2022: [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2)
 
 ## Previous work
-Previously, I have worked at [Kyndryl](https://www.kyndryl.com/us/en) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
+Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
 
 During my time at Kyndryl, I have started and shipped some projects like:
 
