@@ -45,13 +45,16 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - Feb 14, 2022: [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2)
 
 ## Previous work
-Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a DevOps Engineer, improving the IT infrastructure and services for our customers by using advanced DevOps tools, setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles), creating and maintaining IT documentation and other assets.
+Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
 
-During my time at Kyndryl, I have started and shipped some projects like:
+During my time at [IBM](https://www.ibm.com/br-pt), I have started and shipped some projects like:
 
-- GSI Tools (Implemmeting the CI/CD environment using K8s, Docker, GitHub).
-- SRE@HCS (Sharing and learn the best practices to HCS community around SRE world).
-- Ansible Automation (Applying Ansible playbooks and roles to improve other accounts)
+- GSI Tools (Implemeting the CI/CD environment using K8s, Docker, GitHub).
+- SRE@HCS (Sharing and learn the best practices around SRE world).
+- Ansible Automation (Applying Ansible playbooks and roles to improve other accounts, teams).
+- HCS@Talks (Sharing and fomenting the knowledge about DevOps tools, i.e. Ansible, Kubernetes, Docker).
+- Centrify Upgrade (Using Ansible to automate all the steps to upgrade Centrify on the environments).
+- KT IBM (Transfer knowledge process to get from USA teams the hard work about Linux).
 
 ## Contact
 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
