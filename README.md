@@ -19,6 +19,7 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
+- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
 - Jan 08, 2023: [Como está o seu LinkedIn para 2023?](https://amaurybsouza.medium.com/como-est%C3%A1-o-seu-linkedin-para-2023-90d21ac3dc11)
 - Jan 05, 2023: [[hashpost.tf]: Usando $ terraform fmt na sua IaC](https://amaurybsouza.medium.com/hashpost-tf-usando-o-famosinho-terraform-fmt-para-formatar-o-c%C3%B3digo-do-terraform-da-sua-iac-3d4fa35b32f0)
 - Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
@@ -28,8 +29,6 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 - Jul 25, 2022: [HashiTalks: Brasil](https://amaurybsouza.medium.com/hashitalks-brasil-fb6a85dd22ce)
 - Jul 23, 2022: [Trilha CI/CD: Parte III — Criando um pipeline de CI/CD com GitHub Actions](https://amaurybsouza.medium.com/trilha-ci-cd-parte-iii-criando-um-pipeline-de-ci-cd-com-github-actions-para-automatizar-a-c5074deb3d8d)
-- Jun 25, 2022: [DevOps Days Vitória 2022: Voltou com TUDO e eu FUI](https://amaurybsouza.medium.com/devops-days-vit%C3%B3ria-2022-voltou-com-tudo-e-eu-fui-72665dbe9d89)
-- Jun 19, 2022: [Kubernetes + Ansible: Health check do cluster de forma simples e direta](https://amaurybsouza.medium.com/kubernetes-ansible-health-check-do-cluster-de-forma-simples-e-direta-858bb4697d45)
 
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
