@@ -19,7 +19,7 @@ A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everyth
 ## Latest articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
-- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
+- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7).
 - Jan 08, 2023: [Como está o seu LinkedIn para 2023?](https://amaurybsouza.medium.com/como-est%C3%A1-o-seu-linkedin-para-2023-90d21ac3dc11)
 - Jan 05, 2023: [[hashpost.tf]: Usando $ terraform fmt na sua IaC](https://amaurybsouza.medium.com/hashpost-tf-usando-o-famosinho-terraform-fmt-para-formatar-o-c%C3%B3digo-do-terraform-da-sua-iac-3d4fa35b32f0)
 - Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
