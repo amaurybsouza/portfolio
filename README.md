@@ -3,7 +3,7 @@ Hi, my name is Amaury! :)
 I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps and the premise of comunication, collaboration and automation mindset.
 
 ## DevOps Weekly Newsletter
-A [newsletter](https://www.getrevue.co/profile/amaurybsouza_) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
+A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
