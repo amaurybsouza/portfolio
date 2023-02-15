@@ -3,13 +3,14 @@ Hi, my name is Amaury! :)
 I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps and the premise of comunication, collaboration and automation mindset.
 
 ## DevOps Weekly Newsletter
-A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | cncf solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
+A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
-- Jan 13, 2023:[DevOps Days, CodeCon, GopherCon, RoadSec](https://amauryborgessouza.substack.com/p/devops-days-codecon-gophercon-roadsec)
-- Jan 30, 2023:[DevOps Global Summit 2023](https://amauryborgessouza.substack.com/p/devps-global-summit-2023)
+- Jan 30, 2023: [DevOps Global Summit 2023](https://amauryborgessouza.substack.com/p/devps-global-summit-2023) #25
+- Jan 27, 2023: [Você já conhece o Hackerspace de Campinas?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-hackerspace-de) #24
+- Jan 13, 2023: [DevOps Days, CodeCon, GopherCon, RoadSec](https://amauryborgessouza.substack.com/p/devops-days-codecon-gophercon-roadsec) #23
 - Dec 05, 2022: [LINUXtips oferecendo curso de LINUX na FAIXA](https://www.getrevue.co/profile/amaurybsouza_/issues/linuxtips-oferecendo-curso-de-linux-na-faixa-1483202) #21
 - Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
-- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://www.getrevue.co/profile/amaurybsouza_/issues/platform-engineering-pode-vir-mas-ansible-e-shell-script-nunca-saira-de-moda-1459374) #18
+- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://www.getrevue.co/profile/amaurybsouza_/issues/ja-conhece-o-kind-tenha-o-kubernetes-localmente-na-sua-maquineta-1433092) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
