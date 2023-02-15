@@ -2,6 +2,8 @@ Hi, my name is Amaury! :)
 
 I'm Senior DevOps Engineer that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps and the premise of comunication, collaboration and automation mindset.
 
+I’ve kept myself updated and embraced the DevOps culture, working with Terraform, Ansible, Docker and Kubernetes, where I'm able to architect highly scalable and reliable systems that can be efficiently managed and observed. Currently, I can comfortably work with AWS provider. In my most recent journey, I’m exploring IaC (Infrastructure as Code) approach and solutions architectute. I enjoy creative collaboration to solve solvable things, and using automation for everything else.
+
 ## DevOps Weekly Newsletter
 A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
