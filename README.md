@@ -1,10 +1,12 @@
 Hi, my name is Amaury! :)
 
-I'm {👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps and the premise of comunication, collaboration and automation mindset.
+I'm {👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps (from culture to tools) and the premise of comunication, collaboration and automation mindset.
 
-I’ve kept myself updated and embraced the DevOps culture, working with Terraform, Ansible, Docker and Kubernetes, where I'm able to architect highly scalable and reliable systems that can be efficiently managed and observed. Currently, I can comfortably work with AWS provider. In my most recent journey, I’m exploring IaC (Infrastructure as Code) approach and cloud native solutions architecture. I enjoy creative collaboration to solve solvable things, and using automation for everything else.
+I am a technical writer at Medium & creator at Substack (DevOps Weekly Newsletter). Post-degree in Solutions Architecture and mostly recently I have been selected as a HashiCorp Ambassador within open-source community for 2023! I routinely speak at technical conferences such as Codecon Digital, Kyndryl internally initiatives, CoffeeOps from community. My GitHub collaborations include the "Trilha  Info", "DevOps Exercises".
 
-## DevOps Weekly Newsletter
+I’ve kept myself updated and embraced the DevOps culture, working with Terraform, Ansible, Docker and Kubernetes, where I'm able to architect highly scalable and reliable systems that can be efficiently managed and observed. Currently, I can comfortably work with AWS & Azure provider. In my most recent journey, I’m exploring IaC (Infrastructure as Code) & GitOps approach. Also, I focus on Cloud Native solutions. I enjoy creative collaboration to solve solvable things, and using automation for everything else.
+
+## Recently Substack news
 A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
 
 - Jan 30, 2023: [DevOps Global Summit 2023](https://amauryborgessouza.substack.com/p/devps-global-summit-2023) #25
@@ -18,7 +20,7 @@ A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything re
 - Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
 - Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 
-## Latest articles
+## Latest Medium articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
 
 - Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
