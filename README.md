@@ -1,8 +1,8 @@
-Hi, my name is Amaury! :)
+Hi, my name is Amaury! 
 
-I'm {👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps (from culture to tools) and the premise of comunication, collaboration and automation mindset.
+{👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps and the premise of comunication, collaboration and automation mindset.
 
-I am a technical writer at Medium & creator at Substack (DevOps Weekly Newsletter). Post-degree in Solutions Architecture and mostly recently I have been selected as a HashiCorp Ambassador within open-source community for 2023! I routinely speak at technical conferences such as Codecon Digital, Kyndryl internally initiatives, CoffeeOps from community. My GitHub collaborations include the "Trilha  Info", "DevOps Exercises".
+I'm a technical writer at Medium & creator at Substack (DevOps Weekly Newsletter). Post-degree in Solutions Architecture and mostly recently I have been selected as a HashiCorp Ambassador within open-source community for 2023! I routinely speak at technical conferences such as Codecon Digital, Kyndryl internally initiatives, CoffeeOps from community. My GitHub collaborations include the "Trilha  Info", "DevOps Exercises".
 
 I’ve kept myself updated and embraced the DevOps culture, working with Terraform, Ansible, Docker and Kubernetes, where I'm able to architect highly scalable and reliable systems that can be efficiently managed and observed. Currently, I can comfortably work with AWS & Azure provider. In my most recent journey, I’m exploring IaC (Infrastructure as Code) & GitOps approach. Also, I focus on Cloud Native solutions. I enjoy creative collaboration to solve solvable things, and using automation for everything else.
 
@@ -37,17 +37,16 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
 
-- May 10, 2023: [trilha-info](https://trilha.info/)
+- May 10, 2023: [trilha-info](https://trilha.info/) (constantly updating).
 - Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (constantly updating).
-- Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) (constantly updating).
+- Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) 
 - Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) (IaC on Azure Platform)
-- Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary) (constantly updating).
+- Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
 - Jul 01, 2022: [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) (constantly updating).
 - May 22, 2022: [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) 
 - May 10, 2022: [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3)
 - Apr 14, 2022: [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy)
 - Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
-- Feb 14, 2022: [terraform-module-aws-ec2](https://github.com/Terraform-Tutorials/terraform-module-aws-ec2)
 
 ## Previous work
 Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
