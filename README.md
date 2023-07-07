@@ -1,22 +1,4 @@
-{👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps and the premise of comunication, collaboration and automation mindset.
-
-I'm a technical writer at Medium & creator at Substack (DevOps Weekly Newsletter). Post-degree in Solutions Architecture and mostly recently I have been selected as a HashiCorp Ambassador within open-source community for 2023! I routinely speak at technical conferences such as Codecon Digital, Kyndryl internally initiatives, CoffeeOps from community. My GitHub collaborations include the "Trilha  Info", "DevOps Exercises".
-
-I’ve kept myself updated and embraced the DevOps culture, working with Terraform, Ansible, Docker and Kubernetes, where I'm able to architect highly scalable and reliable systems that can be efficiently managed and observed. Currently, I can comfortably work with AWS & Azure provider. In my most recent journey, I’m exploring IaC (Infrastructure as Code) & GitOps approach. Also, I focus on Cloud Native solutions. I enjoy creative collaboration to solve solvable things, and using automation for everything else.
-
-## Recently Substack news
-A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
-
-- Jan 30, 2023: [DevOps Global Summit 2023](https://amauryborgessouza.substack.com/p/devps-global-summit-2023) #25
-- Jan 27, 2023: [Você já conhece o Hackerspace de Campinas?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-hackerspace-de) #24
-- Jan 13, 2023: [DevOps Days, CodeCon, GopherCon, RoadSec](https://amauryborgessouza.substack.com/p/devops-days-codecon-gophercon-roadsec) #23
-- Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
-- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
-- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
-- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
-- Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
-- Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
-- Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
+{👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects.
 
 ## Latest Medium articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
@@ -31,6 +13,20 @@ Below you can check some posts developed by me on [Medium](https://amaurybsouza.
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 - Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
+
+## Recently Substack news
+A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF solutions | Terraform | Conferences | Kubecon | Ansible | k8s. Make sure you have subscribed to keep up-to-date on those posts.
+
+- Jan 30, 2023: [DevOps Global Summit 2023](https://amauryborgessouza.substack.com/p/devps-global-summit-2023) #25
+- Jan 27, 2023: [Você já conhece o Hackerspace de Campinas?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-hackerspace-de) #24
+- Jan 13, 2023: [DevOps Days, CodeCon, GopherCon, RoadSec](https://amauryborgessouza.substack.com/p/devops-days-codecon-gophercon-roadsec) #23
+- Nov 30, 2022: [Médias empresas brasileiras estarão no foco da AWS em 2023](https://www.getrevue.co/profile/amaurybsouza_/issues/medias-empresas-brasileiras-estarao-no-foco-da-aws-em-2023-1480440) #20
+- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
+- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
+- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
+- Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
+- Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
+- Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 
 ## Recent Open-Source projects
 I have several of my personal projects on [Github](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers and automation:
