@@ -1,4 +1,4 @@
-{👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects.
+I am {👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects.
 
 ### Latest Medium articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
@@ -42,7 +42,7 @@ I have several of my personal projects on [Github](https://github.com/amaurybsou
 - Apr 14, 2022: [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy)
 - Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
 
-## Previous work
+### Previous work
 Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
 
 During my time at [IBM](https://www.ibm.com/br-pt), I have started and shipped some projects like:
@@ -54,8 +54,8 @@ During my time at [IBM](https://www.ibm.com/br-pt), I have started and shipped s
 - Centrify Upgrade (Using Ansible to automate all the steps to upgrade Centrify on the environments).
 - KT IBM (Transfer knowledge process to get from USA teams the hard work about Linux).
 
-## Contact
+### Contact
 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
 
-## Support
+### Support
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
