@@ -1,5 +1,3 @@
-Hi, my name is Amaury! 
-
 {👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +10 years of experience in support of mission-critical platforms and technical participate of complex projects. My career is based in Ops, and following the evolution of technology on the tech market, I have adapted my tech career adhering and applying the pillars of DevOps and the premise of comunication, collaboration and automation mindset.
 
 I'm a technical writer at Medium & creator at Substack (DevOps Weekly Newsletter). Post-degree in Solutions Architecture and mostly recently I have been selected as a HashiCorp Ambassador within open-source community for 2023! I routinely speak at technical conferences such as Codecon Digital, Kyndryl internally initiatives, CoffeeOps from community. My GitHub collaborations include the "Trilha  Info", "DevOps Exercises".
