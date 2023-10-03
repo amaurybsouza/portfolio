@@ -1,4 +1,4 @@
-I am {👨‍💻SRE/DevOps Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +11 years of experience in support of mission-critical platforms and technical participate of complex projects.
+I am {👨‍💻Cloud Support Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +11 years of experience in support of mission-critical platforms and technical participate of complex projects.
 
 ### Latest Medium articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
