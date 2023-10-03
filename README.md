@@ -1,4 +1,8 @@
-I am {👨‍💻Cloud Support Engineer} that loves to work with challenging and creative projects. Experienced technology professional with a background in banking, sales systems, +11 years of experience in support of mission-critical platforms and technical participate of complex projects.
+Hi, I'm Amaury!👋
+
+Experienced {👨‍💻Lead/DevOps Engineer}, I currently work with DevOps & Infrastructure Engineering, I always try to learn about new tech, I speak portuguese and english (though is not my primary language). Profissional with +10 years of hands-on expertise in infrastructure, Cloud platforms, IaC (infra as code), implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes.
+
+I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, Shell Scripts. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability. Best way to get contact with me is on my Linkedin. Also you can DM me on Twitter, I will appreciate.
 
 ### Latest Medium articles
 Below you can check some posts developed by me on [Medium](https://amaurybsouza.medium.com), there you can learn more about Ansible, GitLab, Terraform, Docker, Kubernetes, Linux and more:
