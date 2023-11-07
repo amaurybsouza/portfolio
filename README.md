@@ -63,13 +63,13 @@ I have made it my mission to share my entire DevOps learning journey across the 
 ### Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
-- May 10, 2023: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps, constantly updating*).
-- May 10, 2023: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
-- Jan 02, 2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam) (*practice your skills about terraform exam*).
-- Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (*keep aware with all conferences and meetups, updating*).
+- GitHub Project: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps, constantly updating*).
+- GitHub Project: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
+- GitHub Project: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam) (*practice your skills about terraform exam*).
+- GitHub Project: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (*keep aware with all conferences and meetups, updating*).
 - {#!Bash Script}: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) (*bash script to ensure a backup*).
 - {#!Bash Script}: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) (*managing the firewalld service*).
-- {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Ubuntu Linux*).
+- {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
 - Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) 
 - Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) (IaC on Azure Platform)
 - Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
