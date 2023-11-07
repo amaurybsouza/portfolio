@@ -61,6 +61,24 @@ Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryb
 - Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio).
 - Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para).
 - Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque).
+
+### Previous work
+Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
+
+During my time at [IBM](https://www.ibm.com/br-pt), I have started and shipped some projects like:
+
+- GSI Tools (Implemeting the CI/CD environment using K8s, Docker, GitHub).
+- SRE@HCS (Sharing and learn the best practices around SRE world).
+- Ansible Automation (Applying Ansible playbooks and roles to improve other accounts, teams).
+- HCS@Talks (Sharing and fomenting the knowledge about DevOps tools, i.e. Ansible, Kubernetes, Docker).
+- Centrify Upgrade (Using Ansible to automate all the steps to upgrade Centrify on the environments).
+- KT IBM (Transfer knowledge process to get from USA teams the hard work about Linux).
+
+### Contact
+Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
+
+### Support
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
   
 ## Open-source contributions.
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects
@@ -137,21 +155,3 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - May 10, 2022: [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3)
 - Apr 14, 2022: [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy)
 - Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
-
-### Previous work
-Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
-
-During my time at [IBM](https://www.ibm.com/br-pt), I have started and shipped some projects like:
-
-- GSI Tools (Implemeting the CI/CD environment using K8s, Docker, GitHub).
-- SRE@HCS (Sharing and learn the best practices around SRE world).
-- Ansible Automation (Applying Ansible playbooks and roles to improve other accounts, teams).
-- HCS@Talks (Sharing and fomenting the knowledge about DevOps tools, i.e. Ansible, Kubernetes, Docker).
-- Centrify Upgrade (Using Ansible to automate all the steps to upgrade Centrify on the environments).
-- KT IBM (Transfer knowledge process to get from USA teams the hard work about Linux).
-
-### Contact
-Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
-
-### Support
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
