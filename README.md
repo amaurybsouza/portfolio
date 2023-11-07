@@ -92,9 +92,9 @@ Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryb
 - Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 
 ### Previous work
-Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
+Previously, I have worked at IBM as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
 
-During my time at [IBM](https://www.ibm.com/br-pt), I have started and shipped some projects like:
+During my time at IBM, I have started and shipped some projects like:
 
 - GSI Tools (Implemeting the CI/CD environment using K8s, Docker, GitHub).
 - SRE@HCS (Sharing and learn the best practices around SRE world).
