@@ -1,6 +1,6 @@
 Hi, I'm Amaury! An experienced {Lead/DevOps Engineer} with over 10 years, of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like **Kyndryl**, **IBM**, **TechFor**, **Tecnoset**, **NTL** and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing, so I am always looking for opportunities to share my expertise with others.
 
-### Career milestones 2023
+### Career Milestones 2023
 Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in Solution Architecture at PUC Minas.
   - Working as a Lead/DevOps Engineer at [Kyndryl](https://www.kyndryl.com/us/en) (world's largest provider of IT infrastructure).
@@ -12,7 +12,7 @@ Welcome to my portfolio! Here, you'll find a collection of my personal projects 
   - Giving back to the community, I'm a [organizer/member](https://www.meetup.com/pt-BR/awscampinas/) tech related events “CoffeeOps”, "DODs".
   - I have several of my personal projects on GitHub, approaching different tools and automations!
   
-### SRE/DevOps stack
+### SRE/DevOps Stack
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC tools like (Terraform), Ansible, Docker, Kubernetes and Cloud platforms like AWS/Azure.
   
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -42,7 +42,7 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-### Latest Medium posts
+### Latest Medium Posts
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Aug 17, 2023: [Fui aceito no programa AWS Community Builders!](https://amaurybsouza.medium.com/fui-aceito-no-programa-aws-community-builders-76cc28b735f8)
 - Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
@@ -60,12 +60,13 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 - Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 
-### Recent Open-Source projects
+### Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
 - May 10, 2023: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps, constantly updating*).
+- May 10, 2023: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
 - Jan 02, 2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam) (*practice your skills about terraform exam*).
-- Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (*keep aware with all conferences and meetups, constantly updating*).
+- Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (*keep aware with all conferences and meetups, updating*).
 - Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) 
 - Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) (IaC on Azure Platform)
 - Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
@@ -74,9 +75,9 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - May 10, 2022: [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3)
 - Apr 14, 2022: [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy)
 - Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
-- Dec 10, 2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating)
+- Dec 10, 2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*)
 
-### Tech newsletter
+### Tech Newsletter
 Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
 - Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
 - Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar) #24
