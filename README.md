@@ -67,6 +67,7 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - May 10, 2023: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
 - Jan 02, 2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam) (*practice your skills about terraform exam*).
 - Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (*keep aware with all conferences and meetups, updating*).
+- Jun 06, 2020: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) (*bash script about backup*).
 - Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) 
 - Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) (IaC on Azure Platform)
 - Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
