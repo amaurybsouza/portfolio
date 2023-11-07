@@ -50,6 +50,9 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
 - May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
 - Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
+- Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
+- Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
+- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
 
 ## Tech newsletter.
 Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
