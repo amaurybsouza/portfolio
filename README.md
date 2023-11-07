@@ -1,9 +1,9 @@
 ## Hi, I'm Amaury!👋
 
-I am a seasoned {👨‍💻Lead/DevOps Engineer} with over 10 years of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like IBM, TechFor, NTL, Tecnoset and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing & I am always looking for opportunities to share my expertise with others.
+I am a experienced {👨‍💻Lead/DevOps Engineer} with over 10 years of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like IBM, TechFor, NTL, Tecnoset and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing & I am always looking for opportunities to share my expertise with others.
 
 ### Career Milestones.
-Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
+Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in Solution Architecture at PUC Minas.
   - I was invited to participate into the AWS Community Builders program for next season 2023/2024.
   - Recently I have been selected as a HashiCorp Ambassador within open source community for 2023!
@@ -51,16 +51,27 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
 - Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
 - Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
+- Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
+- Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
+- Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
+- Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
+- Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 
 ### Tech newsletter.
 Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
-- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa).
-- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar).
-- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa).
-- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo).
-- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio).
-- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para).
-- Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque).
+- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
+- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar) #24
+- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa) #23
+- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo) #22
+- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio) #21
+- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para) #20
+- Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque) #19
+- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
+- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
+- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
+- Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
+- Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
+- Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 
 ### Previous work
 Previously, I have worked at [IBM](https://www.ibm.com/br-pt) as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
