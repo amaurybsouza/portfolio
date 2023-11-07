@@ -1,6 +1,6 @@
 Hi, I'm Amaury! An experienced {Lead/DevOps Engineer} with over 10 years, of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like **Kyndryl**, **IBM**, **TechFor**, **Tecnoset**, **NTL** and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing & I am always looking for opportunities to share my expertise with others.
 
-### Career Milestones
+### Career milestones
 Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in Solution Architecture at PUC Minas.
   - I was invited to participate into the AWS Community Builders program for next season 2023/2024.
@@ -10,7 +10,7 @@ Welcome to my portfolio! Here, you'll find a collection of my personal projects 
   - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DODs".
   - I have several of my personal projects on GitHub, approaching different tools and automations!
   
-### SRE/DevOps Stack
+### SRE/DevOps stack
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC tools like (Terraform), Ansible, Docker, Kubernetes and Cloud platforms like AWS/Azure.
   
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
