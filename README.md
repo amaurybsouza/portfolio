@@ -3,10 +3,10 @@ Hi, I'm Amaury! An experienced {Lead/DevOps Engineer} with over 10 years, of exp
 ### Career milestones
 Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in Solution Architecture at PUC Minas.
-  - I was invited to participate into the AWS Community Builders program for next season 2023/2024.
-  - Recently I have been selected as a HashiCorp Ambassador within open source community for 2023!
-  - I keep a newsletter filled with awesome DevOps stuff at Substack. Subscribe to learn more!
-  - If you enjoy read tech contents make sure you have checked my Medium portal articles and posts.
+  - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
+  - Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
+  - I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
+  - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
   - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DODs".
   - I have several of my personal projects on GitHub, approaching different tools and automations!
   
