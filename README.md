@@ -63,8 +63,8 @@ I have made it my mission to share my entire DevOps learning journey across the 
 ### Recent Open-Source projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
-- May 10, 2023: [trilha-info](https://trilha.info/) (Explore your path with tech roadmaps, constantly updating).
-- Jan 02, 2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam)
+- May 10, 2023: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps*, **constantly updating**).
+- Jan 02, 2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam) (*practice your skills aout terraform*).
 - Oct 20, 2022: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (constantly updating).
 - Oct 10, 2022: [my-github-actions](https://github.com/amaurybsouza/my-github-actions) 
 - Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) (IaC on Azure Platform)
