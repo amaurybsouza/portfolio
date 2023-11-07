@@ -6,13 +6,13 @@ I am deeply knowledgeable in leveraging IaC practices and tools to automate and 
 
 ## Career Highlights🚀
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
+  - Graduated in Tech at [Fatec](https://fatec.edu.br/), currently post-graduating in Solution Architecture at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx).
   - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
   - Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023!
-  - Graduated in Tech at [Fatec](https://fatec.edu.br/), currently post-graduating in Solution Architecture at [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx).
-  - I keep a [newsletter](https://amauryborgessouza.substack.com/) filled with awesome DevOps stuff at Substack. Subscribed to learn more!
+  - I keep a [newsletter](https://amauryborgessouza.substack.com/) filled with awesome DevOps stuff at Substack. Subscribe to learn more!
   - If you enjoy read tech contents make sure you have checked my [Medium portal](https://amaurybsouza.medium.com/) articles and posts.
-  - Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
-  - I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
+  - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DevOps Days", "AWS User Group Campinas".
+  - I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different tools and automations!
   
 ## DevOps Tools Stack💻🧰
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
