@@ -7,8 +7,8 @@ In addition to my hands-on experience with DevOps tools, I have a deep understan
 ## Career Milestones.
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in Solution Architecture at PUC Minas.
-  - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
-  - Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023!
+  - I was invited to participate into the AWS Community Builders program for next season 2023/2024.
+  - Recently I have been selected as a HashiCorp Ambassador within open source community for 2023!
   - I keep a [newsletter](https://amauryborgessouza.substack.com/) filled with awesome DevOps stuff at Substack. Subscribe to learn more!
   - If you enjoy read tech contents make sure you have checked my [Medium portal](https://amaurybsouza.medium.com/) articles and posts.
   - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DODs".
