@@ -1,6 +1,6 @@
 # Hi, I'm Amaury!👋
 
-Experienced {👨‍💻Lead/DevOps Engineer}, I currently work with SRE/DevOps & Infrastructure as Code (IaC) Engineering, I always try to learn about new tech, I speak portuguese and english (though is not my primary language). Profissional with +10 years of hands-on expertise in infrastructure, Cloud platforms, IaC (infra as code), implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes.
+Experienced {👨‍💻Lead/DevOps Engineer}, I currently work with SRE/DevOps & Infrastructure as Code (IaC) Engineering, I always try to learn about new tech, I speak portuguese and english (though is not my primary language). Profissional with +10 years of hands-on expertise in infrastructure, Cloud platforms, AWS/Azure, IaC (infra as code), implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. Also I have a strong background in Linux systems, such as Red Hat Linux, CentOS, Debian.
   
 I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, Shell Scripts. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability. Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
 
@@ -11,11 +11,11 @@ Welcome to my GitHub profile! Here, you'll find a collection of my personal proj
   - Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023!
   - I keep a [newsletter](https://amauryborgessouza.substack.com/) filled with awesome DevOps stuff at Substack. Subscribe to learn more!
   - If you enjoy read tech contents make sure you have checked my [Medium portal](https://amaurybsouza.medium.com/) articles and posts.
-  - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DevOps Days", "AWS User Group Campinas".
+  - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DODs".
   - I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different tools and automations!
   
-## DevOps Tools Stack💻🧰
-I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
+## DevOps Tools Stack🧰
+I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC tools like (Terraform), Ansible, Docker, Kubernetes and Cloud platforms like AWS/Azure.
   
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -41,16 +41,6 @@ I’ve kept myself updated and embraced the DevOps culture & tools, working with
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-## Tech newsletter!🗞️📰
-Subscribe to my newsletter👉 (DevOps Tech News🗞️📰). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
-- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa).
-- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar).
-- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa).
-- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo).
-- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio).
-- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para).
-- Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque).
-
 ## Medium posts!📚
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Aug 17, 2023: [Fui aceito no programa AWS Community Builders!](https://amaurybsouza.medium.com/fui-aceito-no-programa-aws-community-builders-76cc28b735f8)
@@ -60,6 +50,16 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
 - May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
 - Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
+
+## Tech newsletter!🗞️
+Subscribe to my newsletter👉 (DevOps Tech News🗞️📰). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
+- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa).
+- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar).
+- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa).
+- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo).
+- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio).
+- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para).
+- Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque).
   
 ## Open-source contributions:octocat:
 I have several of my personal projects in GitHub, approaching different tools and approches like Linux, Terraform, Ansible, K8s, Devops, GitOps. Feel free to help me collaborating with this projects
