@@ -61,7 +61,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 
 ### Recent Open-Source Projects
-I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
+I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/) approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
 - GitHub Project: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*).
 - GitHub Project: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps, constantly updating*).
