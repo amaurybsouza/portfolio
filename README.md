@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, you'll find a collection of my personal projects 
   - Working as a Lead/DevOps Engineer at [Kyndryl](https://www.kyndryl.com/us/en) (world's largest provider of IT infrastructure).
   - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
   - Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
-  - Invited by Gabriel & Paula to participate to [Codecon Digital 2023!](https://www.codecon.dev/)
+  - Invited by Gabriel & Paula to participate to [Codecon Digital 2023!](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon)
   - I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
   - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
   - Giving back to the community, I'm a [organizer/member](https://www.meetup.com/pt-BR/awscampinas/) tech related events “CoffeeOps”, "DODs".
