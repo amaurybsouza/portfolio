@@ -63,6 +63,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 ### Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
+- GitHub Project: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*).
 - GitHub Project: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps, constantly updating*).
 - GitHub Project: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
 - GitHub Project: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam) (*practice your skills about terraform exam*).
@@ -72,17 +73,11 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
 - {#!Bash Script}: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) (*updating/installing the packages using case function*).
 - Viva o Linux Article: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/).
-- Set 10, 2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure) (IaC on Azure Platform)
-- Jun 06, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary)
-- Jul 01, 2022: [devops cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet) (constantly updating).
-- May 22, 2022: [kubernetes-in-prod](https://github.com/Kubernetes-Tutorialz/kubernetes-in-prod) 
-- May 10, 2022: [terraform-import-aws-s3](https://github.com/Terraform-Tutorials/terraform-import-aws-s3)
-- Apr 14, 2022: [terraform-aws-ec2-ansible-deploy](https://github.com/Terraform-Tutorials/terraform-aws-ec2-ansible-deploy)
-- Apr 20, 2022: [terraform-local-exec-outputting](https://github.com/Terraform-Tutorials/terraform-local-exec-outputting)
-- Dec 10, 2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*)
+- Viva o Linux Article: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/).
+- Viva o Linux Article: [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/).
 
 ### Tech Newsletter
-Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps | CNCF Solutions | Terraform | Conferences | Kubecon | Ansible | k8s.
+Subscribe to my newsletter (DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
 - Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
 - Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar) #24
 - Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa) #23
