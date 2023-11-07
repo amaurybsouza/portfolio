@@ -77,6 +77,7 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - Viva o Linux Article: [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/).
 - Speakerdeck Talks: [Terraform Talk](https://speakerdeck.com/amaurybsouza/terraform-talk) (*presentation covering a deep dive into Terraform IaC tool*).
 - Speakerdeck Talks: [Ansible Talk ](https://speakerdeck.com/amaurybsouza/ansible-talk) (*presentation covering Red Hat Ansible automation tool*).
+- Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/)
 
 ### Tech Newsletter
 Subscribe to my newsletter (DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
