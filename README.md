@@ -1,20 +1,19 @@
 # Hi, I'm Amaury!👋
-I am a Lead/DevOps Engineer working remote from BR.  
-  
-Experienced {👨‍💻Lead/DevOps Engineer}, I currently work with DevOps & Infrastructure Engineering, I always try to learn about new tech, I speak portuguese and english (though is not my primary language). Profissional with +10 years of hands-on expertise in infrastructure, Cloud platforms, IaC (infra as code), implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes.
+
+Experienced {👨‍💻Lead/DevOps Engineer}, I currently work with SRE/DevOps & Infrastructure as Code (IaC) Engineering, I always try to learn about new tech, I speak portuguese and english (though is not my primary language). Profissional with +10 years of hands-on expertise in infrastructure, Cloud platforms, IaC (infra as code), implementing, and managing scalable and robust CI/CD pipelines. I possess a deep understanding of cloud infrastructure, automation, and configuration management tools, enabling me to streamline development workflows and accelerate software delivery. My strong background in containerization technologies, such as Docker and Kubernetes.
   
 I am deeply knowledgeable in leveraging IaC practices and tools to automate and streamline the provisioning and management of cloud resources. My expertise lies in designing and maintaining highly scalable and resilient infrastructures using industry-leading technologies like Terraform, Ansible, Shell Scripts. With a strong focus on infrastructure automation and configuration management, I have successfully reduced deployment times, enhanced scalability, and improved system stability. Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
 
 ## Career Highlights🚀
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
-  - ✔️I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
-  - 🏗️Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023!
+  - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
+  - Recently I have been selected as a [HashiCorp Ambassador](https://www.credly.com/badges/fa9fb10e-5ca6-45a4-87d1-d5c110d05f97) within open source community for 2023!
   - Graduated in Systems Analysis at [Fatec Americana](https://www.fatec.edu.br/) and currently post-graduating degree in Solution Architecture at PUC Minas.
-  - 📊Learning Solutions Architecture, expertise in IaC (Infrastructure as Code), LINUX operations and Cloud platforms (AWS/Azure). 
-  -  ℹ️ I keep a newsletter filled with awesome DevOps stuff at [DevOps Tech News](https://amauryborgessouza.substack.com/) and would love if you joined it!
-  - 📚 If you enjoy read tech contents make sure you have checked my [Medium Portal](https://amaurybsouza.medium.com/) articles, I always updating it.
-  - 📆 Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
-  - :octocat: I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
+  - Learning Solutions Architecture, expertise in IaC (Infrastructure as Code), LINUX operations and Cloud platforms (AWS/Azure). 
+  - I keep a newsletter filled with awesome DevOps stuff at [DevOps Tech News](https://amauryborgessouza.substack.com/) and would love if you joined it!
+  - If you enjoy read tech contents make sure you have checked my [Medium Portal](https://amaurybsouza.medium.com/) articles, I always updating it.
+  - Giving back to the community, I'm a organizer DevOps related events ([“DevOpsDays”](https://devopsdays.org/) & “CoffeeOps”).
+  - I have several of my personal projects on GitHub, approaching different tools like Linux, Terraform, Ansible, K8s.
   
 ## DevOps Tools Stack💻🧰
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC (Terraform), Ansible, Docker, Kubernetes, AWS.
