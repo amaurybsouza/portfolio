@@ -1,8 +1,6 @@
 # Hi, I'm Amaury!👋
 
-I am a seasoned {👨‍💻Lead/DevOps Engineer} with over 10 years of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies. I have extensive experience with Git for version control, GitLab for continuous integration and continuous delivery (CI/CD), Docker for containerization, and Kubernetes for container orchestration. I am also proficient in using Ansible for configuration management, application deployment, and task automation together Terraform for IaC (Infrastructure as Code).
-
-In addition to my hands-on experience with DevOps tools, I have a deep understanding of cloud infrastructure and have worked extensively with AWS/Azure platforms. I have successfully designed and implemented scalable and cost-effective cloud solutions, including compute, storage, networking, and security services. Furthermore, I have a strong background in Linux systems, including Red Hat Linux, CentOS, and Debian, and I am skilled in automating and managing these systems to ensure optimal performance and security. Although english is not my primary language, I'm advanced in both portuguese and english. Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_), I will appreciate.
+I am a seasoned {👨‍💻Lead/DevOps Engineer} with over 10 years of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like IBM, TechFor, NTL, Tecnoset and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge. I believe in the power of knowledge sharing and I am always looking for opportunities to share my expertise with others.
 
 ## Career Milestones.
 Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
@@ -12,7 +10,7 @@ Welcome to my GitHub profile! Here, you'll find a collection of my personal proj
   - I keep a [newsletter](https://amauryborgessouza.substack.com/) filled with awesome DevOps stuff at Substack. Subscribe to learn more!
   - If you enjoy read tech contents make sure you have checked my [Medium portal](https://amaurybsouza.medium.com/) articles and posts.
   - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DODs".
-  - I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), approaching different tools and automations!
+  - I have several of my personal projects on GitHub, approaching different tools and automations!
   
 ## SRE/DevOps Stack.
 I’ve kept myself updated and embraced the DevOps culture & tools, working with IaC tools like (Terraform), Ansible, Docker, Kubernetes and Cloud platforms like AWS/Azure.
