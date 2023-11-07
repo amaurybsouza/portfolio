@@ -1,6 +1,6 @@
-## Hi, I'm Amaury!👋
+## Hi, I'm Amaury!
 
-I am a experienced {👨‍💻Lead/DevOps Engineer} with over 10 years of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like IBM, TechFor, NTL, Tecnoset and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing & I am always looking for opportunities to share my expertise with others.
+I am a experienced {Lead/DevOps Engineer} with over 10 years of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like IBM, TechFor, NTL, Tecnoset and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing & I am always looking for opportunities to share my expertise with others.
 
 ### Career Milestones
 Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
@@ -65,7 +65,9 @@ Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryb
 - Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo) #22
 - Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio) #21
 - Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para) #20
-- Sep 10, 2023: [Prévia do meu artigo no Medium: "Porque eu uso Ansible e não Puppet, Chef, CFEngine e SaltStack"](https://amauryborgessouza.substack.com/p/previa-do-meu-artigo-no-medium-porque) #19
+- Apr 23, 2023: [Hashicorp Terraform passa de 3k de providers](https://amauryborgessouza.substack.com/p/hashicorp-terraform-passa-de-3k-de) #19
+- Apr 03, 2023: [O how-to oficial do Docker que ajuda demais](https://amauryborgessouza.substack.com/p/o-how-to-oficial-do-docker-que-ajuda) #18
+- Mar 23, 2023: [CI/CD com GitHub Actions](https://amauryborgessouza.substack.com/p/cicd-com-github-actions) #18
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
