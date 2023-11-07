@@ -1,12 +1,12 @@
-Hi, I'm Amaury! An experienced {Lead/DevOps Engineer} with over 10 years of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like **IBM**, **TechFor**, **NTL**, **Tecnoset** and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing & I am always looking for opportunities to share my expertise with others.
+Hi, I'm Amaury! An experienced {Lead/DevOps Engineer} with over 10 years, of experience in designing, implementing, and managing scalable and robust infrastructure solutions. My expertise includes working with a variety of DevOps tools, cloud platforms, and automation technologies to streamline development workflows and accelerate application delivery. I'm always eager to learn about new technologies and I've worked for companies like **IBM**, **TechFor**, **NTL**, **Tecnoset** and more. I studied Systems Analysis at Fatec Americana! I am passionate about continuous learning and I am always looking for opportunities to expand my skills and knowledge and I believe in the power of knowledge sharing & I am always looking for opportunities to share my expertise with others.
 
 ### Career Milestones
 Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in Solution Architecture at PUC Minas.
   - I was invited to participate into the AWS Community Builders program for next season 2023/2024.
   - Recently I have been selected as a HashiCorp Ambassador within open source community for 2023!
-  - I keep a [newsletter](https://amauryborgessouza.substack.com/) filled with awesome DevOps stuff at Substack. Subscribe to learn more!
-  - If you enjoy read tech contents make sure you have checked my [Medium portal](https://amaurybsouza.medium.com/) articles and posts.
+  - I keep a newsletter filled with awesome DevOps stuff at Substack. Subscribe to learn more!
+  - If you enjoy read tech contents make sure you have checked my Medium portal articles and posts.
   - Giving back to the community, I'm a organizer/member tech related events “CoffeeOps”, "DODs".
   - I have several of my personal projects on GitHub, approaching different tools and automations!
   
@@ -90,9 +90,7 @@ Subscribe to my newsletter👉(DevOps Tech News). A [newsletter](https://amauryb
 - Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 
 ### Previous work
-Previously, I have worked at IBM as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments.
-
-During my time at IBM, I have started and shipped some projects like:
+Previously, I have worked at IBM as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments. During my time at IBM, I have started and shipped some projects like:
 
 - GSI Tools (Implemeting the CI/CD environment using K8s, Docker, GitHub).
 - SRE@HCS (Sharing and learn the best practices around SRE world).
