@@ -60,6 +60,24 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 - Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 
+### Tech Newsletter
+Subscribe to my newsletter (DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
+- Nov 13, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-blog-da-aws-community) #26
+- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
+- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar) #24
+- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa) #23
+- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo) #22
+- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio) #21
+- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para) #20
+- Apr 23, 2023: [Hashicorp Terraform passa de 3k de providers](https://amauryborgessouza.substack.com/p/hashicorp-terraform-passa-de-3k-de) #19
+- Apr 03, 2023: [O how-to oficial do Docker que ajuda demais](https://amauryborgessouza.substack.com/p/o-how-to-oficial-do-docker-que-ajuda) #18
+- Mar 23, 2023: [CI/CD com GitHub Actions](https://amauryborgessouza.substack.com/p/cicd-com-github-actions) #18
+- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
+- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
+- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
+- Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
+- Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
+
 ### Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/) and other websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
@@ -78,24 +96,6 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - Speakerdeck Talks: [Terraform Talk](https://speakerdeck.com/amaurybsouza/terraform-talk) (*presentation covering a deep dive into Terraform IaC tool*).
 - Speakerdeck Talks: [Ansible Talk ](https://speakerdeck.com/amaurybsouza/ansible-talk) (*presentation covering Red Hat Ansible automation tool*).
 - Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
-
-### Tech Newsletter
-Subscribe to my newsletter (DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
-- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
-- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar) #24
-- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa) #23
-- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo) #22
-- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio) #21
-- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para) #20
-- Apr 23, 2023: [Hashicorp Terraform passa de 3k de providers](https://amauryborgessouza.substack.com/p/hashicorp-terraform-passa-de-3k-de) #19
-- Apr 03, 2023: [O how-to oficial do Docker que ajuda demais](https://amauryborgessouza.substack.com/p/o-how-to-oficial-do-docker-que-ajuda) #18
-- Mar 23, 2023: [CI/CD com GitHub Actions](https://amauryborgessouza.substack.com/p/cicd-com-github-actions) #18
-- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
-- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
-- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
-- Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
-- Oct 19, 2022: [Instale o Azure CLI via Ansible Playbook](https://www.getrevue.co/profile/amaurybsouza_/issues/instale-o-azure-cli-via-ansible-playbook-1409715) #14
-- Oct 15, 2022: [Bora para o DevOps Days Rio?](https://www.getrevue.co/profile/amaurybsouza_/issues/bora-para-o-devops-days-rio-1405712) #13
 
 ### Previous work
 Previously, I have worked at IBM as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments. During my time at IBM, I have started and shipped some projects like:
