@@ -3,7 +3,7 @@
 ### Career Milestones 2023
 Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of DevOps and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in Solution Architecture at PUC Minas.
-  - Working as a Lead/DevOps Engineer at [Kyndryl](https://www.kyndryl.com/us/en) (world's largest provider of IT infrastructure).
+  - Working as a {Lead/DevOps Engineer} (world's largest provider of IT infrastructure).
   - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
   - Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
   - Invited by Gabriel & Paula to participate at [Codecon Digital 2023!](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon) to talk about availability.
