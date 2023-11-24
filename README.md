@@ -1,4 +1,6 @@
-- Preparing the environment... >>>>>>>>> checked!
+- echo "Preparing the environment..." >>>>>>>>>>>>>>>>>>>> checked!
+- check if links and articles working fine! >>>>>>>>>>>>>> checked!
+- check if the certifications is described >>>>>>>>>>>>>>> checked!
    - Preparing the environment... >>>>>>>>> checked!
    - Preparing the environment... >>>>>>>>> checked!
 
