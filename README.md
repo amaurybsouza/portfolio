@@ -28,7 +28,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Aug 10, 2022: [Idioma: A importância do inglês no dia a dia de um DevOps Engineer](https://amaurybsouza.medium.com/idioma-a-import%C3%A2ncia-do-ingl%C3%AAs-no-dia-a-dia-de-um-devops-engineer-f94e6ab2dd0a)
 
 ### Tech Newsletter
-Subscribe to my newsletter (DevOps Tech News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
+Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
 - Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-blog-da-aws-community) #26
 - Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
