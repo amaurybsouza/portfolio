@@ -1,6 +1,9 @@
 - echo "Preparing the website environment"       >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> checked!✅		
 - echo "Check if the portfolio is inicialized"  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> checked!✅
 - echo "Run the equivalent of terraform apply" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> checked!✅
+- ...✅
+- ...✅
+- ...✅
   
 Hi, I'm Amaury! {SRE/DevOps Engineer} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) and cloud native. Welcome to my portfolio! Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b) and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
   - Graduated in Tech at Fatec, currently post-graduating in [Solutions Architecture](https://www.pucminas.br/PucVirtual/Pos-Graduacao/Paginas/Arquitetura-de-Solu%C3%A7%C3%B5es.aspx) at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx).
