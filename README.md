@@ -1,7 +1,7 @@
 - echo "Preparing the website environment"       >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> checked!✅		
 - echo "Check if the portfolio is inicialized"  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> checked!✅
 - echo "Run the equivalent of terraform apply" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> checked!✅
-- >>>>>>>>>>>>>>>>✅
+- ................✅
 - >>>>>>>>>>>>>>>>✅
 - ...✅
   
