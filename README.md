@@ -27,6 +27,19 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
+<details><summary><strong>IaC (Infrastructure as Code)</strong> - I have worked with Terraform🏗️, Ansible in creatives projects to automate the infrastructure.</summary><p>
+  
+I have cultivated expertise in the realm of Infrastructure as Code (IaC), demonstrating a profound understanding of orchestrating infrastructure deployment through code. Proficient in tools like Terraform, Ansible, and other IaC frameworks, I am dedicated to architecting robust and scalable infrastructures with precision and efficiency.
+
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-3670A0?style=for-the-badge&logo=markdown&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</p></details>
+
 ### My favorites DevOps Books
 I have wrote a [post](https://amaurybsouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe) last year on Medium about TOP 5 books for DevOps Engineers, if you want to join in this area, I recommend these books below:
 - Manual de DevOps 
