@@ -58,10 +58,6 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 
-### Hashicorp Ambassador Posts
-- Dec 02, 2023:  [Porque você deve conhecer o Terraform stacks](https://twitter.com/amaurybsouza_/status/1730974662320955873).
-- 
-
 ### Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/) and other websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
