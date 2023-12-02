@@ -47,9 +47,9 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 
 ### Check out my favorites DevOps Books
 I have wrote a post last year on Medium about TOP 5 books for DevOps Engineers, if you want to join in this area I recommend these books below:
-1- Manual de DevOps 
-2- DevOps para Leigos
-3- O Projeto Fenix
+- Manual de DevOps 
+- DevOps para Leigos
+- O Projeto Fenix
 
 ### Hashicorp Ambassador Posts
 - Dec 02, 2023:  [Porque você deve conhecer o Terraform stacks](https://twitter.com/amaurybsouza_/status/1730974662320955873).
