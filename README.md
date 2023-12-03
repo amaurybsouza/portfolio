@@ -1,6 +1,5 @@
-I'm DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) and cloud native. Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b) and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
++11y of xp working on Banks, Govt & Consulting companies making impactful contributions. I'm DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) and cloud native. 
 - Bachelor degree (Fatec-Am), currently post-graduating in Solutions Architecture at PUC Minas.
-- +11y of xp working on Banks, Govt & Consulting companies making impactful contributions.
 - I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
 - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
 - Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
