@@ -31,9 +31,9 @@ I have made it my mission to share my entire DevOps learning journey across the 
 I have wrote a [post](https://amaurybsouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe) last year on Medium about TOP 5 books for DevOps Engineers, if you want to join in this area, I recommend these books below:
 - Manual de DevOps (*Gene Kim, 2018*)
 - DevOps para Leigos (*Emily Freeman, 2023*)
-- Python for DevOps
-- O Projeto Fenix
-- Ansible for DevOps
+- Python for DevOps (*Noah Gift, 2020*)
+- O Projeto Fenix (*Gene kim, 2020*)
+- Ansible for DevOps (*Jeff Geerling, 2020*)
 - Becoming a Rockstar SRE
 - Microsserviços Prontos para a Produção
 - Engenharia de Confiabilidade do Google
