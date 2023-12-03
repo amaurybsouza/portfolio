@@ -34,11 +34,11 @@ I have wrote a [post](https://amaurybsouza.medium.com/conhe%C3%A7a-5-livros-sobr
 - Python for DevOps (*Noah Gift, 2020*)
 - O Projeto Fenix (*Gene kim, 2020*)
 - Ansible for DevOps (*Jeff Geerling, 2020*)
-- Becoming a Rockstar SRE
-- Microsserviços Prontos para a Produção
-- Engenharia de Confiabilidade do Google
-- Engineers, Survival Guide
-- Kubernetes Up & Running
+- Becoming a Rockstar SRE (*Jeremy Proffitt, 2023*)
+- Microsserviços Prontos para a Produção (*Susam J.Fowler, 2017*)
+- Engenharia de Confiabilidade do Google (*Betsy Beyer, 2016*)
+- Engineers, Survival Guide (*Merit Taze, 2021*)
+- Kubernetes Up & Running (*Brendam Burns, 2022*)
 
 ### Tech Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
