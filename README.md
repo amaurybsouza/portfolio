@@ -1,4 +1,19 @@
 I'm DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) and cloud native. Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b) and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
+
+- +11y xp in Bank, Govt & Consulting  
+- Bachelor in Systems Analysis  
+- Solutions Architecture Specialist  
+- Linux/Terraform/AWS/Azure certified  
+- AWS Community Builder 2023/2024 
+- Hashicorp Ambassador 2023/2024
+- Tech Writer at Medium/Substack
+- LinkedIn Creator Posts/News
+
+
+
+
+
+
   - Bachelor degree (Fatec-Am), currently post-graduating in Solutions Architecture at PUC Minas.
   - I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
   - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
