@@ -1,28 +1,14 @@
 I'm DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, infrastructure as code (IaC) and cloud native. Here, you'll find a collection of my personal projects and contributions that revolve around the fascinating world of [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b) and open source technologies. I'm thrilled to share my knowledge and experiences with fellow developers, enthusiasts, and learners like yourself.
-
-- +11y xp in Bank, Govt & Consulting  
-- Bachelor in Systems Analysis  
-- Solutions Architecture Specialist  
-- Linux/Terraform/AWS/Azure certified  
-- AWS Community Builder 2023/2024 
-- Hashicorp Ambassador 2023/2024
-- Tech Writer at Medium/Substack
-- LinkedIn Creator Posts/News
-
-
-
-
-
-
-  - Bachelor degree (Fatec-Am), currently post-graduating in Solutions Architecture at PUC Minas.
-  - I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
-  - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
-  - Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
-  - Invited by Gabriel & Paula to participate at [Codecon Digital 2023!](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon) to talk about availability.
-  - I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
-  - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
-  - Giving back to the community, I'm a [organizer/member](https://www.meetup.com/pt-BR/awscampinas/) tech related events “CoffeeOps”, "DODs".
-  - I have several of my personal projects on GitHub, approaching different tools and automations!
+- Bachelor degree (Fatec-Am), currently post-graduating in Solutions Architecture at PUC Minas.
+- +11y of xp working on Banks, Govt & Consulting companies making impactful contributions.
+- I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
+- I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
+- Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
+- Invited by Gabriel & Paula to participate at [Codecon Digital 2023!](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon) to talk about availability.
+- I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
+- If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
+- Giving back to the community, I'm a [organizer/member](https://www.meetup.com/pt-BR/awscampinas/) tech related events “CoffeeOps”, "DODs".
+- I have several of my personal projects on GitHub, approaching different tools and automations!
 
 ### Latest Medium Posts
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
