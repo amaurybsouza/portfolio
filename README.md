@@ -6,7 +6,7 @@
 - Invited by Gabriel & Paula to participate at [Codecon Digital 2023!](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon) to talk about availability.
 - I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
 - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
-- Giving back to the community, I'm a [organizer/member](https://www.meetup.com/pt-BR/awscampinas/) tech related events “AWS User Groups”, "DODs".
+- Giving back to the community, I'm a (organizer/member) of tech related events “AWS User Groups”, "DODs".
 - I have several of my personal projects on GitHub, approaching different tools and automations!
 
 ### Latest Medium Posts
