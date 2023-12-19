@@ -1,5 +1,7 @@
-## Career Highlights
+## Tech Career
 11yoe working on Banks (SunTrust Banks Inc., Bradesco S/A), Consulting (IBM, Kyndryl, TechFor, Govt.) companies making impactful contributions. I'm SRE/DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b), [infrastructure as code (IaC)](https://amaurybsouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3) and [cloud native](https://amaurybsouza.medium.com/primeiros-passos-com-helm-no-kubernetes-714ae017c685). 
+
+#### Highlights
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
 - I came from Ops side; I worked exclusive with [Linux](https://www.credly.com/badges/beb29090-26bb-4f61-b200-40ff75ae2618/public_url) systems and based infrastructures on-premisses.
 - I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
