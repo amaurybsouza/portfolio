@@ -2,6 +2,7 @@
 11yoe working on Banks (SunTrust Banks Inc., Bradesco S/A), Consulting (IBM, Kyndryl, TechFor, Govt.) companies making impactful contributions. I'm SRE/DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b), [infrastructure as code (IaC)](https://amaurybsouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3) and [cloud native](https://amaurybsouza.medium.com/primeiros-passos-com-helm-no-kubernetes-714ae017c685). 
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
 - I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
+- Lifelong Learner with eyes in Cloud platforms like AWS, Azure where I was able to pass the exams.
 - I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
 - Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
 - Invited by Gabriel & Paula to participate at [Codecon Digital 2023!](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon) to talk about availability.
