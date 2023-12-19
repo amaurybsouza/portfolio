@@ -80,7 +80,7 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 ## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
 
-Check out some of my responsabilities for daily basis as DevOps Engineer:
+Check out some of my responsabilities:
 - Champion the use of IaC tools (e.g., Terraform, Ansible) to automate the provisioning and configuration of infrastructure, ensuring consistency and scalability.
 - Develop and maintain automation scripts and tools to streamline repetitive tasks and optimize workflows, enhancing efficiency and reducing manual intervention.
 - Conduct training sessions to share DevOps practices and tools within the team, fostering a culture of continuous learning.
@@ -89,7 +89,7 @@ Check out some of my responsabilities for daily basis as DevOps Engineer:
 - Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
 - Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
 
-Stack DevOps🧰
+#### Stack DevOps🧰
 - Bamboo
 - Jira
 - Confluence
@@ -102,7 +102,7 @@ Stack DevOps🧰
 - GitHub
 - ServiceNow
 
-Competências: DevOps · Linux Systems · Ansible · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery.
+Competências: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
 
 ## Contact
 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
