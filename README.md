@@ -81,28 +81,28 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 Experienced DevOps♾️ specialist focused on cloud☁️ automations working on Bradesco bank making impactful contributions. I’m DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, DevOps, infrastructure as code (IaC) and cloud native. 
 
 Check out some of my responsabilities for daily basis as DevOps🚀
-• Champion the use of IaC tools (e.g., Terraform, Ansible) to automate the provisioning and configuration of infrastructure, ensuring consistency and scalability.
-• Develop and maintain automation scripts and tools to streamline repetitive tasks and optimize workflows, enhancing efficiency and reducing manual intervention.
-• Conduct training sessions to share DevOps practices and tools within the team, fostering a culture of continuous learning.
-• Experienced in cloud technologies such as AWS, Azure, as well as containerization technologies such as Docker and Kubernetes. 
-• Skilled in scripting languages such as "YAML", Bash, Markdown, with expertise in version control systems (GIT).
-• Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
-• Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
+- Champion the use of IaC tools (e.g., Terraform, Ansible) to automate the provisioning and configuration of infrastructure, ensuring consistency and scalability.
+- Develop and maintain automation scripts and tools to streamline repetitive tasks and optimize workflows, enhancing efficiency and reducing manual intervention.
+- Conduct training sessions to share DevOps practices and tools within the team, fostering a culture of continuous learning.
+- Experienced in cloud technologies such as AWS, Azure, as well as containerization technologies such as Docker and Kubernetes. 
+- Skilled in scripting languages such as "YAML", Bash, Markdown, with expertise in version control systems (GIT).
+- Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
+- Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
 
 Stack DevOps🧰
-• Bamboo
-• Jira
-• Confluence
-• Teams
-• Docker
-• Terraform
-• Azure DevOps
-• GitHub
-• GitHub Actions
-• Ansible
-• ServiceNow
-• IKS (IBM Kubernetes Service)
-• Openshift
+- Bamboo
+- Jira
+- Confluence
+- Teams
+- Docker
+- Terraform
+- Azure DevOps
+- GitHub
+- GitHub Actions
+- Ansible
+- ServiceNow
+- IKS (IBM Kubernetes Service)
+- Openshift
 
 Competências: Bash · Automation · Amazon Web Services · Engenharia de Software · Computação em nuvem · Terraform
 
