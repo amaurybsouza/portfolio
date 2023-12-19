@@ -78,6 +78,34 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
 
 ### Previous work
+Experienced DevOps♾️ specialist focused on cloud☁️ automations working on Bradesco bank making impactful contributions. I’m DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, DevOps, infrastructure as code (IaC) and cloud native. 
+
+Check out some of my responsabilities for daily basis as DevOps🚀
+• Champion the use of IaC tools (e.g., Terraform, Ansible) to automate the provisioning and configuration of infrastructure, ensuring consistency and scalability.
+• Develop and maintain automation scripts and tools to streamline repetitive tasks and optimize workflows, enhancing efficiency and reducing manual intervention.
+• Conduct training sessions to share DevOps practices and tools within the team, fostering a culture of continuous learning.
+• Experienced in cloud technologies such as AWS, Azure, as well as containerization technologies such as Docker and Kubernetes. 
+• Skilled in scripting languages such as "YAML", Bash, Markdown, with expertise in version control systems (GIT).
+• Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
+• Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
+
+Stack DevOps🧰
+• Bamboo
+• Jira
+• Confluence
+• Teams
+• Docker
+• Terraform
+• Azure DevOps
+• GitHub
+• GitHub Actions
+• Ansible
+• ServiceNow
+• IKS (IBM Kubernetes Service)
+• Openshift
+
+Competências: Bash · Automation · Amazon Web Services · Engenharia de Software · Computação em nuvem · Terraform
+
 Previously, I have worked at IBM as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments. During my time at IBM, I have started and shipped some projects like:
 
 - GSI Tools (Implemeting the CI/CD environment using K8s, Docker, GitHub).
