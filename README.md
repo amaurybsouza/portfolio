@@ -27,20 +27,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
-## My favorites DevOps Books
-I have wrote a [post](https://amaurybsouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe) last year on Medium about TOP 5 books for DevOps Engineers, if you want to join in this area, I recommend these books below:
-- Manual de DevOps (*Gene Kim, 2018*)
-- DevOps para Leigos (*Emily Freeman, 2023*)
-- Python for DevOps (*Noah Gift, 2020*)
-- O Projeto Fenix (*Gene kim, 2020*)
-- Ansible for DevOps (*Jeff Geerling, 2020*)
-- Becoming a Rockstar SRE (*Jeremy Proffitt, 2023*)
-- Microsserviços Prontos para a Produção (*Susam J.Fowler, 2017*)
-- Engenharia de Confiabilidade do Google (*Betsy Beyer, 2016*)
-- Engineers, Survival Guide (*Merit Taze, 2021*)
-- Kubernetes Up & Running (*Brendam Burns, 2022*)
-
-## Tech Newsletter
+## DevOps Weekly Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
 - Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-blog-da-aws-community) #26
@@ -89,7 +76,7 @@ Check out some of my responsabilities:
 - Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
 - Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
 
-#### Stack DevOps🧰
+Stack DevOps🧰
 - Bamboo
 - Jira
 - Confluence
