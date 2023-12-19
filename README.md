@@ -78,7 +78,7 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
 
 ### Previous work
-Experienced DevOps♾️ specialist focused on cloud☁️ automations working on Bradesco bank making impactful contributions. I’m DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, DevOps, infrastructure as code (IaC) and cloud native. 
+I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
 
 Check out some of my responsabilities for daily basis as DevOps🚀
 - Champion the use of IaC tools (e.g., Terraform, Ansible) to automate the provisioning and configuration of infrastructure, ensuring consistency and scalability.
@@ -96,24 +96,13 @@ Stack DevOps🧰
 - Teams
 - Docker
 - Terraform
+- Ansible
+- Bash Scripting
 - Azure DevOps
 - GitHub
-- GitHub Actions
-- Ansible
 - ServiceNow
-- IKS (IBM Kubernetes Service)
-- Openshift
 
-Competências: Bash · Automation · Amazon Web Services · Engenharia de Software · Computação em nuvem · Terraform
-
-Previously, I have worked at IBM as a Senior Linux Systems Administrator, improving the IT infrastructure and services for our customers by using advanced DevOps tools setting up infrastructure tools (i.e. Ansible, Kubernetes, Docker, Git, Dockerfiles, Linux, Shell Script), creating and maintaining IT documentation and other assets on several environments. During my time at IBM, I have started and shipped some projects like:
-
-- GSI Tools (Implemeting the CI/CD environment using K8s, Docker, GitHub).
-- SRE@HCS (Sharing and learn the best practices around SRE world).
-- Ansible Automation (Applying Ansible playbooks and roles to improve other accounts, teams).
-- HCS@Talks (Sharing and fomenting the knowledge about DevOps tools, i.e. Ansible, Kubernetes, Docker).
-- Centrify Upgrade (Using Ansible to automate all the steps to upgrade Centrify on the environments).
-- KT IBM (Transfer knowledge process to get from USA teams the hard work about Linux).
+Competências: Red Hat Linux · Ansible · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management
 
 ### Contact
 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
