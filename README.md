@@ -9,7 +9,7 @@
 - Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
 - I have several of my personal projects on GitHub, approaching different tools and automations!
 
-### Latest Medium Posts
+## Latest Medium Posts
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24).
 - Oct 30, 2023: [Containers: Como funcionam? E porque usar na AWS pode ajudar!](https://amaurybsouza.medium.com/containers-como-funcionam-e-porque-usar-na-aws-pode-ajudar-2476737e01d7).
@@ -27,7 +27,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
-### My favorites DevOps Books
+## My favorites DevOps Books
 I have wrote a [post](https://amaurybsouza.medium.com/conhe%C3%A7a-5-livros-sobre-a-cultura-devops-que-todo-entusiasta-precisa-ler-4d47ddfba9fe) last year on Medium about TOP 5 books for DevOps Engineers, if you want to join in this area, I recommend these books below:
 - Manual de DevOps (*Gene Kim, 2018*)
 - DevOps para Leigos (*Emily Freeman, 2023*)
@@ -40,7 +40,7 @@ I have wrote a [post](https://amaurybsouza.medium.com/conhe%C3%A7a-5-livros-sobr
 - Engineers, Survival Guide (*Merit Taze, 2021*)
 - Kubernetes Up & Running (*Brendam Burns, 2022*)
 
-### Tech Newsletter
+## Tech Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
 - Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-blog-da-aws-community) #26
@@ -58,7 +58,7 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 
-### Recent Open-Source Projects
+## Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/) and other websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 
 - GitHub Project: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*).
@@ -77,7 +77,7 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - Speakerdeck Talks: [Ansible Talk ](https://speakerdeck.com/amaurybsouza/ansible-talk) (*presentation covering Red Hat Ansible automation tool*).
 - Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
 
-## Previous work
+## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
 
 Check out some of my responsabilities for daily basis as DevOps Engineer:
@@ -104,8 +104,8 @@ Stack DevOps🧰
 
 Competências: DevOps · Linux Systems · Ansible · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery.
 
-### Contact
+## Contact
 Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
 
-### Support
+## Support
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.  
