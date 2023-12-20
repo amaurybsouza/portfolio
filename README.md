@@ -47,7 +47,8 @@ A curated list of learning resources for Linux enthusiasts, DevOps learners. Che
 - Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (*playbook used to install Docker on EC2 using YML files*).
 - Created oct/2022: [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown readme.md ansible steps documentation*).
 - Created sep/2022: [nginx-docker-image](https://github.com/Docker-Tutorialz/nginx-docker-image); (*brief way to build and push a Docker image on Dockerhub*).
-- Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (*basic Kubernetes environment to play into your containers*).
+- Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (*basic Kubernetes environment to play into your envr.*).
+- Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (*basic Helm Chart using NGINX webserver deployments & services*).
 
 ## DevOps Weekly Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
