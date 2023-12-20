@@ -50,9 +50,13 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 
+## TOP GitHub Projects
+A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
+- GitHub Project: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*).
+- GitHub Project: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
+
 ## Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
-
 - GitHub Project: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*).
 - GitHub Project: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps, constantly updating*).
 - GitHub Project: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
