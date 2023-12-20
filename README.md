@@ -58,7 +58,8 @@ A curated list of learning resources for Linux enthusiasts, DevOps learners. Che
 - PR recently opened: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts); (*exercises about various technical topics*).
 - Created in jan/2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam); (*practice Terraform exam questions*).
 - Created in jan/2021: [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2); (*A brief way to provision an EC2 instance on AWS Cloud*).
-- Created in nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (*create a Terraform configuration to deploy on Azure Cloud*).
+- Created in nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (*create a Terraform configuration to deploy on Azure*).
+- Created in mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (*allows you to automate vms azure*).
 
 ## Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
