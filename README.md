@@ -61,6 +61,7 @@ A curated list of learning resources for Linux enthusiasts, DevOps learners. Che
 - Created in nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (*create a Terraform configuration to deploy on Azure*).
 - Created in mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (*allows you to automate vms azure*).
 - Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (*ansible ad hoc command uses to automate the configurations*).
+- Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (*playbook used to install Docker on EC2 using YML files*).
 
 ## Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
