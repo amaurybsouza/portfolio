@@ -48,7 +48,7 @@ A curated list of learning resources for Linux enthusiasts, DevOps learners. Che
 - Created oct/2022: [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown readme.md ansible steps documentation*).
 - Created sep/2022: [nginx-docker-image](https://github.com/Docker-Tutorialz/nginx-docker-image); (*brief way to build and push a Docker image on Dockerhub*).
 - Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (*basic Kubernetes environment to play into your envr.*).
-- Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (*basic Helm Chart using NGINX webserver deployments & services*).
+- Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (*basic Helm Chart using NGINX webserver on K8S*).
 
 ## DevOps Weekly Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
@@ -117,7 +117,7 @@ Stack DevOps🧰
 Competências: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
 
 ## Contact
-Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
+My name is Amaury (he/his/him) currently working remote at Kyndryl! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm an Ops since 2013! Also, I love to sharing, teach and learn everthing! Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
 
 ## Support
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.  
