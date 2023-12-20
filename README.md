@@ -32,6 +32,20 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
+## GitHub DevOps Projects
+A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
+- Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
+- Created nov/2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (*a bit automation with AWS, Terraform and Ansible tools*).
+- Created jan/2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (*integrate OTRS 6 ticket systems with Zabbix*).
+- PR recently opened: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts); (*exercises about various technical topics*).
+- Created jan/2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam); (*practice Terraform exam questions*).
+- Created jan/2021: [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2); (*a brief way to provision an EC2 instance on AWS Cloud*).
+- Created nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (*create a Terraform configuration to deploy on Azure*).
+- Created mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (*allows you to automate vms azure*).
+- Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (*ansible ad hoc command uses to automate the configurations*).
+- Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (*playbook used to install Docker on EC2 using YML files*).
+- Created oct/2022:[ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown ansible steps documentation*).
+
 ## DevOps Weekly Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
 - Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
@@ -49,19 +63,6 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
-
-## GitHub DevOps Projects
-A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
-- Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
-- Created in nov/2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (*a bit automation with AWS, Terraform and Ansible tools*).
-- Created in jan/2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (*integrate OTRS 6 ticket systems with Zabbix*).
-- PR recently opened: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts); (*exercises about various technical topics*).
-- Created in jan/2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam); (*practice Terraform exam questions*).
-- Created in jan/2021: [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2); (*a brief way to provision an EC2 instance on AWS Cloud*).
-- Created in nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (*create a Terraform configuration to deploy on Azure*).
-- Created in mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (*allows you to automate vms azure*).
-- Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (*ansible ad hoc command uses to automate the configurations*).
-- Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (*playbook used to install Docker on EC2 using YML files*).
 
 ## Recent Open-Source Projects
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
