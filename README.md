@@ -35,7 +35,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 ## GitHub DevOps Projects
 A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
-- Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (*DevOps glossary helps you with DevOps tools descriptions*).
+- Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (*devops glossary helps you with DevOps tools descriptions*).
 - Created nov/2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (*a bit automation with AWS, Terraform and Ansible tools*).
 - Created jan/2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (*integrate OTRS 6 ticket systems with Zabbix*).
 - PR recently opened: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts); (*exercises about various technical topics*).
@@ -45,8 +45,9 @@ A curated list of learning resources for Linux enthusiasts, DevOps learners. Che
 - Created mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (*allows you to automate vms azure*).
 - Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (*ansible ad hoc command uses to automate the configurations*).
 - Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (*playbook used to install Docker on EC2 using YML files*).
-- Created oct/2022:[ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown readme.md ansible steps documentation*).
+- Created oct/2022: [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown readme.md ansible steps documentation*).
 - Created sep/2022: [nginx-docker-image](https://github.com/Docker-Tutorialz/nginx-docker-image); (*brief way to build and push a Docker image on Dockerhub*).
+- Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (*basic Kubernetes environment to play into your containers*).
 
 ## DevOps Weekly Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
