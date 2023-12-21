@@ -71,7 +71,8 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 ## Recent Community Contributions
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 - AWS U.G. Campinas: [Criando seu HomeLab de estudos na AWS com Terraform e Ansible](https://www.meetup.com/awscampinas/events/297528444/).
-- YouTube Participation: [[PT-BR] Value Stream #engineeringsessions #s02e08](https://www.youtube.com/watch?v=bClFiZ9IAC0&t=413s&ab_channel=CarlosNogueira%28DevOps%29).
+- YouTube Participation: [[PT-BR] Value Stream #engineeringsessions #s02e08](https://www.youtube.com/watch?v=bClFiZ9IAC0&t=413s&ab_channel=CarlosNogueira%28DevOps%29); (*YouTube Channel*).
+- Codecon 2023: [Dia 2 - Codecon Digital 2023 Ao vivo - Sala 2](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon).
 - {#!Bash Script}: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) (*bash script to ensure a backup*).
 - {#!Bash Script}: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) (*managing the firewalld service*).
 - {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
