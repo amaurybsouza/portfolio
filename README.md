@@ -33,7 +33,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
 ## Recent Community Contributions
-I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
+I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [LHC](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
 - LHC Campinas: [Iniciativas 2024 para o Laboratório Hacker de Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal); (*Initiatives for 2024*).
 - AWS U.G. Campinas: [Criando seu HomeLab de estudos na AWS com Terraform e Ansible](https://www.meetup.com/awscampinas/events/297528444/); (*Meetup*).
 - YouTube Participation: [[PT-BR] Value Stream #engineeringsessions #s02e08](https://www.youtube.com/watch?v=bClFiZ9IAC0&t=413s&ab_channel=CarlosNogueira%28DevOps%29); (*YouTube Channel*).
