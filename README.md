@@ -68,13 +68,9 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
 - Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 
-## Recent Open-Source Projects
+## Recent Community Contributions
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
-- GitHub Project: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating) (*Integrate OTRS 6 ticket systems with Zabbix*).
-- GitHub Project: [trilha-info](https://trilha.info/) (*Explore and learn more with tech roadmaps, constantly updating*).
-- GitHub Project: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts) (*questions and exercises on various technical topics*).
-- GitHub Project: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam) (*practice your skills about terraform exam*).
-- GitHub Project: [eventos-tech-brasil](https://github.com/Abacatinhos/eventos-tech-brasil) (*keep aware with all conferences and meetups, updating*).
+- AWS U.G. Campinas: [Criando seu HomeLab de estudos na AWS com Terraform e Ansible](https://www.meetup.com/awscampinas/events/297528444/).
 - {#!Bash Script}: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) (*bash script to ensure a backup*).
 - {#!Bash Script}: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) (*managing the firewalld service*).
 - {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
