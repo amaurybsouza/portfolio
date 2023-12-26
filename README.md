@@ -50,7 +50,9 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
 
 ## LinkedIn Learning Certificates
-- Nov 29, 2023: [AWS Certified Solutions Architect - (SAA-C03) Cert Prep: 4 Compute Services](https://www.linkedin.com/learning/certificates/d1a33a26579730fba65e12f28705836ae4dc989db6305ac3874314704ea6057e)
+- Nov 29, 2023: [AWS Certified Solutions Architect - (SAA-C03) - Compute Services](https://www.linkedin.com/learning/certificates/d1a33a26579730fba65e12f28705836ae4dc989db6305ac3874314704ea6057e).
+- Jul 19, 2022: [AWS Certified Solutions Architect - (SAA-C03) - Cloud Services Overview](https://www.linkedin.com/learning/certificates/af15b699dfcc137358af8fb9884eed58f4e4967a69c1017706a4e7aa8e3522cd)
+- Dev 07, 2022: [Learning Terraform](https://www.linkedin.com/learning/certificates/26d46a806ee95779a3a985178288970fdf49ce18b76f80f42a93f827829c6c33).
 
 ## GitHub DevOps Projects
 A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
