@@ -4,7 +4,7 @@
 #### Highlights
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
 - I came from Ops side; I worked exclusive with [Linux](https://www.credly.com/badges/beb29090-26bb-4f61-b200-40ff75ae2618/public_url) systems and based on-premisses infrastructures.
-- Check out my contributions at GitHub, this year I was named as [Top GitHub users by public contributions in Brazil](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md).
+- Check out my contributions at GitHub, this year I was named as [Top GitHub users in Brazil](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md).
 - I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
 - Lifelong Learner with eyes in Cloud platforms like [AWS](https://www.credly.com/badges/ebc6486c-baa6-4bd3-a872-f13916afd82e/public_url)/[Azure](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965/public_url) where I was able to pass the exams.
 - Backing to the open-source projects, you can sponsor my work through [GitHub Sponsors](https://github.com/sponsors/amaurybsouza).
