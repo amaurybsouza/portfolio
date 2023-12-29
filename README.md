@@ -50,12 +50,6 @@ I have several of my personal projects on [GitHub](https://github.com/amaurybsou
 - Speakerdeck Talks: [Ansible Talk ](https://speakerdeck.com/amaurybsouza/ansible-talk) (*presentation covering Red Hat Ansible automation tool*).
 - Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
 
-## LinkedIn Learning Certificates
-- Nov 29, 2023: [AWS Certified Solutions Architect - (SAA-C03) - Compute Services](https://www.linkedin.com/learning/certificates/d1a33a26579730fba65e12f28705836ae4dc989db6305ac3874314704ea6057e).
-- Jul 19, 2023: [AWS Certified Solutions Architect - (SAA-C03) - Cloud Services Overview](https://www.linkedin.com/learning/certificates/af15b699dfcc137358af8fb9884eed58f4e4967a69c1017706a4e7aa8e3522cd).
-- Jan 26, 2023: [Creating a Dev environment in AWS with Terraform](https://www.linkedin.com/learning/certificates/a61183833babe64e094b64833afcd5f7b21b47d935fef00954b3987e580d4061).
-- Dev 07, 2022: [Learning Terraform](https://www.linkedin.com/learning/certificates/26d46a806ee95779a3a985178288970fdf49ce18b76f80f42a93f827829c6c33).
-
 ## GitHub DevOps Projects
 A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
