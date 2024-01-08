@@ -70,6 +70,8 @@ A curated list of learning resources for Linux enthusiasts, DevOps learners. Che
 
 ## DevOps Weekly Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
+- Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
+- Jan 08, 2024: [Hashicorp Ambassador 2024](https://amauryborgessouza.substack.com/p/hashicorp-ambassador-2024) #28
 - Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-blog-da-aws-community) #26
 - Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
@@ -83,8 +85,6 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Mar 23, 2023: [CI/CD com GitHub Actions](https://amauryborgessouza.substack.com/p/cicd-com-github-actions) #18
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
-- Oct 30, 2022: [Já conhece o Kind? Tenha o Kubernetes localmente na sua maquineta](https://amauryborgessouza.substack.com/p/ja-conhece-o-kind-tenha-o-kubernetes-22-10-30) #16
-- Oct 22, 2022: [A stack que eu uso como DevOps Engineer](https://www.getrevue.co/profile/amaurybsouza_/issues/a-stack-que-eu-uso-como-devops-engineer-1416040) #15
 
 ## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
