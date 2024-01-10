@@ -98,7 +98,7 @@ Responsabilities:
 - Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
 - Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
 
-Stack DevOps🧰
+Stack DevOps:
 - Bamboo
 - Jira
 - Confluence
