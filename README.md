@@ -5,7 +5,7 @@
 
 1. [About me](#1-about-me)
 2. [Professional Experience](#2-previous-job)
-3. [Resume & LinkedIn Mentoring](#3-resume-linkedin-mentoring)
+3. [Resume & LinkedIn Mentoring](#3-resume-&-linkedIn-mentoring)
 4. [Tech Writer](#4-tech-writer)
 5. [Courses](#course)
 6. [Community](#community)
