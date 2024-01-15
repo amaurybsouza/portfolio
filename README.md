@@ -5,7 +5,7 @@
 
 1. [Resume & LinkedIn Mentoring](#resume-linkedin-mentoring)
 2. [Contact](#contact)
-3. [Experience](#experience)
+3. [Experience](#previous-job)
 
 ---
 
