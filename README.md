@@ -1,15 +1,33 @@
 ## Tech Career
 11yoe working on Banks (SunTrust Banks Inc., Bradesco S/A), Consulting (IBM, Kyndryl, TechFor, Govt.) companies making impactful contributions. I'm SRE/DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b), [infrastructure as code (IaC)](https://amaurybsouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3) and [cloud native](https://amaurybsouza.medium.com/primeiros-passos-com-helm-no-kubernetes-714ae017c685). 
 
-## 🧰Table of Contents
+# Portfolio
 
-- [Ansible Basics Course](#ansible-basics-course)
-  - [🚀Objective](#objective)
-  - [👩‍💻Course Structure](#course-structure)
-  - [📚Medium Posts](#medium-posts)
-  - [🛠️Requirements](#️requirements)
-  - [🎓Get Started](#get-started)
-  - [1. Career](#1-career)
+## Table of Contents
+
+1. [Resume & LinkedIn Mentoring](#resume-linkedin-mentoring)
+2. [Contact](#contact)
+3. [Experience](#experience)
+
+---
+
+## 1. Resume & LinkedIn Mentoring
+
+- [Introduction](#resume-linkedin-intro)
+- [Resume Review](#resume-review)
+- [LinkedIn Optimization](#linkedin-optimization)
+- [Testimonials](#testimonials)
+
+## 2. Contact
+
+- [Get in Touch](#get-in-touch)
+- [Social Media](#social-media)
+
+## 3. Experience
+
+- [Content Creation](#content-creation)
+- [Collaborations](#collaborations)
+- [Publications](#publications)
 
 #### Highlights
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
