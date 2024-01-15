@@ -3,24 +3,30 @@
 
 ## Table of Contents
 
-1. [About me](#1-about-me)
-2. [Professional Experience](#2-previous-job)
-3. [Resume & LinkedIn Mentoring](#3-resume--linkedIn-mentoring)
-4. [Tech Writer](#4-tech-writer)
-5. [Courses](#course)
-6. [Community](#community)
-7. [Contact](#contact)
+- [Tech Career](#tech-career)
+  - [Table of Contents](#table-of-contents)
+  - [1. About me](#1-about-me)
+  - [2. Professional Experience](#2-professional-experience)
+  - [3. Resume \& LinkedIn Mentoring](#3-resume--linkedin-mentoring)
+      - [Highlights](#highlights)
+  - [Latest Medium Posts](#latest-medium-posts)
+  - [Recent Community Contributions](#recent-community-contributions)
+  - [GitHub DevOps Projects](#github-devops-projects)
+  - [DevOps Weekly Newsletter](#devops-weekly-newsletter)
+  - [Previous Job](#previous-job)
+  - [Contact](#contact)
+  - [Support](#support)
 
 ---
 
 ## 1. About me
 
-- [Introduction](#resume-linkedin-intro)
+- [Introduction](#about-me-intro)
 - [Resume Review](#resume-review)
 - [LinkedIn Optimization](#linkedin-optimization)
 - [Testimonials](#testimonials)
 
-## 2. Experience
+## 2. Professional Experience
 
 - [Get in Touch](#get-in-touch)
 - [Social Media](#social-media)
@@ -28,29 +34,12 @@
 ## 3. Resume & LinkedIn Mentoring
 
 - [Mentoring 1:1 - Career Planning](#linkedin-mentoring)
-Personalized mentoring to align your professional goals with personal fulfillment. Use of tools and structure to guide you in your career. Check out more here on this [link](https://amauryborgessouza.substack.com/).
-- [Resume & LinkedIn Mentoring](#3-linkedin-mentoring)
+  - Personalized mentoring to align your professional goals with personal fulfillment. Use of tools and structure to guide you in your career. Check out more here on this [link](https://amauryborgessouza.substack.com/).
+- [Resume & LinkedIn Mentoring](#linkedin-mentoring)
 - [Content Creation](#content-creation)
 - [Collaborations](#collaborations)
 - [Publications](#publications)
 
-## 4. Tech Writer
-
-- [Latest Medium Posts](#latest-medium-posts)
-- [DevOps Weekly Newsletter](#devops-weekly-newsletter)
-- [Social Media](#social-media)
-
-## 5. Courses
-- [Course Guide](#course-guide)
-- [Ansible Courses](#ansible-courses)
-- [DevOps Courses](#devops-courses)
-
-## 6. Community
-- [Community Guide](#community-guide)
-- [Ansible Community](#ansible)
-
-## 7. Contact
-- [Contact Guide](#contact-guide)
 
 #### Highlights
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
