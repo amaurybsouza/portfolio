@@ -10,6 +10,8 @@
     - [Tech Projects](#tech-projects)
   - [2. Professional Experience](#2-professional-experience)
   - [3. Resume \& LinkedIn Mentoring](#3-resume--linkedin-mentoring)
+    - [Mentoring 1:1 - Career Planning](#mentoring-11---career-planning)
+    - [Resume \& LinkedIn Mentoring](#resume--linkedin-mentoring)
   - [4. Tech Writer](#4-tech-writer)
   - [5. Courses](#5-courses)
   - [6. Community](#6-community)
@@ -57,10 +59,15 @@
 - [Social Media](#social-media)
 
 ## 3. Resume & LinkedIn Mentoring
+Updating...
 
-- [Mentoring 1:1 - Career Planning](#linkedin-mentoring)
+### Mentoring 1:1 - Career Planning
   - Personalized mentoring to align your professional goals with personal fulfillment. Use of tools and structure to guide you in your career. Check out more here on this [link](https://amauryborgessouza.substack.com/).
-- [Resume & LinkedIn Mentoring](#linkedin-mentoring)
+
+### Resume & LinkedIn Mentoring
+- sasasasas
+
+
 - [Content Creation](#content-creation)
 - [Collaborations](#collaborations)
 - [Publications](#publications)
