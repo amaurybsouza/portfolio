@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-1. [About me](https://www.linkedin.com/in/amaurybsouza/)
+1. [About me](#about-me)
 2. [Professional Experience](#previous-job)
 3. [Resume/LinkedIn Mentoring](#linkedin-mentoring)
 4. [Tech Writer](#4-tech-writer)
@@ -13,7 +13,7 @@
 
 ---
 
-## 1. About me!
+## 1. About me
 
 - [Introduction](#resume-linkedin-intro)
 - [Resume Review](#resume-review)
@@ -27,6 +27,9 @@
 
 ## 3. LinkedIn Mentoring
 
+- [Mentoring 1:1 - Career Planning](#3-linkedin-mentoring)
+Personalized mentoring to align your professional goals with personal fulfillment. Use of tools and structure to guide you in your career. Check out more here on this [link](https://amauryborgessouza.substack.com/).
+- [Resume & LinkedIn Mentoring](#3-linkedin-mentoring)
 - [Content Creation](#content-creation)
 - [Collaborations](#collaborations)
 - [Publications](#publications)
