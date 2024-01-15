@@ -6,6 +6,7 @@
 1. [Resume & LinkedIn Mentoring](#resume-linkedin-mentoring)
 2. [Contact](#contact)
 3. [Experience](#previous-job)
+4. [Tech Writer](#4-tech-writer)
 
 ---
 
@@ -26,6 +27,12 @@
 - [Content Creation](#content-creation)
 - [Collaborations](#collaborations)
 - [Publications](#publications)
+
+## 4. Tech Writer
+
+- [Latest Medium Posts](#-latest-medium-posts)
+- [DevOps Weekly Newsletter](#devops-weekly-newsletter)
+- [Social Media](#social-media)
 
 #### Highlights
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
