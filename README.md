@@ -7,6 +7,7 @@
   - [Table of Contents](#table-of-contents)
   - [1. About me](#1-about-me)
     - [Highlights](#highlights)
+    - [Tech Projects](#tech-projects)
   - [2. Professional Experience](#2-professional-experience)
   - [3. Resume \& LinkedIn Mentoring](#3-resume--linkedin-mentoring)
   - [4. Tech Writer](#4-tech-writer)
@@ -44,6 +45,10 @@
 - I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
 - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
 - Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
+
+### Tech Projects
+- sasasasas
+
 - [Resume Review](#resume-review)
 - [LinkedIn Optimization](#linkedin-optimization)
 - [Testimonials](#testimonials)
