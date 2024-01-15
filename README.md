@@ -1,7 +1,5 @@
-## Tech Career
+# Tech Career
 11yoe working on Banks (SunTrust Banks Inc., Bradesco S/A), Consulting (IBM, Kyndryl, TechFor, Govt.) companies making impactful contributions. I'm SRE/DevOps Engineer dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, [DevOps](https://amaurybsouza.medium.com/o-que-%C3%A9-devops-meus-0-05-centavos-e7ece879730b), [infrastructure as code (IaC)](https://amaurybsouza.medium.com/trilha-ci-cd-ii-meu-pipeline-de-iac-com-gitlab-para-provisionar-3-ec2-na-aws-com-terraform-83ebb0a761a3) and [cloud native](https://amaurybsouza.medium.com/primeiros-passos-com-helm-no-kubernetes-714ae017c685). 
-
-# Portfolio
 
 ## Table of Contents
 
@@ -23,7 +21,7 @@
 - [Get in Touch](#get-in-touch)
 - [Social Media](#social-media)
 
-## 3. Experience
+## 3. Previous Job
 
 - [Content Creation](#content-creation)
 - [Collaborations](#collaborations)
