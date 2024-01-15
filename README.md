@@ -8,6 +8,12 @@
   - [1. About me](#1-about-me)
   - [2. Professional Experience](#2-professional-experience)
   - [3. Resume \& LinkedIn Mentoring](#3-resume--linkedin-mentoring)
+  - [4. Tech Writer](#4-tech-writer)
+  - [5. Courses](#5-courses)
+  - [6. Community](#6-community)
+  - [7. Contact](#7-contact)
+  - [8. Projects](#8-projects)
+  - [9. Certifications](#9-certifications)
       - [Highlights](#highlights)
   - [Latest Medium Posts](#latest-medium-posts)
   - [Recent Community Contributions](#recent-community-contributions)
@@ -39,6 +45,51 @@
 - [Content Creation](#content-creation)
 - [Collaborations](#collaborations)
 - [Publications](#publications)
+
+## 4. Tech Writer
+
+- [Writing Samples](#tech-writer-samples)
+  - Showcase of articles, blog posts, or technical documentation.
+- [Writing Style](#writing-style)
+  - Overview of your approach to technical writing and communication.
+- [Client Testimonials](#client-testimonials)
+  - Feedback from clients on your tech writing services.
+
+## 5. Courses
+
+- [Online Courses](#online-courses)
+  - List and details of any online courses you've created or contributed to.
+- [Workshops and Webinars](#workshops-and-webinars)
+  - Highlights of any workshops or webinars you've conducted.
+
+## 6. Community
+
+- [Speaking Engagements](#speaking-engagements)
+  - Details about conferences, meetups, or events where you've been a speaker.
+- [Open Source Contributions](#open-source-contributions)
+  - Your involvement in open source projects.
+- [Community Involvement](#community-involvement)
+  - Your contributions to tech or local communities.
+
+## 7. Contact
+
+- [Contact Information](#contact-information)
+  - How people can reach out to you.
+- [Connect on Social Media](#connect-on-social-media)
+  - Links to your social media profiles.
+
+## 8. Projects
+
+- [Personal Projects](#personal-projects)
+  - A showcase of personal projects you've worked on.
+- [Client Projects](#client-projects)
+  - Overview of projects you've completed for clients.
+
+## 9. Certifications
+
+- [Technical Certifications](#technical-certifications)
+  - A list of relevant certifications you hold.
+
 
 
 #### Highlights
