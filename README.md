@@ -5,7 +5,7 @@
 
 1. [About me](#about-me)
 2. [Professional Experience](#previous-job)
-3. [Resume/LinkedIn Mentoring](#linkedin-mentoring)
+3. [Resume/LinkedIn Mentoring](#linkedIn-mentoring)
 4. [Tech Writer](#4-tech-writer)
 5. [Courses](#course)
 6. [Community](#community)
@@ -27,7 +27,7 @@
 
 ## 3. LinkedIn Mentoring
 
-- [Mentoring 1:1 - Career Planning](#3-linkedin-mentoring)
+- [Mentoring 1:1 - Career Planning](#linkedin-mentoring)
 Personalized mentoring to align your professional goals with personal fulfillment. Use of tools and structure to guide you in your career. Check out more here on this [link](https://amauryborgessouza.substack.com/).
 - [Resume & LinkedIn Mentoring](#3-linkedin-mentoring)
 - [Content Creation](#content-creation)
