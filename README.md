@@ -3,26 +3,29 @@
 
 ## Table of Contents
 
-1. [Resume & LinkedIn Mentoring](#resume-linkedin-mentoring)
-2. [Contact](#contact)
-3. [Experience](#previous-job)
+1. [About me](https://www.linkedin.com/in/amaurybsouza/)
+2. [Professional Experience](#previous-job)
+3. [Resume/LinkedIn Mentoring](#linkedin-mentoring)
 4. [Tech Writer](#4-tech-writer)
+5. [Courses](#course)
+6. [Community](#community)
+7. [Contact] (#contact)
 
 ---
 
-## 1. Resume & LinkedIn Mentoring
+## 1. About me!
 
 - [Introduction](#resume-linkedin-intro)
 - [Resume Review](#resume-review)
 - [LinkedIn Optimization](#linkedin-optimization)
 - [Testimonials](#testimonials)
 
-## 2. Contact
+## 2. Experience
 
 - [Get in Touch](#get-in-touch)
 - [Social Media](#social-media)
 
-## 3. Previous Job
+## 3. LinkedIn Mentoring
 
 - [Content Creation](#content-creation)
 - [Collaborations](#collaborations)
@@ -30,9 +33,21 @@
 
 ## 4. Tech Writer
 
-- [Latest Medium Posts](#-latest-medium-posts)
+- [Latest Medium Posts](#latest-medium-posts)
 - [DevOps Weekly Newsletter](#devops-weekly-newsletter)
 - [Social Media](#social-media)
+
+## 5. Courses
+- [Course Guide](#course-guide)
+- [Ansible Courses](#ansible-courses)
+- [DevOps Courses](#devops-courses)
+
+## 6. Community
+- [Community Guide](#community-guide)
+- [Ansible Community](#ansible)
+
+## 7. Contact
+- [Contact Guide](#contact-guide)
 
 #### Highlights
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
