@@ -14,7 +14,7 @@
     - [Resume \& LinkedIn Mentoring](#resume--linkedin-mentoring)
   - [4. Tech Writer](#4-tech-writer)
     - [Medium Posts](#medium-posts)
-  - [Substack Newsletter](#substack-newsletter)
+    - [Substack Newsletter](#substack-newsletter)
   - [5. Courses](#5-courses)
   - [6. Community](#6-community)
   - [7. Contact](#7-contact)
@@ -124,7 +124,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
-## Substack Newsletter
+### Substack Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
 - Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
 - Jan 08, 2024: [Hashicorp Ambassador 2024](https://amauryborgessouza.substack.com/p/hashicorp-ambassador-2024) #28
