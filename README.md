@@ -15,7 +15,7 @@
   - [4. Tech Writer](#4-tech-writer)
     - [Medium Posts](#medium-posts)
     - [Newsletter](#newsletter)
-    - [LinkedIn Creator](#linkedin-creator)
+    - [LinkedIn](#linkedin)
   - [5. Courses](#5-courses)
   - [6. Community](#6-community)
   - [7. Certifications](#7-certifications)
@@ -135,7 +135,7 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
 
-### LinkedIn Creator
+### LinkedIn
 - 2 months ago, 2023: [DevOps Mindset!](https://www.linkedin.com/feed/update/urn:li:activity:7128700925342330881/).
 
 - [Writing Samples](#tech-writer-samples)
