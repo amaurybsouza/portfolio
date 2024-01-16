@@ -97,7 +97,7 @@ Updating...
 - [Publications](#publications)
 
 ## 4. Tech Writer
-I have made it my mission to share my entire DevOps learning journey across the online platforms, like Medium, Substack, LinkedIn! I have so much to learn and share.
+I love writing about everything inside the world about technology, let's go with me to discover and learn about Linux, Automations, DevOps, Cloud!
 
 ### Medium Posts
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
