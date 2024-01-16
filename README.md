@@ -47,16 +47,43 @@
 - Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
 
 ### Tech Projects
-- sasasasas
+- Updating...
 
 - [Resume Review](#resume-review)
 - [LinkedIn Optimization](#linkedin-optimization)
 - [Testimonials](#testimonials)
 
 ## 2. Professional Experience
+Check out below my professional experience working on several companies around the world, such as, IBM, Kyndryl, SunTrust Banks, Bradesco.
 
-- [Get in Touch](#get-in-touch)
-- [Social Media](#social-media)
+I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
+
+Responsabilities:
+- Champion the use of IaC tools (e.g., Terraform, Ansible) to automate the provisioning and configuration of infrastructure, ensuring consistency and scalability.
+- Developed and maintained automation scripts and tools to streamline repetitive tasks and optimize workflows, enhancing efficiency and reducing manual intervention.
+- Conducted training sessions to share DevOps practices and tools within the team, fostering a culture of continuous learning.
+- Experienced in cloud technologies such as AWS, Azure, as well as containerization technologies such as Docker and Kubernetes. 
+- Skilled in scripting languages such as "YAML", Bash, Markdown, with expertise in version control systems (GIT).
+- Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
+- Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
+
+Stack DevOps:
+- Bamboo
+- Jira
+- Confluence
+- GIT
+- Teams
+- Docker
+- DevOps
+- (IaC)
+- Terraform
+- Ansible
+- Bash Scripting
+- Azure
+- GitHub
+- ServiceNow
+
+Competências: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
 
 ## 3. Resume & LinkedIn Mentoring
 Updating...
@@ -115,8 +142,6 @@ Updating...
 
 - [Technical Certifications](#technical-certifications)
   - A list of relevant certifications you hold.
-
-
 
 #### Highlights
 - Bachelor degree (Fatec-Am); currently post-graduating in Solutions Architecture at PUC Minas.
