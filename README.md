@@ -97,7 +97,7 @@ Updating...
 - [Publications](#publications)
 
 ## 4. Tech Writer
-Dive into the realm of technical communication through my journey as a Tech Writer. In this section, I unravel a tapestry of written insights, bridging the gap between complex technical concepts and clear, accessible content. From in-depth articles and blog posts to meticulous technical documentation, each piece showcases my commitment to demystifying technology for diverse audiences.
+I have made it my mission to share my entire DevOps learning journey across the online platforms, like Medium, Substack, LinkedIn! I have so much to learn and share.
 
 ### Medium Posts
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
