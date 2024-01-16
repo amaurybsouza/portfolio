@@ -18,8 +18,7 @@
     - [LinkedIn Creator](#linkedin-creator)
   - [5. Courses](#5-courses)
   - [6. Community](#6-community)
-  - [7. Contact](#7-contact)
-  - [9. Certifications](#9-certifications)
+  - [7. Certifications](#7-certifications)
   - [Contact](#contact)
   - [Support](#support)
 
@@ -164,15 +163,7 @@ Updating...
 - [Community Involvement](#community-involvement)
   - Your contributions to tech or local communities.
 
-## 7. Contact
-Updating...
-
-- [Contact Information](#contact-information)
-  - How people can reach out to you.
-- [Connect on Social Media](#connect-on-social-media)
-  - Links to your social media profiles.
-
-## 9. Certifications
+## 7. Certifications
 Updating...
 
 - [Technical Certifications](#technical-certifications)
