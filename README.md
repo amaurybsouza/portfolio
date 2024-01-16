@@ -13,6 +13,8 @@
     - [Mentoring 1:1 - Career Planning](#mentoring-11---career-planning)
     - [Resume \& LinkedIn Mentoring](#resume--linkedin-mentoring)
   - [4. Tech Writer](#4-tech-writer)
+    - [Medium Posts](#medium-posts)
+  - [Substack Newsletter](#substack-newsletter)
   - [5. Courses](#5-courses)
   - [6. Community](#6-community)
   - [7. Contact](#7-contact)
@@ -102,6 +104,45 @@ Updating...
 - [Publications](#publications)
 
 ## 4. Tech Writer
+Dive into the realm of technical communication through my journey as a Tech Writer. In this section, I unravel a tapestry of written insights, bridging the gap between complex technical concepts and clear, accessible content. From in-depth articles and blog posts to meticulous technical documentation, each piece showcases my commitment to demystifying technology for diverse audiences.
+
+### Medium Posts
+I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
+- Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24).
+- Oct 30, 2023: [Containers: Como funcionam? E porque usar na AWS pode ajudar!](https://amaurybsouza.medium.com/containers-como-funcionam-e-porque-usar-na-aws-pode-ajudar-2476737e01d7).
+- Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
+- Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
+- Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
+- Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
+- May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
+- Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
+- Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
+- Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
+- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
+- Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
+- Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
+- Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
+- Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
+
+## Substack Newsletter
+Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
+- Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
+- Jan 08, 2024: [Hashicorp Ambassador 2024](https://amauryborgessouza.substack.com/p/hashicorp-ambassador-2024) #28
+- Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
+- Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-blog-da-aws-community) #26
+- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
+- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar) #24
+- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa) #23
+- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo) #22
+- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio) #21
+- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para) #20
+- Apr 23, 2023: [Hashicorp Terraform passa de 3k de providers](https://amauryborgessouza.substack.com/p/hashicorp-terraform-passa-de-3k-de) #19
+- Apr 03, 2023: [O how-to oficial do Docker que ajuda demais](https://amauryborgessouza.substack.com/p/o-how-to-oficial-do-docker-que-ajuda) #18
+- Mar 23, 2023: [CI/CD com GitHub Actions](https://amauryborgessouza.substack.com/p/cicd-com-github-actions) #18
+- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
+- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
+
+
 
 - [Writing Samples](#tech-writer-samples)
   - Showcase of articles, blog posts, or technical documentation.
