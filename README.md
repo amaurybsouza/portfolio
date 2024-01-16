@@ -14,11 +14,11 @@
     - [Resume \& LinkedIn Mentoring](#resume--linkedin-mentoring)
   - [4. Tech Writer](#4-tech-writer)
     - [Medium Posts](#medium-posts)
-    - [Substack Newsletter](#substack-newsletter)
+    - [Newsletter](#newsletter)
+    - [LinkedIn Creator](#linkedin-creator)
   - [5. Courses](#5-courses)
   - [6. Community](#6-community)
   - [7. Contact](#7-contact)
-  - [8. Projects](#8-projects)
   - [9. Certifications](#9-certifications)
       - [Highlights](#highlights-1)
   - [Latest Medium Posts](#latest-medium-posts)
@@ -124,7 +124,7 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 - Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
-### Substack Newsletter
+### Newsletter
 Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
 - Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
 - Jan 08, 2024: [Hashicorp Ambassador 2024](https://amauryborgessouza.substack.com/p/hashicorp-ambassador-2024) #28
@@ -141,6 +141,9 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
 - Mar 23, 2023: [CI/CD com GitHub Actions](https://amauryborgessouza.substack.com/p/cicd-com-github-actions) #18
 - Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
 - Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
+
+### LinkedIn Creator
+- 2 months ago, 2023: [DevOps Mindset!](https://www.linkedin.com/feed/update/urn:li:activity:7128700925342330881/).
 
 
 
@@ -173,13 +176,6 @@ Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amaurybo
   - How people can reach out to you.
 - [Connect on Social Media](#connect-on-social-media)
   - Links to your social media profiles.
-
-## 8. Projects
-
-- [Personal Projects](#personal-projects)
-  - A showcase of personal projects you've worked on.
-- [Client Projects](#client-projects)
-  - Overview of projects you've completed for clients.
 
 ## 9. Certifications
 
