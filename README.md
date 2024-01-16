@@ -47,11 +47,13 @@
 - Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
 
 ### Tech Projects
-- Updating...
+Embark on a journey through my DevOps endeavors, where I've engineered solutions to streamline development, enhance collaboration, and optimize deployment pipelines. In this section, I share insights into key projects that demonstrate my proficiency in orchestrating seamless integration between development and operations. From implementing robust CI/CD pipelines to automating infrastructure provisioning, each project reflects my commitment to fostering a culture of continuous improvement and efficiency. 
 
-- [Resume Review](#resume-review)
-- [LinkedIn Optimization](#linkedin-optimization)
-- [Testimonials](#testimonials)
+- Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
+- Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (*devops glossary helps you with DevOps tools descriptions*).
+- Created nov/2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (*a bit automation with AWS, Terraform and Ansible tools*).
+- Created jan/2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (*integrate OTRS 6 ticket systems with Zabbix*).
+- PR recently opened: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts); (*exercises about various technical topics*).
 
 ## 2. Professional Experience
 Check out below my professional experience working on several companies around the world, such as, IBM, Kyndryl, SunTrust Banks, Bradesco.
@@ -83,7 +85,7 @@ Stack DevOps:
 - GitHub
 - ServiceNow
 
-Competências: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
+Skills: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
 
 ## 3. Resume & LinkedIn Mentoring
 Updating...
