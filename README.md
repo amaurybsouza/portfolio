@@ -69,7 +69,7 @@ A curated list of learning resources for Linux enthusiasts, DevOps learners. Che
 - Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (*basic Helm Chart using NGINX webserver on K8S*).
 
 ## DevOps Weekly Newsletter
-Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8s.
+Subscribe to my newsletter (DevOps Career News). A [newsletter](https://amauryborgessouza.substack.com/) devoted to everything related to SRE/DevOps, automations, Cloud platforms, CNCF Solutions, Terraform, Conferences, Kubecon, Ansible, k8. This is your ultimate resource for SRE insights, cloud platforms, and automation mastery. From Terraform tricks to Kubecon highlights, join us as we unravel the world of CNCF solutions and Ansible adventures. Let's conquer the DevOps landscape together!
 - Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
 - Jan 08, 2024: [Hashicorp Ambassador 2024](https://amauryborgessouza.substack.com/p/hashicorp-ambassador-2024) #28
 - Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
