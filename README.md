@@ -17,6 +17,7 @@
 
 ## Latest Medium Posts
 I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
+- Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162).
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24).
 - Oct 30, 2023: [Containers: Como funcionam? E porque usar na AWS pode ajudar!](https://amaurybsouza.medium.com/containers-como-funcionam-e-porque-usar-na-aws-pode-ajudar-2476737e01d7).
 - Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd).
@@ -31,7 +32,6 @@ I have made it my mission to share my entire DevOps learning journey across the 
 - Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
-- Sep 05, 2022: [Passei no exame AZ-900 do Azure (Éjurr)](https://amaurybsouza.medium.com/passei-no-exame-az-900-do-azure-%C3%A9jurr-251962848367)
 
 ## Recent Community Contributions
 I have several of my personal projects on [GitHub](https://github.com/amaurybsouza), [LHC Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal), [Viva o Linux](https://www.vivaolinux.com.br/), [AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/) and other communities/websites, approaching different topics, including Linux, Terraform, Ansible, Kubernetes, Docker and  other tools around Infrastructure as Code (IaC), containers & automation:
