@@ -16,7 +16,7 @@
 - Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
 
 ## Latest Medium Posts
-I have made it my mission to share my entire DevOps learning journey across the [Medium](https://amaurybsouza.medium.com/). I have so much to learn and share.
+I'm thrilled to embark on a personal mission, dedicating myself to the vibrant world of DevOps. With boundless enthusiasm, I'm eager to dive deep into this dynamic field and share every step of my journey on [Medium](https://amaurybsouza.medium.com/). My purpose? To inspire, connect, and grow alongside the incredible DevOps community. Together, let's embark on a journey of continuous learning and improvement. I welcome your insights, questions, and shared experiences as we navigate the exciting landscape of DevOps together!"
 - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24)
 - Oct 30, 2023: [Containers: Como funcionam? E porque usar na AWS pode ajudar!](https://amaurybsouza.medium.com/containers-como-funcionam-e-porque-usar-na-aws-pode-ajudar-2476737e01d7)
