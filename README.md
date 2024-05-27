@@ -1,7 +1,3 @@
-## Latest Career Highlights
- My name is Amaury(he/his/him), my journey reflects a commitment to continuous growth and evolution. With a background rooted in the Ops realm, I've honed my skills in Linux systems and on-premises infrastructures, laying the groundwork for a dynamic career trajectory.
-
- 
 ## Career Summary
 - Bachelor degree (FATEC-AM); currently post-graduating in Solutions Architecture at PUC Minas.
 - I came from Ops side; I worked exclusive with [Linux](https://www.credly.com/badges/beb29090-26bb-4f61-b200-40ff75ae2618/public_url) systems and based on-premisses infrastructures.
@@ -16,7 +12,7 @@
 - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
 - Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
 
-### Latest Medium Posts
+## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on Medium, aiming to inspire, connect, and grow with the community.
 - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24)
@@ -34,7 +30,7 @@ I'm excited to dive into DevOps and share my journey on Medium, aiming to inspir
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 
-### Open-Source Projects
+## Open-Source Projects
 A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
 - Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (*devops glossary helps you with DevOps tools descriptions*).
