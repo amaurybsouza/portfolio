@@ -1,6 +1,8 @@
 ## Latest Career Highlights
  My name is Amaury(he/his/him), my journey reflects a commitment to continuous growth and evolution. With a background rooted in the Ops realm, I've honed my skills in Linux systems and on-premises infrastructures, laying the groundwork for a dynamic career trajectory.
 
+ 
+## Career Summary
 - Bachelor degree (FATEC-AM); currently post-graduating in Solutions Architecture at PUC Minas.
 - I came from Ops side; I worked exclusive with [Linux](https://www.credly.com/badges/beb29090-26bb-4f61-b200-40ff75ae2618/public_url) systems and based on-premisses infrastructures.
 - Check out my contributions at GitHub, this year I was named as [Top GitHub users in Brazil](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md).
