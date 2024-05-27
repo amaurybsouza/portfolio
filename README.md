@@ -16,7 +16,7 @@
 - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
 - Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
 
-## Latest Medium Posts
+### Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on Medium, aiming to inspire, connect, and grow with the community.
 - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
 - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24)
@@ -34,24 +34,7 @@ I'm excited to dive into DevOps and share my journey on Medium, aiming to inspir
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 
-## Recent Community Contributions
-Explore my projects on GitHub and other platforms, diving into Linux, Terraform, Ansible, Kubernetes, Docker, and beyond!
-- LHC Campinas: [Iniciativas 2024 para o Laboratório Hacker de Campinas](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal); (*Initiatives for 2024*).
-- AWS U.G. Campinas: [Criando seu HomeLab de estudos na AWS com Terraform e Ansible](https://www.meetup.com/awscampinas/events/297528444/); (*Meetup*).
-- YouTube Participation: [[PT-BR] Value Stream #engineeringsessions #s02e08](https://www.youtube.com/watch?v=bClFiZ9IAC0&t=413s&ab_channel=CarlosNogueira%28DevOps%29); (*YouTube Channel*).
-- CODECON 2023: [Confiabilidade, disponibilidade, manutenibilidade e observabilidade](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon); (*Sala 2*).
-- {#!Bash Script}: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) (*bash script to ensure a backup*).
-- {#!Bash Script}: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) (*managing the firewalld service*).
-- {#!Bash Script}: [Instalação de programas no Ubuntu Linux(](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) (*install programs Linux Ubuntu*).
-- {#!Bash Script}: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) (*updating/installing the packages using case function*).
-- Viva o Linux Article: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/).
-- Viva o Linux Article: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/).
-- Viva o Linux Article: [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/).
-- Speakerdeck Talks: [Terraform Talk](https://speakerdeck.com/amaurybsouza/terraform-talk) (*presentation covering a deep dive into Terraform IaC tool*).
-- Speakerdeck Talks: [Ansible Talk ](https://speakerdeck.com/amaurybsouza/ansible-talk) (*presentation covering Red Hat Ansible automation tool*).
-- Aécio Pires Blog: [Codeac: ferramenta para analisar a qualidade do código que gerencia a infraestrutura e aplicação](https://blog.aeciopires.com/codeac-ferramenta-para-analisar-a-qualidade-do-codigo-que-gerencia-a-infraestrutura-e-aplicacao/).
-
-## GitHub DevOps Projects
+### Open-Source Projects
 A curated list of learning resources for Linux enthusiasts, DevOps learners. Check out my collection of sample projects showcasing Infrastructure as Code (IaC) principles using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (*helps you with the most commonly and used commands*).
 - Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (*devops glossary helps you with DevOps tools descriptions*).
