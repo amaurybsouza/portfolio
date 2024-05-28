@@ -1,16 +1,11 @@
 ## Career Summary
-- Bachelor degree (FATEC-AM); currently post-graduating in Solutions Architecture at PUC Minas.
-- I came from Ops side; I worked exclusive with [Linux](https://www.credly.com/badges/beb29090-26bb-4f61-b200-40ff75ae2618/public_url) systems and based on-premisses infrastructures.
-- Check out my contributions at GitHub, this year I was named as [Top GitHub users in Brazil](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/brazil.md).
+- Bachelor degree (FATEC-AM); post-graduated in Cloud Solutions Architecture & 
 - I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
 - Lifelong Learner with eyes in Cloud platforms like [AWS](https://www.credly.com/badges/ebc6486c-baa6-4bd3-a872-f13916afd82e/public_url)/[Azure](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965/public_url) where I was able to pass the exams.
-- Backing to the open-source projects, you can sponsor my work through [GitHub Sponsors](https://github.com/sponsors/amaurybsouza).
-- I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program for next season 2023/2024.
-- Recently I have been selected as a [HashiCorp Ambassador](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901) within open source community for 2023!
-- Invited by Gabriel & Paula to participate at [Codecon Digital 2023!](https://www.youtube.com/watch?v=FPfNq2gRMJ8&t=23642s&ab_channel=Codecon) to talk about availability.
+- I was invited to participate for second year in [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program.
+- Recently I have been selected as HashiCorp User Group Lead (HUG Campinas).
 - I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
 - If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
-- Backing to the community, I'm (organizer/member) of tech related events “AWS User Groups”, "DODs".
 
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on Medium, aiming to inspire, connect, and grow with the community.
