@@ -68,23 +68,7 @@ Responsabilities:
 - Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
 - Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
 
-Stack DevOps:
-- Bamboo
-- Jira
-- Confluence
-- GIT
-- Teams
-- Docker
-- DevOps
-- (IaC)
-- Terraform
-- Ansible
-- Bash Scripting
-- Azure
-- GitHub
-- ServiceNow
-
-Competências: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
+Competencies: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
 
 ## Contact
 My name is Amaury (he/his/him) currently working remote at Kyndryl! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm an Ops since 2013! Also, I love to sharing, teach and learn everthing! Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
