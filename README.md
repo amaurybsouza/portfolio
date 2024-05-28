@@ -1,11 +1,6 @@
-## Career Summary
-- Bachelor degree (FATEC-AM); post-graduated in Cloud Solutions Architecture & 
-- I'm keeping me focused on IaC approach, recently I have took the [Terraform Associate exam](https://www.credly.com/badges/1e393398-efc4-4642-93c0-2eec270be56b/linked_in).
-- Lifelong Learner with eyes in Cloud platforms like [AWS](https://www.credly.com/badges/ebc6486c-baa6-4bd3-a872-f13916afd82e/public_url)/[Azure](https://www.credly.com/badges/252f03d7-907c-4fd4-88d4-157211316965/public_url) where I was able to pass the exams.
-- I was invited to participate for second year in [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program.
-- Recently I have been selected as HashiCorp User Group Lead (HUG Campinas).
-- I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/). Subscribe to learn more!
-- If you enjoy read tech contents make sure you have checked my [Medium](https://amaurybsouza.medium.com/) portal articles and posts.
+I hold a Bachelor's degree from FATEC-AM and a post-graduate degree in Cloud Solutions Architecture. I am honored to be a part of the AWS Community Builders program for the second consecutive year, and to have been selected as HashiCorp User Group Lead (HUG Campinas).
+
+I share my insights through a DevSecOps newsletter on Substack, subscribe to stay updated! Additionally, you can find my tech articles and posts on Medium, where I regularly write about DevOps, automation & Cloud technologies.
 
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on Medium, aiming to inspire, connect, and grow with the community.
