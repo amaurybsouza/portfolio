@@ -24,13 +24,13 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
    - **Date**: 📅July 20, 2024
    - **Location**: 📍Laboratório Hacker de Campinas
    - **Description**: ☕Estarei com a turma do CoffeeOps nesse dia TOP demais. 
-2. [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
+-  [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
    - **Date**: July 12, 2024
    - **Location**: Palácio Tangará, São Paulo
    - **Description**: Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) na grade de comunidades onde apresentarei sobre:. "Práticas Seguras com a Nuvem".
    - **Speaker**: Amaury Borges Souza
    - **Summary**: Práticas Seguras para a Nuvem.
-3. [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
+-  [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
    - **Date**: June 26, 2024
    - **Location**: Palácio Tangará, São Paulo
    - **Description**: Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
