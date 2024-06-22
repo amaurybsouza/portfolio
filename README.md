@@ -19,7 +19,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Oct 25, 2022: [Azure DevOps: TUDO para você começar](https://amaurybsouza.medium.com/azure-devops-tudo-para-voc%C3%AA-come%C3%A7ar-dbd1eff6b0d0)
 
 ## DevSecOps Weekly Newsletter
-Subscribe to my [newsletter](https://amauryborgessouza.substack.com/) for insights on SRE, Cloud, CNCF solutions, Terraform, Ansible, and events highlights. 
+Subscribe to my [DevSecOps Newsletter](https://amauryborgessouza.substack.com/) for insights on SRE, Cloud, CNCF solutions, Terraform, Ansible, and events highlights. 
 - Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
 - Jan 08, 2024: [Hashicorp Ambassador 2024](https://amauryborgessouza.substack.com/p/hashicorp-ambassador-2024) #28
 - Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
