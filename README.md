@@ -20,14 +20,16 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 
 ## Next Conferecences & Meetups
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to engage with thought leaders, participate in hands-on workshops, and expand your professional network.
-1. Ignite on Tour São Paulo: Cybersecurity for the AI Era
+1. [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
    - **Date**: June 26, 2024
    - **Location**: Tangará Palace, São Paulo
    - **Description**: Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
-2. CPBR16 - Campus Party Brasil 2024
-   - **Date**: June 26, 2024
+2. [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
+   - **Date**: July 12, 2024
    - **Location**: Tangará Palace, São Paulo
-   - **Description**: Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
+   - **Description**: Chegando a sua 16ª edição, a Campus Party Brasil se reinventa e se renova, mas continua sendo o maior festival sobre tecnologia
+   - **Speaker**: Amaury Borges Souza.
+   - **Bio**: Práticas Seguras com a Nuvem.
 
 ## DevSecOps Weekly Newsletter
 Subscribe to my [DevSecOps Newsletter](https://amauryborgessouza.substack.com/) for insights on SRE, Cloud, CNCF solutions, Terraform, Ansible, and events highlights. 
