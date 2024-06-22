@@ -1,5 +1,8 @@
 I hold a Bachelor's degree from FATEC-AM and a post-graduate degree in Cloud Solutions Architecture. I am honored to be a part of the AWS Community Builders program for the second consecutive year, and to have been selected as HashiCorp User Group Lead (HUG Campinas). I share my insights through a DevSecOps newsletter on Substack, subscribe to stay updated! Additionally, you can find my tech articles and posts on Medium, where I regularly write about DevOps, automation & Cloud technologies.
 
+## Table of Contents
+1. Next Conferences & Meetups(#next-conferences)
+
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
