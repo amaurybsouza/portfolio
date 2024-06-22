@@ -27,7 +27,7 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
 2. [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
    - **Date**: July 12, 2024
    - **Location**: Tangará Palace, São Paulo
-   - **Description**: Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) onde apresentarei sobre:. "Práticas Seguras com a Nuvem", Bora comigo?
+   - **Description**: Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) na grade de comunidades onde apresentarei sobre:. "Práticas Seguras com a Nuvem", Bora comigo?
    - **Speaker**: Amaury Borges Souza
    - **Summary**: Práticas Seguras para a Nuvem.
 3. [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
