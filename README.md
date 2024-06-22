@@ -35,6 +35,10 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
    - **Location**: Tangará Palace, São Paulo
    - **Description**: Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
 
+### Past Conferences
+1. May 19, 2024: [Village Dumont Hackerspace](https://securitybsides.com.br/2024/atividades/)
+   - 18:00: Definindo sua pipeline de CI/CD no GitLab com o poderoso Checkov integrado ao Terraform, Amaury Borges Souza
+
 ## DevSecOps Weekly Newsletter
 Subscribe to my [DevSecOps Newsletter](https://amauryborgessouza.substack.com/) for insights on SRE, Cloud, CNCF solutions, Terraform, Ansible, and events highlights. 
 - Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
