@@ -20,6 +20,14 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 
 ## Next Conferences & Meetups
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to engage with thought leaders, participate in hands-on workshops, and expand your professional network.
+- [bxsec](https://bxsec.org/2024/)
+   - **Date**: 📅Aug 24, 2024
+   - **Location**: 📍Santos, São Paulo
+   - **Description**: ☕É uma conferência de segurança da informação que nasceu em 2016 na cidade de Santos-SP (Baixada Santista), o primeiro evento oficial aconteceu em 2017 seguindo os conceitos de comunidade.
+- [**HashiTalks: Brasil 2024**](https://events.hashicorp.com/hashitalksbrasil)
+   - **Date**: 📅Aug 01, 2024
+   - **Location**: 📍Online Conference
+   - **Description**: ☕Os HashiTalks regionais permitem que palestrantes de todos os níveis de experiência compartilhem conhecimento virtualmente.
 -  [**Zabbix CoffeeOps**](https://eventos.lhc.net.br/event/coffeeops-julho-s01-ep07)
    - **Date**: 📅July 20, 2024
    - **Location**: 📍Laboratório Hacker de Campinas
@@ -30,7 +38,7 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
    - **Description**: ☕Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) na grade de comunidades onde apresentarei sobre:. "Práticas Seguras com a Nuvem".
    - **Speaker**: Amaury Borges Souza
    - **Summary**: Práticas Seguras para a Nuvem.
--  [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
+-  [**Paloalto Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
    - **Date**: 📅June 26, 2024
    - **Location**: 📍Palácio Tangará, São Paulo
    - **Description**: ☕Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
