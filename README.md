@@ -20,13 +20,17 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 
 ## Next Conferences & Meetups
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to engage with thought leaders, participate in hands-on workshops, and expand your professional network.
-1. [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
+1. [**Zabbix CoffeeOps**](https://eventos.lhc.net.br/event/coffeeops-julho-s01-ep07)
+   - **Date**: July 20, 2024
+   - **Location**: Laboratório Hacker de Campinas
+   - **Description**: Eatarei com a turma do CoffeeOps nesse dia TOP demais. Bora aprender mais sobre Zabbix?
+2. [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
    - **Date**: July 12, 2024
    - **Location**: Tangará Palace, São Paulo
    - **Description**: Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) onde apresentarei sobre:. "Práticas Seguras com a Nuvem", Bora comigo?
    - **Speaker**: Amaury Borges Souza
    - **Summary**: Práticas Seguras para a Nuvem.
-2. [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
+3. [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
    - **Date**: June 26, 2024
    - **Location**: Tangará Palace, São Paulo
    - **Description**: Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
