@@ -1,8 +1,5 @@
 I hold a Bachelor's degree from FATEC-AM and a post-graduate degree in Cloud Solutions Architecture. I am honored to be a part of the AWS Community Builders program for the second consecutive year, and to have been selected as HashiCorp User Group Lead (HUG Campinas). I share my insights through a DevSecOps newsletter on Substack, subscribe to stay updated! Additionally, you can find my tech articles and posts on Medium, where I regularly write about DevOps, automation & Cloud technologies.
 
-## Table of Contents
-1. [Next Conferences & Meetups](#next-conferences-&-meetups)
-
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
@@ -39,8 +36,10 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
    - **Description**: Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
 
 ### Past Conferences
-1. May 19, 2024: [Village Dumont Hackerspace](https://securitybsides.com.br/2024/atividades/)
+1. May 19, 2024: [BSides São Paulo, Village Dumont Hackerspace](https://securitybsides.com.br/2024/atividades/)
    - 18:00: Definindo sua pipeline de CI/CD no GitLab com o poderoso Checkov integrado ao Terraform, Amaury Borges Souza
+2. [DevOps Days São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/)
+  - Hotel Pullman São Paulo Vila Olímpia, Rua Olimpíadas, 205 - Vila Olímpia, São Paulo - SP, 04551-000
 
 ## DevSecOps Weekly Newsletter
 Subscribe to my [DevSecOps Newsletter](https://amauryborgessouza.substack.com/) for insights on SRE, Cloud, CNCF solutions, Terraform, Ansible, and events highlights. 
