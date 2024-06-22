@@ -20,7 +20,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 
 ## Next Conferences & Meetups
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to engage with thought leaders, participate in hands-on workshops, and expand your professional network.
-1. [**Zabbix CoffeeOps**](https://eventos.lhc.net.br/event/coffeeops-julho-s01-ep07)
+-  [**Zabbix CoffeeOps**](https://eventos.lhc.net.br/event/coffeeops-julho-s01-ep07)
    - **Date**: 📅July 20, 2024
    - **Location**: 📍Laboratório Hacker de Campinas
    - **Description**: ☕Estarei com a turma do CoffeeOps nesse dia TOP demais. 
