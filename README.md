@@ -26,20 +26,20 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
    - **Description**: Eatarei com a turma do CoffeeOps nesse dia TOP demais. 
 2. [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
    - **Date**: July 12, 2024
-   - **Location**: Tangará Palace, São Paulo
+   - **Location**: Palácio Tangará, São Paulo
    - **Description**: Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) na grade de comunidades onde apresentarei sobre:. "Práticas Seguras com a Nuvem".
    - **Speaker**: Amaury Borges Souza
    - **Summary**: Práticas Seguras para a Nuvem.
 3. [**Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
    - **Date**: June 26, 2024
-   - **Location**: Tangará Palace, São Paulo
+   - **Location**: Palácio Tangará, São Paulo
    - **Description**: Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
 
 ### Past Conferences
 1. May 19, 2024: [BSides São Paulo, Village Dumont Hackerspace](https://securitybsides.com.br/2024/atividades/)
    - 18:00: Definindo sua pipeline de CI/CD no GitLab com o poderoso Checkov integrado ao Terraform, Amaury Borges Souza
-2. [DevOps Days São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/)
-  - Hotel Pullman São Paulo Vila Olímpia, Rua Olimpíadas, 205 - Vila Olímpia, São Paulo - SP, 04551-000
+2. May 18, 2024: [DevOps Days São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/)
+  - Hotel Pullman, Vila Olímpia - São Paulo - SP, 04551-000
 
 ## DevSecOps Weekly Newsletter
 Subscribe to my [DevSecOps Newsletter](https://amauryborgessouza.substack.com/) for insights on SRE, Cloud, CNCF solutions, Terraform, Ansible, and events highlights. 
