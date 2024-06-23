@@ -47,7 +47,7 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
 -  Jun 06, 2024: [DevSecOps 101: Criando um pipeline de (IaC) com Terraform, Checkov & InfraCost](https://eventos.lhc.net.br/event/devsecops-101)
    - **Location**: 📍Laboratório Hacker de Campinas - São Paulo - SP
 -  May 22, 2024: [HashiTalks: Secure](https://events.hashicorp.com/hashitalkssecure)
-   -  **Location**: 🚀Conference Online
+   -  **Location**: 🚀Virtual
 -  May 19, 2024: [BSides São Paulo, Village Dumont Hackerspace](https://securitybsides.com.br/2024/atividades/), Definindo sua pipeline de CI/CD no GitLab com o poderoso Checkov integrado ao Terraform, Amaury Borges Souza
    -  **Location**: 📍Novotel São Paulo Jaragua Conventions - São Paulo - SP
 -  May 18, 2024: [DevOps Days São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/)
