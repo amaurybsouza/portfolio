@@ -32,7 +32,7 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
    - **Date**: 📅July 20, 2024
    - **Location**: 📍Laboratório Hacker de Campinas
    - **Description**: ☕Estarei com a turma do CoffeeOps nesse dia TOP demais. 
--  [**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/) (🎤Speaker)
+-  🎤[**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/) (🎤Speaker)
    - **Date**: 📅July 12, 2024
    - **Location**: 📍Expo Center Norte, São Paulo
    - **Description**: ☕Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) na grade de comunidades onde apresentarei sobre:. "Práticas Seguras com a Nuvem".
