@@ -1,3 +1,4 @@
+## Professional Career & Community Engagement
 Bachelor's degree from FATEC-AM and a post-graduate degree in Cloud Solutions Architecture. I share my insights through a DevSecOps newsletter on Substack, subscribe to stay updated! Additionally, you can find my tech articles and posts on Medium, where I regularly write about DevOps, automation & Cloud technologies.
 
 ## Latest Medium Posts
