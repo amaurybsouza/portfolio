@@ -1,6 +1,8 @@
 ## Professional Career
 Bachelor's degree from FATEC-AM and a post-graduate degree in Cloud Solutions Architecture. I share my insights through a DevSecOps newsletter on Substack, subscribe to stay updated! Additionally, you can find my tech articles and posts on Medium, where I regularly write about DevOps, automation & Cloud technologies.
 
+Explore my Medium posts where I delve into topics such as DevOps, Infrastructure as Code (IaC), Cloud Architecture, Containers, and more! Join me at upcoming conferences and meetups across Brazil for engaging discussions and knowledge sharing. Backing to code, check out my open-source projects on GitHub for hands-on examples. 
+
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
