@@ -5,9 +5,9 @@ Amaury has a proven track record of implementing comprehensive security solution
 - **Cloud Security Architecture**: Designing and implementing secure cloud infrastructures, ensuring alignment with best practices and compliance requirements.
 - **Identity and Access Management (IAM)**: Expertise in managing user identities and permissions to enforce the principle of least privilege.
 - **Data Encryption and Protection**: Implementing encryption strategies for data at rest and in transit, safeguarding sensitive information.
-- Threat Detection and Response: Proactively monitoring and responding to security threats using advanced tools and methodologies.
-- Compliance and Governance: Ensuring adherence to regulatory requirements such as GDPR, HIPAA, and industry-specific standards.
-- Security Audits and Assessments: Conducting thorough security audits and vulnerability assessments to identify and mitigate potential risks.
+- **Threat Detection and Response**: Proactively monitoring and responding to security threats using advanced tools and methodologies.
+- **Compliance and Governance**: Ensuring adherence to regulatory requirements such as GDPR, HIPAA, and industry-specific standards.
+- **Security Audits and Assessments**: Conducting thorough security audits and vulnerability assessments to identify and mitigate potential risks.
 
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
