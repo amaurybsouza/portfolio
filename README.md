@@ -1,7 +1,13 @@
 ## Professional Career
-Bachelor's degree from FATEC-AM and a post-graduate degree in Cloud Solutions Architecture. I share my insights through a DevSecOps newsletter on Substack, subscribe to stay updated! Additionally, you can find my tech articles and posts on Medium, where I regularly write about DevOps, automation & Cloud technologies.
+Amaury has a proven track record of implementing comprehensive security solutions that mitigate risks, protect sensitive data, and ensure compliance with industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection, Network Security, and Incident Response, Amaury has successfully designed and managed cloud architectures for numerous high-profile clients.
 
-Explore my Medium posts where I deep dive into topics such as DevOps, Infrastructure as Code (IaC), Cloud Architecture, Containers, and more! Join me at upcoming conferences and meetups across Brazil for engaging discussions and knowledge sharing. Backing to code, check out my open-source projects on GitHub for hands-on examples. 
+### Key Skills
+- Cloud Security Architecture: Designing and implementing secure cloud infrastructures, ensuring alignment with best practices and compliance requirements.
+- Identity and Access Management (IAM): Expertise in managing user identities and permissions to enforce the principle of least privilege.
+- Data Encryption and Protection: Implementing encryption strategies for data at rest and in transit, safeguarding sensitive information.
+- Threat Detection and Response: Proactively monitoring and responding to security threats using advanced tools and methodologies.
+- Compliance and Governance: Ensuring adherence to regulatory requirements such as GDPR, HIPAA, and industry-specific standards.
+- Security Audits and Assessments: Conducting thorough security audits and vulnerability assessments to identify and mitigate potential risks.
 
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
