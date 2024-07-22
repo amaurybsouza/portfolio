@@ -1,8 +1,8 @@
 ## Professional Career
-Amaury has a proven track record of implementing comprehensive security solutions that mitigate risks, protect sensitive data, and ensure compliance with industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection, Network Security, and Incident Response, Amaury has successfully designed and managed cloud architectures for numerous high-profile clients.
+Amaury has a proven track record of implementing comprehensive Cloud Security solutions that mitigate risks, protect sensitive data, and ensure compliance with Cloud industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection & DevSecOps, Amaury has successfully designed and managed cloud architectures for numerous high-profile projects.
 
 ### Key Skills
-- Cloud Security Architecture**: Designing and implementing secure cloud infrastructures, ensuring alignment with best practices and compliance requirements.
+- Cloud Security Architecture: Designing and implementing secure cloud infrastructures, ensuring alignment with best practices and compliance requirements.
 - Identity and Access Management (IAM): Expertise in managing user identities and permissions to enforce the principle of least privilege.
 - Data Encryption and Protection: Implementing encryption strategies for data at rest and in transit, safeguarding sensitive information.
 - Threat Detection and Response: Proactively monitoring and responding to security threats using advanced tools and methodologies.
