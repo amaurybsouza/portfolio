@@ -1,5 +1,7 @@
 ## Professional Career
-"Amaury has a proven track record of implementing comprehensive Cloud Security solutions that mitigate risks, protect sensitive data, and ensure compliance with Cloud industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection & DevSecOps, Amaury has successfully designed and managed cloud architectures for numerous high-profile projects".
+- ```echo "Loading..."```
+- ```sleep 2```
+- ```echo``` "Amaury has a proven track record of implementing comprehensive Cloud Security solutions that mitigate risks, protect sensitive data, and ensure compliance with Cloud industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection & DevSecOps, Amaury has successfully designed and managed cloud architectures for numerous high-profile projects".
 
 ### Key Skills
 - ```echo``` "Identity and Access Management (IAM)"
