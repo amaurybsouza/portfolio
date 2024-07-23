@@ -1,14 +1,16 @@
 ## Professional Career
-```$ echo``` Amaury has a proven track record of implementing comprehensive Cloud Security solutions that mitigate risks, protect sensitive data, and ensure compliance with Cloud industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection & DevSecOps, Amaury has successfully designed and managed cloud architectures for numerous high-profile projects.
+```$ echo``` 
+.
+.
+> "Amaury has a proven track record of implementing comprehensive Cloud Security solutions that mitigate risks, protect sensitive data, and ensure compliance with Cloud industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection & DevSecOps, Amaury has successfully designed and managed cloud architectures for numerous high-profile projects".
 
 ### Key Skills
-- Cloud Security Architecture: Designing and implementing secure cloud infrastructures, ensuring alignment with best practices and compliance requirements.
-- Identity and Access Management (IAM): Expertise in managing user identities and permissions to enforce the principle of least privilege.
-- Data Encryption and Protection: Implementing encryption strategies for data at rest and in transit, safeguarding sensitive information.
-- Threat Detection and Response: Proactively monitoring and responding to security threats using advanced tools and methodologies.
-- Compliance and Governance: Ensuring adherence to regulatory requirements such as GDPR, HIPAA, and industry-specific standards.
-- Security Audits and Assessments: Conducting thorough security audits and vulnerability assessments to identify and mitigate potential risks.
-
+- Identity and Access Management (IAM)
+- Data Protection
+- DevSecOps
+- Cloud Security Architecture
+- Cloud Compliance
+  
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Jul 14, 2024: [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
