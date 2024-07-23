@@ -1,13 +1,12 @@
 ## Professional Career
-```$ echo``` 
 > "Amaury has a proven track record of implementing comprehensive Cloud Security solutions that mitigate risks, protect sensitive data, and ensure compliance with Cloud industry standards and regulations. Specializing in Identity and Access Management (IAM), Data Protection & DevSecOps, Amaury has successfully designed and managed cloud architectures for numerous high-profile projects".
 
 ### Key Skills
-- Identity and Access Management (IAM)
-- Data Protection
-- DevSecOps
-- Cloud Security Architecture
-- Cloud Compliance
+- ```$ echo``` "Identity and Access Management (IAM)"
+- ```$ echo``` "Data Protection"
+- ```$ echo``` "DevSecOps"
+- ```$ echo``` "Cloud Security Architecture"
+- ```$ echo``` "Cloud Compliance"
   
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
