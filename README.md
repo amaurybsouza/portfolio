@@ -13,14 +13,14 @@
   
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
-> - Jul 14, 2024: [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
-> - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
-> - Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24)
-> - Oct 30, 2023: [Containers: Como funcionam? E porque usar na AWS pode ajudar!](https://amaurybsouza.medium.com/containers-como-funcionam-e-porque-usar-na-aws-pode-ajudar-2476737e01d7)
-> - Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
-> - Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
-> - Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
-> - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
+- Jul 14, 2024: [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
+- Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
+- Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amaurybsouza.medium.com/voc%C3%AA-j%C3%A1-conhece-o-blog-da-aws-community-buiders-c1972469be24)
+- Oct 30, 2023: [Containers: Como funcionam? E porque usar na AWS pode ajudar!](https://amaurybsouza.medium.com/containers-como-funcionam-e-porque-usar-na-aws-pode-ajudar-2476737e01d7)
+- Jul 25, 2023: [AWS Glossary [Part I]: List of frequently terms used on daily basis](https://amaurybsouza.medium.com/aws-glossary-part-i-list-of-frequently-terms-used-on-daily-basis-fe261f3394dd)
+- Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
+- Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
+- Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
 - May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
 - Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
