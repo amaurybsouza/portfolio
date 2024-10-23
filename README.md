@@ -3,10 +3,12 @@
 
 ### Key Skills
 - Identity and Access Management (IAM)
-- Data Protection
-- DevSecOps
 - Cloud Security Architecture
+- Cloud Resilient Architecture
+- DevSecOps Practices & Shift Left
 - Cloud Compliance
+- Vulnerability Management
+- SDLC (Software Development Life Cycle)
   
 ## Latest Medium Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
