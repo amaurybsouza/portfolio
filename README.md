@@ -1,19 +1,3 @@
-``` 
-#!/usr/bin/env bash
-# ----------------------------------------------------------------------------------------------------------------------------------------- #
-# Script Name:   portfolio.sh 
-# Description:   Professional Portfolio
-# Site:          https://www.linkedin.com/in/amaurybsouza/
-# Written by:    Amaury Borges Souza
-# Maintenance:   Amaury Borges Souza
-# ---------------------------------------------------------------------------------------------------------------------------------------- #
-# Usage:         
-#       $ ./portfolio.sh
-# ---------------------------------------------------------------------------------------------------------------------------------------- #
-# Tested on:  
-#       Bash 4.2.46
-# ---------------------------------------------------------------------------------------------------------------------------------------- #
-```
 ## Professional Career
 11yoe working on Banks (SunTrust Banks Inc., Bradesco S/A), Consulting (CI&T, IBM, Kyndryl, TechFor, MetLife, Govt.) companies making impactful contributions. I'm {💼Cloud Security Architect} dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, cloud security, infrastructure as code (IaC)🏗️ & cloud native☁️. I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/) and I love writing tech posts at [Medium](https://amaurybsouza.medium.com/). I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program and I have been selected as a [HashiCorp User Group Lead](https://www.meetup.com/campinas-hashicorp-user-group/) within open source community. 
 
