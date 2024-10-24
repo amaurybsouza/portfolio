@@ -33,16 +33,16 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 
 ## Conferences & meetups I'm attending
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
-- [📅"HashiConf 2025"](https://www.hashicorp.com/conferences/hashiconf/register) - <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">*(It was 2+ days packed with big product announcements, lots of learning)*.
+- [📅"HashiConf 2025"](https://www.hashicorp.com/conferences/hashiconf/register)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">*(It was 2+ days packed with big product announcements, lots of learning)*.
   - September 24,25/2025 (San Francisco - USA).
-- [📅"AWS Summit 2025"](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial"> *(Technical community gathering to connect, collaborate, and learn about AWS)*.
+- [📅"AWS Summit 2025"](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial"> *(Technical community gathering to connect, collaborate, and learn about AWS)*.
   - August/2025 (São Paulo - BRA).
-- [📅"BSides SP"](https://securitybsides.com.br/2024/) *(Security BSides is an event that reinforces the hacking scene at its roots)*.
+- [📅"BSides SP"](https://securitybsides.com.br/2024/)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial"> *(Security BSides is an event that reinforces the hacking scene at its roots)*.
   - July/2025 (São Paulo - BRA).
-- [📅"IAM Tech Day"](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) *(Join the first IAM-focused conference in Brazil!)*.
+- [📅"IAM Tech Day"](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial"> *(Join the first IAM-focused conference in Brazil!)*.
   - April/2025 (São Paulo - BRA).
 - [📅DevOps Days São Paulo 2025](https://devopsdays.org) *(DevOps Days is a worldwide series of technical conferences)*.
-  - April/2025 (São Paulo - BRA). <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+  - April/2025 (São Paulo - BRA).
 
 ## Viva o Linux Posts
 Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
