@@ -39,34 +39,6 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
   - August - 2025 (São Paulo - BRA).
 
 
-
-
-
-
-
-- [bxsec](https://bxsec.org/2024/)
-   - **Date**: 📅Aug 24, 2024
-   - **Location**: 📍Santos, São Paulo
-   - **Description**: ☕É uma conferência de segurança da informação que nasceu em 2016 na cidade de Santos-SP (Baixada Santista), o primeiro evento oficial aconteceu em 2017 seguindo os conceitos de comunidade.
-- [**HashiTalks: Brasil 2024**](https://events.hashicorp.com/hashitalksbrasil)
-   - **Date**: 📅Aug 01, 2024
-   - **Location**: 📍Online Conference
-   - **Description**: ☕Os HashiTalks regionais permitem que palestrantes de todos os níveis de experiência compartilhem conhecimento virtualmente.
--  [**Zabbix CoffeeOps**](https://eventos.lhc.net.br/event/coffeeops-julho-s01-ep07)
-   - **Date**: 📅July 20, 2024
-   - **Location**: 📍Laboratório Hacker de Campinas
-   - **Description**: ☕Estarei com a turma do CoffeeOps nesse dia TOP demais. 
--  🎤[**CPBR16 - Campus Party Brasil 2024**](https://brasil.campus-party.org/cpbr16/)
-   - **Date**: 📅July 12, 2024
-   - **Location**: 📍Expo Center Norte, São Paulo
-   - **Description**: ☕Estarei presente na #CPBR16 com o [Dumont Hackerspace](@dumonths) na grade de comunidades onde apresentarei sobre:. "Práticas Seguras com a Nuvem".
-   - **Speaker**: Amaury Borges Souza
-   - **Summary**: Práticas Seguras para a Nuvem.
--  [**Paloalto Ignite on Tour São Paulo: Cybersecurity for the AI Era**](https://register.paloaltonetworks.com/igniteontoursaopaulo)
-   - **Date**: 📅June 26, 2024
-   - **Location**: 📍Palácio Tangará, São Paulo
-   - **Description**: ☕Junte-se a nós em 26 de junho de 2024 em São Paulo, no Ignite on Tour, um evento exclusivo com duração de um dia e foco em networking e estratégias de segurança cibernética especificamente para os influenciadores e líderes da área.
-
 ### Past Conferences
 -  🎤Jun 06, 2024: [DevSecOps 101: Criando um pipeline de (IaC) com Terraform, Checkov & InfraCost](https://eventos.lhc.net.br/event/devsecops-101)
    - **Location**: 📍Laboratório Hacker de Campinas - São Paulo - SP
