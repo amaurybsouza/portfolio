@@ -9,7 +9,7 @@ I actively foster collaboration within the tech community. My ability to adapt t
 - Cloud Security Architecture
 - Cloud Resilient Architecture
 - DevSecOps Practices & Shift Left
-- Cloud Compliance
+- IaC (Infrastructure as Code)
 - Vulnerability Management
 - SDLC (Software Development Life Cycle)
   
