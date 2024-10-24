@@ -31,7 +31,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 
-## Conferences and meetups I'm attending
+## Conferences & meetups I'm attending
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to engage with thought leaders, participate in hands-on workshops, and expand your professional network.
 - [📅HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) (Technical community gathering to connect, collaborate, and learn about AWS)
   - September 24,25/2025 (San Francisco - USA).
