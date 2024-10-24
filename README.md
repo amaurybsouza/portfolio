@@ -1,6 +1,8 @@
 ## Professional Career
 11yoe working on banks (SunTrust Banks Inc., Bradesco S/A), consulting companies like (CI&T, IBM, Kyndryl, TechFor, MetLife, Govt.) making impactful contributions. I'm Cloud Security Architect dedicated to continuous learning, expanding my knowledge daily in areas like solutions architecture, cloud security, (IaC) infrastructure as code & cloud native. I keep a newsletter filled with awesome DevOps stuff at [Substack](https://amauryborgessouza.substack.com/) and I love writing tech posts at [Medium](https://amaurybsouza.medium.com/). I was invited to participate into the [AWS Community Builders](https://aws.amazon.com/pt/developer/community/community-builders/) program and I have been selected as a [HashiCorp User Group Lead](https://www.meetup.com/campinas-hashicorp-user-group/) within open source community. 
 
+Backing to the tech community & open-source projects, for last months I have worked closely with several people to keep and create new possibilities to learn and share around Cloud contents and Hashicorp products. Finally, recently I was ranked 50th among the TOP GitHub users by public contributions in Brazil. If you want me to speak at your event or company for work, please email amauryborgesouza@gmail.com. If you want me to speak at your community event for personal or open source, please dm me at X [@amaurybsouza_](x.com/@amaurybsouza_).
+
 ### Key Skills
 - Identity and Access Management (IAM)
 - Cloud Security Architecture
