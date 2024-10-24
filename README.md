@@ -13,7 +13,7 @@ I actively foster collaboration within the tech community. My ability to adapt t
 - Vulnerability Management
 - SDLC (Software Development Life Cycle)
   
-## Latest Medium Posts
+## Latest Medium posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Jul 14, 2024: [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
 - Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
@@ -31,7 +31,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
 
-## Next Conferences and Meetups I'll go
+## Next conferences and meetups I'll go
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to engage with thought leaders, participate in hands-on workshops, and expand your professional network.
 - [📅HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) (Technical community gathering to connect, collaborate, and learn about AWS)
   - September 24,25 - 2025 (San Francisco - USA).
