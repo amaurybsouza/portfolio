@@ -36,10 +36,8 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
 - [📅"HashiConf 2025"](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/USA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [📅"AWS Summit 2025"](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [📅"BSides SP"](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [📅"IAM Tech Day"](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial"> *(Join the first IAM-focused conference in Brazil!)*.
-  - April/2025 (São Paulo - BRA).
-- [📅DevOps Days São Paulo 2025](https://devopsdays.org) *(DevOps Days is a worldwide series of technical conferences)*.
-  - April/2025 (São Paulo - BRA).
+- [📅"IAM Tech Day"](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [📅DevOps Days São Paulo 2025](https://devopsdays.org) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 
 ## Viva o Linux Posts
 Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
