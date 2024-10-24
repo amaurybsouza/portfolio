@@ -38,17 +38,6 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
 - [📅AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) (Technical community gathering to connect, collaborate, and learn about AWS)
   - August - 2025 (São Paulo - BRA).
 
-
-### Past Conferences
--  🎤Jun 06, 2024: [DevSecOps 101: Criando um pipeline de (IaC) com Terraform, Checkov & InfraCost](https://eventos.lhc.net.br/event/devsecops-101)
-   - **Location**: 📍Laboratório Hacker de Campinas - São Paulo - SP
--  May 22, 2024: [HashiTalks: Secure](https://events.hashicorp.com/hashitalkssecure)
-   -  **Location**: 🚀Virtual
--  🎤May 19, 2024: [BSides São Paulo, Village Dumont Hackerspace](https://securitybsides.com.br/2024/atividades/), Definindo sua pipeline de CI/CD no GitLab com o poderoso Checkov integrado ao Terraform, Amaury Borges Souza
-   -  **Location**: 📍Novotel São Paulo Jaragua Conventions - São Paulo - SP
--  May 18, 2024: [DevOps Days São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/)
-   - **Location:** 📍Hotel Pullman, Vila Olímpia - São Paulo - SP
-
 ## Viva o Linux Posts
 Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
 - Jul 14, 2024: [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
