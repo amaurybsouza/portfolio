@@ -65,6 +65,11 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
    -  **Location**: 📍Novotel São Paulo Jaragua Conventions - São Paulo - SP
 -  May 18, 2024: [DevOps Days São Paulo](https://devopsdays.org/events/2024-sao-paulo/welcome/)
    - **Location:** 📍Hotel Pullman, Vila Olímpia - São Paulo - SP
+
+## Viva o Linux Posts
+Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
+- Jul 14, 2024: [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
+- Feb 02, 2024: [Módulos do Terraform — Porque você precisa aprender para ontem!](https://amaurybsouza.medium.com/m%C3%B3dulos-do-terraform-porque-voc%C3%AA-precisa-aprender-para-ontem-40115d7b9162)
      
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
