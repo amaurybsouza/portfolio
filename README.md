@@ -38,6 +38,8 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
 - [📅"BSides SP"](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [📅"IAM Tech Day"](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [📅DevOps Days São Paulo 2025](https://devopsdays.org) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [📅DevOps Days Campinas 2025](https://devopsdays.org) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 
 ## Viva o Linux Posts
 Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
