@@ -41,6 +41,8 @@ Below are the scheduled conferences and meetups that I am either organizing, spe
   - July/2025 (São Paulo - BRA).
 - [📅"IAM Tech Day"](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) *(Join the first IAM-focused conference in Brazil!)*.
   - April/2025 (São Paulo - BRA).
+- [📅DevOps Days São Paulo 2025](https://devopsdays.org) *(DevOps Days is a worldwide series of technical conferences)*.
+  - April/2025 (São Paulo - BRA).
 
 ## Viva o Linux Posts
 Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
