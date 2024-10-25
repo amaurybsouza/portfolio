@@ -41,8 +41,10 @@ Check out my journey into Linux with other enthusiasts on [Viva o Linux](https:/
 - #Bash: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) - [Hits: 3.575].
 - #Bash: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) - [Hits: 3.011].
 - #Bash: [Instalação de programas no Ubuntu Linux](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) - [Hits: 2.168].
+- #Bash: [Relatório de suprimentos da empresa ](https://www.vivaolinux.com.br/script/Relatorio-de-suprimentos-da-empresa/) - [Hits: 1.443].
+- #Bash: [Limpeza dos dados do rConfig (Gerenciamento de configuração](https://www.vivaolinux.com.br/script/Limpeza-dos-dados-do-rConfig-ferramenta-open-source-de-gerenciamento-de-configuracao/) - [Hits: 2.906].
 
-## Conferences & meetups I'm attending
+## Conferences I'm attending
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
 - [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/CA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [HashiTalks 2025](https://events.hashicorp.com/hashitalks2024) - (Virtual Event)<img src="https://img.shields.io/badge/Virtual-blue.svg" alt="Virtual">
