@@ -32,10 +32,11 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255).
 
 ## Viva o Linux contributions
-Check out my journey into Linux with other enthusiasts on [Viva o Linux](https://www.vivaolinux.com.br/) to growth with the Linux community.
+Check out my journey into Linux with other enthusiasts on [Viva o Linux](https://www.vivaolinux.com.br/).
 - Post: [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/) - [Hits: 2.931].
 - Post: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/) - [Hits: 7.518].
 - Post: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/) - [Hits: 12.274].
+- Post: [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/) - [Hits: 6.914].
 
 ## Conferences & meetups I'm attending
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
