@@ -33,10 +33,10 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 
 ## Conferences & meetups I'm attending
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
-- ["HashiConf 2025"](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/USA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- ["AWS Summit 2025"](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- ["BSides SP"](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- ["IAM Tech Day"](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/USA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- ["BSides SP](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [IAM Tech Day](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [DevOps Days São Paulo 2025](https://devopsdays.org) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [DevOps Days Campinas 2025](https://devopsdays.org) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
