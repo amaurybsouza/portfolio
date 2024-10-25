@@ -39,6 +39,8 @@ Check out my journey into Linux with other enthusiasts on [Viva o Linux](https:/
 - Article: [Gerenciamento de pacotes Debian - principais comandos LPIC-1](https://www.vivaolinux.com.br/artigo/Gerenciamento-de-pacotes-Debian-principais-comandos-LPIC-1/) - [Hits: 6.914].
 - Post: [Zabbix Database Fully](https://www.vivaolinux.com.br/topico/Zabbix/Banco-de-dados-cheio)
 - #Bash: [Backup de diretórios do sistema Linux](https://www.vivaolinux.com.br/script/Backup-de-diretorios-do-sistema-Linux/) - [Hits: 3.575].
+- #Bash: [Gerenciamento com firewalld no CentOS 7](https://www.vivaolinux.com.br/script/Gerenciamento-com-firewalld-no-CentOS-7/) - [Hits: 3.011].
+- #Bash: [Instalação de programas no Ubuntu Linux](https://www.vivaolinux.com.br/script/Instalacao-de-programas-no-Ubuntu-Linux/) - [Hits: 2.168].
 
 ## Conferences & meetups I'm attending
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
