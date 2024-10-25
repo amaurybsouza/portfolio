@@ -26,10 +26,16 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
 - Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
 - Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
-- Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6)
-- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7)
-- Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f)
-- Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255)
+- Jan 28, 2023: [5 projetos do GitHub essenciais para um DevOps Engineer em 2023](https://amaurybsouza.medium.com/5-projetos-do-github-essenciais-para-um-devops-engineer-em-2023-1d4039b1eec6).
+- Jan 19, 2023: [5 ferramentas de DevOps que você precisa conhecer em 2023](https://amaurybsouza.medium.com/5-ferramentas-de-devops-que-voc%C3%AA-precisa-conhecer-em-2023-866e41c8f3c7).
+- Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f).
+- Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255).
+
+## Viva o Linux contributions
+Check out my journey into Linux with other enthusiasts, where I am sharing my posts and #bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/) to growth with the Linux community.
+- Post: [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/) - [Hits: 2.931].
+- Post: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/) - [Hits: 7.518].
+- Post: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/) - [Hits: 12.274].
 
 ## Conferences & meetups I'm attending
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
@@ -46,12 +52,6 @@ Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hash
 - [DevOps Days Campinas 2025](https://devopsdays.org) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [TDC - The Developers Conference](https://thedevconf.com/tdc/2024/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-
-## Viva o Linux contributions
-Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
-- Post: [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/) - [Hits: 2.931].
-- Post: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/) - [Hits: 7.518].
-- Post: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/) - [Hits: 12.274].
      
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
