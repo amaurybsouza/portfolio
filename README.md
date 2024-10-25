@@ -45,6 +45,8 @@ Check out my journey into Linux with other enthusiasts on [Viva o Linux](https:/
 - #Bash: [Limpeza dos dados do rConfig (Gerenciamento de configuração](https://www.vivaolinux.com.br/script/Limpeza-dos-dados-do-rConfig-ferramenta-open-source-de-gerenciamento-de-configuracao/) - [Hits: 2.906].
 - #Bash: [Instalação do LAMP no Linux Ubuntu](https://www.vivaolinux.com.br/script/Instalacao-do-LAMP-no-Linux-Ubuntu/) - [Hits: 6.052].
 - #Bash: [Gerenciamento de software e hardware de desktop](https://www.vivaolinux.com.br/script/Gerenciamento-de-software-e-hardware-de-desktop/) - [Hits: 5.353].
+- #Bash: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) - [Hits: 5.330].
+- Tips: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/dica/Gerenciamento-de-usuarios-e-grupos-no-Linux-LPIC-102/) - [Hits: 3.705].
 
 ## Tech Conferences I'm attending
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
