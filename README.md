@@ -47,9 +47,11 @@ Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hash
 - [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [TDC - The Developers Conference](https://thedevconf.com/tdc/2024/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 
-## Viva o Linux constributions
+## Viva o Linux contributions
 Check out my journey into Linux with other enthusiasts where I am sharing my posts and bash scripts on [Viva o Linux](https://www.vivaolinux.com.br/), aiming to inspire, connect, and grow with the Linux community.
 - Post: [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/) - [Hits: 2.931].
+- Post: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/) - [Hits: 7.518].
+- Post: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/) - [Hits: 12.274].
      
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
