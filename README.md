@@ -33,7 +33,8 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 
 ## Conferences & meetups I'm attending
 Below are the scheduled conferences and meetups that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
-- [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/USA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/CA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [AWS re:Invent 2025](https://reinvent.awsevents.com/) - (Las Vegas/NV)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [HashiTalks 2025](https://events.hashicorp.com/hashitalks2024) - (Virtual Event)<img src="https://img.shields.io/badge/Virtual-blue.svg" alt="Virtual">
 - [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [AWS Community Day Brasil](https://awscommunityday.com.br/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
