@@ -32,7 +32,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255).
 
 ## Viva o Linux contributions
-Check out my journey into Linux with other enthusiasts on [Viva o Linux](https://www.vivaolinux.com.br/).
+Check out my journey into Linux with other enthusiasts on [Viva o Linux](https://www.vivaolinux.com.br/). 🏆Ranked: 1930 (🎉71.121 points).
 - Article: [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/) - [Hits: 2.931].
 - Article: [Principais Comandos de Gestão e Prioridade de Processos no Linux](https://www.vivaolinux.com.br/artigo/Principais-Comandos-de-Gestao-e-Prioridade-de-Processos-no-Linux/) - [Hits: 7.518].
 - Article: [Sistema de gerenciamento de logs do Linux](https://www.vivaolinux.com.br/artigo/Sistema-de-gerenciamento-de-logs-do-Linux/) - [Hits: 12.274].
