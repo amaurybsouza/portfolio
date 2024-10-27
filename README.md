@@ -17,7 +17,7 @@ https://eventos.lhc.net.br/
 https://devopsdays.org/
 
 ### Certifications
-I have recognized for my [expertise](https://www.credly.com/users/amaury-souza.725c7326), I've achieved certifications in Linux, AWS, Azure & Terraform. Additionally, my post-graduate degree in [Solutions Architecture](https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/ArquiteturadeSolucoes_EAD_Especializacao%20e%20Master.aspx?pageID=5286&moda=5&polo=43&curso=1140&situ=1) provides a solid foundation for designing and implementing scalable and secure cloud solutions. My ability to adapt to new technologies and industry trends, combined with my strong communication learned with community, and problem-solving skills, allows me to deliver exceptional results in cloud security. Over the past months, I've spearheaded initiatives to create and share knowledge around cloud technologies and HashiCorp products.
+I have recognized for my expertise, I've achieved certifications in Linux, AWS, Azure & Terraform. Additionally, my post-graduate degree in Solutions Architecture provides a solid foundation for designing and implementing scalable and secure cloud solutions. My ability to adapt to new technologies and industry trends, combined with my strong communication learned with community, and problem-solving skills, allows me to deliver exceptional results in cloud security. 
 
 ### Key Skills
 - Linux (Bash Scripts, Regex & CLI)
