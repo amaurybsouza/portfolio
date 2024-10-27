@@ -2,8 +2,12 @@
 Over 11yoe, I've built a strong track record in technology area, such as, Linux, Cloud Security & DevSecOps, driving impactful contributions at leading banks (SunTrust, Bradesco) and consulting firms (CI&T, IBM, Kyndryl, etc.). As a Cloud Security Architect, I leverage automation and emerging technologies like AI to continuously enhance security posture. My passion for knowledge sharing extends beyond my work. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ### Knowledge Sharing
-I curate a DevSecOps newsletter at [Substack](https://amauryborgessouza.substack.com/), I love writing tech posts at [Medium](https://amaurybsouza.medium.com/), also I contribute in [Linux Blog](https://www.vivaolinux.com.br/) website and actively collaborate to open-source communities (AWS User Group Campinas, HashiCorp User Group Campinas, Hackerspaces, DevOps Days). I create several open-source projects, you can see my contributions on [GitHub](https://github.com/amaurybsouza).
-
+I'm passionate about sharing my knowledge and experiences within the tech community. Here are a few ways you can find my work:
+- **DevSecOps Newsletter**: I curate a newsletter focusing on DevSecOps best practices and trends. Check it out on [Substack](https://amauryborgessouza.substack.com/).
+- **Medium**: I frequently write technical articles on various topics. You can find them on my [Medium](https://amaurybsouza.medium.com/).
+- **Open Source Contributions**: I actively contribute to open-source projects. You can see my contributions on [GitHub](https://github.com/amaurybsouza).
+- **Linux Blog**: I contribute in [Linux Blog](https://www.vivaolinux.com.br/) website.
+  
 ### Community Leadership
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
 
