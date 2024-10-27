@@ -68,6 +68,8 @@ Check out my open-source journey with Linux in [Viva o Linux](https://www.vivaol
 - #Bash: [Atualizar Sistema - Ubuntu](https://www.vivaolinux.com.br/script/Atualizar-Sistema-Ubuntu/) - [Hits: 5.330].
 - Tips: [Gerenciamento de usuários e grupos no Linux - LPIC-102](https://www.vivaolinux.com.br/dica/Gerenciamento-de-usuarios-e-grupos-no-Linux-LPIC-102/) - [Hits: 3.705].
 
+---
+
 ## Tech Conferences I'm attending
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
 - [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/CA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
