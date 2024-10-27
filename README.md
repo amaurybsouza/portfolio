@@ -1,5 +1,5 @@
 ## Professional Experience
-Over 11yoe, I've built a track record in technology area working with Linux, Cloud Security & DevSecOps, driving big contributions at banks (SunTrust, Bradesco) and consulting firms (CI&T, IBM, Kyndryl, etc.). As a Cloud Security Architect, I leverage automation and emerging technologies like AI to continuously enhance security posture. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
+11+ years of experience, I've built a track record in technology area working with Linux, Cloud Security & DevSecOps, driving big contributions at banks (SunTrust, Bradesco) and consulting firms (CI&T, IBM, Kyndryl, etc.). As a Cloud Security Architect, I leverage automation and emerging technologies like AI to continuously enhance security posture. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ### Knowledge Sharing
 I'm passionate about sharing my knowledge and experiences within the tech community. 
