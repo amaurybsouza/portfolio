@@ -9,7 +9,7 @@ I'm passionate about sharing knowledge and empowering others. As an[ AWS Communi
 
 - AWS Community Builders:
 https://aws.amazon.com/developer/community/community-builders/
-- HashiCorp U.G Campinas:
+- HashiCorp User Group Campinas:
 https://www.hashicorp.com/community
 - Hackerspace (LHC Campinas):
 https://eventos.lhc.net.br/
