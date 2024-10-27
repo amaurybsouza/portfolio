@@ -28,6 +28,8 @@ I have recognized for my expertise, I've achieved certifications in platforms li
 - Infrastructure as Code Mastery
 - Vulnerability Management
 - SDLC (Software Development Life Cycle)
+
+---
   
 ## Latest Medium posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
