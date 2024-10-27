@@ -5,14 +5,16 @@ Over 11yoe, I've built a strong track record in technology area, such as, Linux,
 I curate a DevSecOps newsletter at [Substack](https://amauryborgessouza.substack.com/), I love writing tech posts at [Medium](https://amaurybsouza.medium.com/), also I contribute in [Viva o Linux](https://www.vivaolinux.com.br/) website and actively collaborate to open-source communities ([AWS User Group Campinas](https://www.meetup.com/pt-BR/awscampinas/), [HashiCorp User Group Campinas](https://www.meetup.com/campinas-hashicorp-user-group/), [Hackerspaces](https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal), [DevOps Days](https://devopsdays.org/)). 
 
 ### Community Leadership
-I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and HashiCorp U.G. Lead, I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
+I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
 
 - AWS Community Builders:
 https://aws.amazon.com/developer/community/community-builders/
 - HashiCorp U.G Campinas:
 https://www.hashicorp.com/community
-- Hackerspaces (LHC Campinas):
-https://lhc.net.br/w/index.php?title=P%C3%A1gina_principal
+- Hackerspace (LHC Campinas):
+https://eventos.lhc.net.br/
+- DevOps Days:
+https://devopsdays.org/
 
 ### Certifications
 I have recognized for my [expertise](https://www.credly.com/users/amaury-souza.725c7326), I've achieved certifications in Linux, AWS, Azure & Terraform. Additionally, my post-graduate degree in [Solutions Architecture](https://www.pucminas.br/Pos-Graduacao/IEC/Cursos/Paginas/ArquiteturadeSolucoes_EAD_Especializacao%20e%20Master.aspx?pageID=5286&moda=5&polo=43&curso=1140&situ=1) provides a solid foundation for designing and implementing scalable and secure cloud solutions. My ability to adapt to new technologies and industry trends, combined with my strong communication learned with community, and problem-solving skills, allows me to deliver exceptional results in cloud security. Over the past months, I've spearheaded initiatives to create and share knowledge around cloud technologies and HashiCorp products.
