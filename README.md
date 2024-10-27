@@ -49,6 +49,8 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Dez 26, 2022: [O Terraform em 2023](https://amaurybsouza.medium.com/o-terraform-em-2023-%EF%B8%8F-fa0090b0424f).
 - Nov 08, 2022: [Eu fui no #devopsdaysrio2022](https://amaurybsouza.medium.com/eu-fui-no-devopsdaysrio2022-329a2af38255).
 
+---
+
 ## Viva o Linux contributions
 Check out my open-source journey with Linux in [Viva o Linux](https://www.vivaolinux.com.br/). 🏆Ranked: 1.930 (🎉71.121 points).
 - Article: [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/) - [Hits: 2.931].
