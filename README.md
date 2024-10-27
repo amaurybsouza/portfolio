@@ -2,7 +2,7 @@
 Over 11yoe, I've built a track record in technology area working with Linux, Cloud Security & DevSecOps, driving big contributions at banks (SunTrust, Bradesco) and consulting firms (CI&T, IBM, Kyndryl, etc.). As a Cloud Security Architect, I leverage automation and emerging technologies like AI to continuously enhance security posture. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ### Knowledge Sharing
-I'm passionate about sharing my knowledge and experiences within the tech community. Here are a few ways you can find my work:
+I'm passionate about sharing my knowledge and experiences within the tech community. 
 - **DevSecOps Newsletter**: I curate a newsletter focusing on DevSecOps. Check out on [Substack](https://amauryborgessouza.substack.com/).
 - **Medium**: I frequently write technical post about tech on my [Medium](https://amaurybsouza.medium.com/).
 - **Open Source Contributions**: I actively contribute to open-source projects on [GitHub](https://github.com/amaurybsouza).
