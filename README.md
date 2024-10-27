@@ -11,17 +11,13 @@ I'm passionate about sharing my knowledge and experiences within the tech commun
 ### Community Leadership
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
 
-- AWS Community Builders:
-https://aws.amazon.com/developer/community/community-builders/
-- HashiCorp User Group Campinas:
-https://www.hashicorp.com/community
-- Hackerspace (LHC Campinas):
-https://eventos.lhc.net.br/
-- DevOps Days:
-https://devopsdays.org/
+- **AWS Community Builders**: https://aws.amazon.com/developer/community/community-builders/
+- **HashiCorp User Group Campinas**: https://www.hashicorp.com/community
+- **Hackerspace (LHC Campinas)**: https://eventos.lhc.net.br/
+- **DevOps Days**: https://devopsdays.org/
 
 ### Certifications
-I have recognized for my expertise, I've achieved certifications in Linux, AWS, Azure & Terraform. Additionally, my post-graduate degree in Solutions Architecture provides a solid foundation for designing and implementing scalable and secure cloud solutions. My ability to adapt to new technologies and industry trends, combined with my strong communication learned with community, and problem-solving skills, allows me to deliver exceptional results in cloud security. 
+I have recognized for my expertise, I've achieved certifications in platforms like Linux, CyberSecurity, AWS, Azure & Terraform. Additionally, my post-graduate degree in Solutions Architecture provides a solid foundation for designing and implementing scalable and secure cloud solutions.
 
 ### Key Skills
 - Linux (Bash Scripts, Regex & CLI)
