@@ -12,8 +12,8 @@ I'm passionate about sharing my knowledge and experiences within the tech commun
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
 - [**AWS Community Builders**](https://aws.amazon.com/pt/developer/community/community-builders/): The program focuses on providing education and community engagement opportunities.
 - [**HashiCorp User Group Campinas**](https://www.hashicorp.com/community): I help organize technical events, workshops and I lead Hashicorp initiatives in Campinas.
-- [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): Provides an open & community space for tech enthusiasts to develop their porjects like , computing, automations.
-- **DevOps Days**: https://devopsdays.org/
+- [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): I like to create the workshops to teach several topics about tech.
+- [**DevOps Days**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
 
 ### Certifications
 I have recognized for my expertise, I've achieved [badges](https://openprofile.dev/profile/amauryborgesouza), courses and certifications in platforms like Linux, CNCF projects, CyberSecurity, AWS, Azure & Terraform. Additionally, my post-graduate degree in Solutions Architecture provides a solid foundation for designing and implementing scalable and secure cloud solutions.
