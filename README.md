@@ -11,7 +11,7 @@ I'm dedicated to empowering others through knowledge sharing, committed to lifel
 ### Community Leadership
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
 - [**AWS Community Builders**](https://aws.amazon.com/pt/developer/community/community-builders/): I lead the AWS initiatives locally in Campinas (posts, events).
-- [**HashiCorp User Group Campinas**](https://www.hashicorp.com/community): I lead Hashicorp initiatives in Campinas region (meetups, workshops).
+- [**HashiCorp U.G. Campinas**](https://www.hashicorp.com/community): I lead Hashicorp initiatives in Campinas region (meetups, workshops).
 - [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): I like to create the workshops to teach several topics about tech.
 - [**DevOps Days**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
 
