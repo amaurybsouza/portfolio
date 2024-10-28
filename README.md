@@ -11,8 +11,8 @@ I'm passionate about sharing my knowledge and experiences within the tech commun
 ### Community Leadership
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
 
-- **AWS Community Builders**: https://aws.amazon.com/developer/community/community-builders/
-- **HashiCorp User Group Campinas**: https://www.hashicorp.com/community
+- [**AWS Community Builders**](https://aws.amazon.com/pt/developer/community/community-builders/): The Community Builders program focuses on providing education and community engagement opportunities.
+- [**HashiCorp User Group Campinas**](https://www.hashicorp.com/community):
 - **Hackerspace (LHC Campinas)**: https://eventos.lhc.net.br/
 - **DevOps Days**: https://devopsdays.org/
 
