@@ -84,6 +84,8 @@ Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hash
 - [DevOps Days Campinas 2025](https://devopsdays.org) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [TDC - The Developers Conference](https://thedevconf.com/tdc/2024/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+
+---
      
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
@@ -103,23 +105,7 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 - Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (*basic Kubernetes environment to play into your envr.*).
 - Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (*basic Helm Chart using NGINX webserver on K8S*).
 
-## DevSecOps Weekly Newsletter
-Subscribe to my [DevSecOps Newsletter](https://amauryborgessouza.substack.com/) for insights on SRE, Cloud, CNCF solutions, Terraform, Ansible, and events highlights. 
-- Jan 08, 2024: [Passei no exame da Linux Foundation (Cybersecurity Essentials (LFC108))](https://amauryborgessouza.substack.com/p/passei-no-exame-da-linux-foundation) #29
-- Jan 08, 2024: [Hashicorp Ambassador 2024](https://amauryborgessouza.substack.com/p/hashicorp-ambassador-2024) #28
-- Nov 13, 2023: [Usa Terraform CLI e quer mais facilidade?](https://amauryborgessouza.substack.com/p/usa-terraform-cli-e-quer-mais-facilidade) #27
-- Nov 06, 2023: [Você já conhece o blog da AWS Community Buiders?](https://amauryborgessouza.substack.com/p/voce-ja-conhece-o-blog-da-aws-community) #26
-- Oct 02, 2023: [ChatGPT + DevOps: O que você precisa saber!](https://amauryborgessouza.substack.com/p/chatgpt-devops-o-que-voce-precisa) #25
-- Sep 25, 2023: [Ansible (ad-hoc): O que é? Quando usar?](https://amauryborgessouza.substack.com/p/ansible-ad-hoc-o-que-e-quando-usar) #24
-- Sep 24, 2023: [Habilidades desejáveis para pessoa Arquiteta de Software](https://amauryborgessouza.substack.com/p/habilidades-desejaveis-para-pessoa) #23
-- Sep 23, 2023: [Hacktoberfest 2023 chegando com TUDO](https://amauryborgessouza.substack.com/p/hacktoberfest-2023-chegando-com-tudo) #22
-- Sep 22, 2023: [Nova certificação de mercado: Istio Certified Associate (ICA)](https://amauryborgessouza.substack.com/p/nova-certificacao-de-mercado-istio) #21
-- Sep 21, 2023: [É importante saber uma lang para SRE?](https://amauryborgessouza.substack.com/p/e-importante-saber-uma-lang-para) #20
-- Apr 23, 2023: [Hashicorp Terraform passa de 3k de providers](https://amauryborgessouza.substack.com/p/hashicorp-terraform-passa-de-3k-de) #19
-- Apr 03, 2023: [O how-to oficial do Docker que ajuda demais](https://amauryborgessouza.substack.com/p/o-how-to-oficial-do-docker-que-ajuda) #18
-- Mar 23, 2023: [CI/CD com GitHub Actions](https://amauryborgessouza.substack.com/p/cicd-com-github-actions) #18
-- Nov 25, 2022: [Platform Engineering pode vir, mas Ansible e Shell Script nunca sairá de moda](https://amauryborgessouza.substack.com/p/platform-engineering-pode-vir-mas-22-11-25) #18
-- Nov 14, 2022: [GitHub vê um aumento na adoção de IaC](https://www.getrevue.co/profile/amaurybsouza_/issues/github-ve-um-aumento-na-adocao-de-iac-1433137) #17
+---
 
 ## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
