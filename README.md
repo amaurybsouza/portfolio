@@ -16,7 +16,7 @@ I'm passionate about sharing knowledge and empowering others. As an[ AWS Communi
 - [**DevOps Days**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
 
 ### Certifications
-I have recognized for my expertise, I've achieved [badges](https://openprofile.dev/profile/amauryborgesouza), courses and certifications in platforms like Linux, CNCF projects, CyberSecurity, AWS, Azure & Terraform. Additionally, my post-graduate degree in Solutions Architecture provides a solid foundation for designing and implementing scalable and secure cloud solutions.
+I have recognized for my expertise, I've achieved [badges](https://openprofile.dev/profile/amauryborgesouza), [courses](https://www.linkedin.com/in/amaurybsouza/details/certifications/) and certifications in platforms like Linux, CNCF projects, CyberSecurity, AWS, Azure & Terraform. Additionally, my post-graduate degree in Solutions Architecture provides a solid foundation for designing and implementing scalable and secure cloud solutions.
 
 ### Key Skills
 - Linux (Bash Scripts, Regex & CLI)
