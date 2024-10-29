@@ -7,6 +7,7 @@ I'm dedicated to empowering others through knowledge sharing, committed to lifel
 - **Medium**: I frequently write technical post about DevOps, automation & tech on my [Medium](https://amaurybsouza.medium.com/).
 - **Open Source Contributions**: I actively contribute to open-source projects on [GitHub](https://github.com/amaurybsouza).
 - **Linux Blog**: I contribute with articles, posts, configurations files in [Linux Blog](https://www.vivaolinux.com.br/) website.
+- **Podcasts**: DevOps, Automation, Culture & Complex Applications [Café Debug](https://cafedebug.com.br/detalhes-epis%C3%B3dio?guid=9b82d3e5-c447-5a12-a9f9-51d8cd029910) podcast.
   
 ### Community Leadership
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
