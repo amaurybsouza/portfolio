@@ -14,7 +14,7 @@ I'm passionate about sharing knowledge and empowering others. As an[ AWS Communi
 - [**AWS Community Builders**](https://aws.amazon.com/pt/developer/community/community-builders/): I lead the AWS initiatives locally in Campinas (posts, events).
 - [**HashiCorp U.G. Campinas**](https://www.hashicorp.com/community): I lead Hashicorp initiatives in Campinas region (meetups, workshops).
 - [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): I like to create the workshops to teach several topics about tech.
-- [**DevOps Days**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
+- [**DevOps Days Organizer**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
 
 ### Certifications
 I have recognized for my expertise, I've achieved [badges](https://openprofile.dev/profile/amauryborgesouza), [courses](https://www.linkedin.com/in/amaurybsouza/details/certifications/) and certifications in platforms like Linux, CNCF projects, CyberSecurity, AWS, Azure & Terraform. Additionally, my post-graduate degree in Solutions Architecture provides a solid foundation for designing and implementing scalable and secure cloud solutions.
