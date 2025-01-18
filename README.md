@@ -3,6 +3,7 @@ I am a Cloud Security Engineer with over 12 years of experience in IT, specializ
 
 ### Knowledge Sharing
 I'm dedicated to empowering others through knowledge sharing, committed to lifelong learning and believe in the power of knowledge sharing to drive tech innovation.
+- **AWS Community**: I create compelling content for fellow builders. Let's go with me on [AWS Community](https://community.aws/@amaury)
 - **DevSecOps Newsletter**: I curate a newsletter focusing on DevSecOps. Check out on [Substack](https://amauryborgessouza.substack.com/).
 - **Medium**: I frequently write technical post about DevOps, automation & tech on my [Medium](https://amaurybsouza.medium.com/).
 - **Open Source Contributions**: I actively contribute to open-source projects on [GitHub](https://github.com/amaurybsouza).
