@@ -32,7 +32,7 @@ I have recognized for my expertise, I've achieved [badges](https://www.credly.co
 
 ---
   
-## Latest Medium posts
+## Latest Posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Feb 02, 2025: [AWS Translate: From english to any language in seconds](https://community.aws/content/2sV489BjzB0mLBLvRfLCbejRBnK/aws-translate-from-english-to-any-language-in-seconds)
 - Jan 19, 2025: [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
