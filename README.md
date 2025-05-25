@@ -36,6 +36,8 @@ I have recognized for my expertise, I've achieved [badges](https://www.credly.co
 ## Latest Tech posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - May 25, 2025: [SonarQube para Gestão de Vulnerabilidades](https://amaurybsouza.medium.com/sonarqube-para-gest%C3%A3o-de-vulnerabilidades-48b5e8661784)
+- May 15, 2025: [AWS Community Builder Renovado](https://amaurybsouza.medium.com/aws-community-builder-renovado-60221fa5fb0c)
+- May 07, 2025: [Hashicorp Ambassador 2025](https://amaurybsouza.medium.com/hashicorp-ambassador-2025-c5e77f7b33dc)
 - Feb 02, 2025: [AWS Translate: From english to any language in seconds](https://community.aws/content/2sV489BjzB0mLBLvRfLCbejRBnK/aws-translate-from-english-to-any-language-in-seconds)
 - Jan 19, 2025: [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
 - Jan 10, 2025: [Automate AWS CLI Deployment Using Ansible – Step by Step](https://community.aws/content/2rGOv0VY5bSbxI4HEXTjQisRU8L/automate-aws-cli-deployment-using-ansible-step-by-step)
@@ -48,9 +50,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
 - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff)
 - May 31, 2023: [Como importar recursos existentes na plataforma do Azure com Terraform](https://amaurybsouza.medium.com/como-importar-recursos-existentes-na-plataforma-do-azure-com-terraform-b32581b030c2) 
-- Apr 25, 2023: [5 automações em Shell Script essenciais para o dia a dia de um DevOps](https://amaurybsouza.medium.com/5-automa%C3%A7%C3%B5es-em-shell-script-essenciais-para-o-dia-a-dia-de-um-devops-5cdc1f33a98a)
-- Mar 02, 2023: [Me tornei Hashicorp Ambassador 2023](https://amaurybsouza.medium.com/me-tornei-hashicorp-ambassador-2023-c04d78934901)
-  
+    
 ---
 
 ## Tech Conferences I'm attending
