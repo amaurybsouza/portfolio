@@ -12,15 +12,6 @@ I'm passionate about sharing knowledge and empowering others. As an[ AWS Communi
 - [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): I like to create the workshops to teach several topics about tech.
 - [**DevOps Days Organizer**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
 
-### Knowledge Sharing
-I'm dedicated to empowering others through knowledge sharing, committed to lifelong learning and believe in the power of knowledge sharing to drive tech innovation.
-- **AWS Community**: I create compelling content for fellow builders. Let's go with me on [AWS Community](https://community.aws/@amaury)
-- **DevSecOps Newsletter**: I curate a newsletter focusing on DevSecOps. Check out on [Substack](https://amauryborgessouza.substack.com/).
-- **Medium**: I frequently write technical post about DevOps, automation & tech on my [Medium](https://amaurybsouza.medium.com/).
-- **Open Source Contributions**: I actively contribute to open-source projects on [GitHub](https://github.com/amaurybsouza).
-- **Linux Blog**: I contribute with articles, posts, configurations files in [Linux Blog](https://www.vivaolinux.com.br/) website.
-- **Podcasts**: DevOps, Automation, Culture & Complex Applications [Café Debug](https://cafedebug.com.br/detalhes-epis%C3%B3dio?guid=9b82d3e5-c447-5a12-a9f9-51d8cd029910) podcast.
-
 ### Key Skills
 - Linux (Bash Scripts, Regex & CLI).
 - Identity and Access Management (IAM).
