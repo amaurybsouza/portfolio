@@ -1,6 +1,9 @@
 ## Professional Experience
 Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/pt-br). Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader ([AWS](https://aws.amazon.com/developer/community/community-builders/), [HashiCorp](https://www.hashicorp.com/pt/ambassador), [DoDs](https://devopsdays.org/)), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
+### Cloud Security Engineer, Expert @CI&T - Remote
+Working in a technical leadership role as Cloud Security Engineer supporting the (Growth Units). supporting the administration, billing and optimization of medium to large cloud environments, ensuring the governance of cloud use in various projects, supporting security, efficiency, compliance and optimization in the use of resources in cloud environments from the main providers (AWS, Azure and GCP). 
+
 ### Professor (MBA FIAP)
 I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/), formed by ([Alura](https://www.alura.com.br/), [FIAP](https://www.fiap.com.br/) and [PM3](https://pm3.com.br/)). I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
   
@@ -11,16 +14,6 @@ I'm passionate about sharing knowledge and empowering others. As an[ AWS Communi
 - [**HashiCorp U.G. Campinas**](https://www.hashicorp.com/community): I lead Hashicorp initiatives in Campinas region (meetups, workshops).
 - [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): I like to create the workshops to teach several topics about tech.
 - [**DevOps Days Organizer**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
-
-### Key Skills
-- Linux (Bash Scripts, Regex & CLI).
-- Identity and Access Management (IAM).
-- Misconfiguration Management.
-- Security Guardrails Architecture.
-- DevSecOps Practices (Shift Left).
-- Infrastructure as Code Mastery.
-- Vulnerability Management.
-- S-SDLC (Software Development Life Cycle).
 
 ---
   
