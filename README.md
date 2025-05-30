@@ -2,7 +2,7 @@
 Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader (AWS, HashiCorp, DoDs), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. 
 
 ### Professor (MBA FIAP)
-I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/) formed by Alura, FIAP and PM3. I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
+I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/), formed by Alura, FIAP and PM3. I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
 
 ### Knowledge Sharing
 I'm dedicated to empowering others through knowledge sharing, committed to lifelong learning and believe in the power of knowledge sharing to drive tech innovation.
