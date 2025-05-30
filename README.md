@@ -3,6 +3,14 @@ Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+
 
 ### Professor (MBA FIAP)
 I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/), formed by Alura, FIAP and PM3. I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
+  
+### Community Leader
+I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
+- [**AWS Community Builders**](https://aws.amazon.com/pt/developer/community/community-builders/): I lead the AWS initiatives locally in Campinas (posts, events).
+- [**HashiCorp Ambassador**](https://www.hashicorp.com/pt/ambassador): Committed to the spirit of learning in the open, advocating to the HashiCorp Principles.
+- [**HashiCorp U.G. Campinas**](https://www.hashicorp.com/community): I lead Hashicorp initiatives in Campinas region (meetups, workshops).
+- [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): I like to create the workshops to teach several topics about tech.
+- [**DevOps Days Organizer**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
 
 ### Knowledge Sharing
 I'm dedicated to empowering others through knowledge sharing, committed to lifelong learning and believe in the power of knowledge sharing to drive tech innovation.
@@ -12,14 +20,6 @@ I'm dedicated to empowering others through knowledge sharing, committed to lifel
 - **Open Source Contributions**: I actively contribute to open-source projects on [GitHub](https://github.com/amaurybsouza).
 - **Linux Blog**: I contribute with articles, posts, configurations files in [Linux Blog](https://www.vivaolinux.com.br/) website.
 - **Podcasts**: DevOps, Automation, Culture & Complex Applications [Café Debug](https://cafedebug.com.br/detalhes-epis%C3%B3dio?guid=9b82d3e5-c447-5a12-a9f9-51d8cd029910) podcast.
-  
-### Community Leader
-I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
-- [**AWS Community Builders**](https://aws.amazon.com/pt/developer/community/community-builders/): I lead the AWS initiatives locally in Campinas (posts, events).
-- [**HashiCorp Ambassador**](https://www.hashicorp.com/pt/ambassador): Committed to the spirit of learning in the open, advocating to the HashiCorp Principles.
-- [**HashiCorp U.G. Campinas**](https://www.hashicorp.com/community): I lead Hashicorp initiatives in Campinas region (meetups, workshops).
-- [**Hackerspace (LHC Campinas)**](https://eventos.lhc.net.br/): I like to create the workshops to teach several topics about tech.
-- [**DevOps Days Organizer**](https://devopsdays.org/): I coollaborate to share DevOps practices (organizing conferences) in a local community.
 
 ### Key Skills
 - Linux (Bash Scripts, Regex & CLI).
