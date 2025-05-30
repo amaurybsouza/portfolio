@@ -1,5 +1,5 @@
 ## Professional Experience
-Experienced Lead Cloud Security Engineer, Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader (AWS, HashiCorp, DoDs), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, hacker culture, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. 
+Experienced Cloud Security Engineer and Leader. Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader (AWS, HashiCorp, DoDs), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, hacker culture, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. 
 
 ### Knowledge Sharing
 I'm dedicated to empowering others through knowledge sharing, committed to lifelong learning and believe in the power of knowledge sharing to drive tech innovation.
