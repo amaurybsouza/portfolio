@@ -1,4 +1,3 @@
-## 💼Professional Experience
 Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/pt-br). Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader ([AWS](https://aws.amazon.com/developer/community/community-builders/), [HashiCorp](https://www.hashicorp.com/pt/ambassador), [DoDs](https://devopsdays.org/)), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ## 📑Índice
@@ -15,7 +14,7 @@ Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/p
 - [Contact](#contact)
 - [Support](#support)
 
----
+## Professional Experience
 
 ### Cloud Security Engineer, Expert - CI&T.
 Working in a technical leadership role as Cloud Security Engineer supporting the (Growth Units). supporting the administration, billing and optimization of medium to large cloud environments, ensuring the governance of cloud use in various projects, supporting security, efficiency, compliance and optimization in the use of resources in cloud environments from the main providers (AWS, Azure and GCP). 
