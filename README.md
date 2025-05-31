@@ -1,11 +1,11 @@
 ## Professional Experience
 Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/pt-br). Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader ([AWS](https://aws.amazon.com/developer/community/community-builders/), [HashiCorp](https://www.hashicorp.com/pt/ambassador), [DoDs](https://devopsdays.org/)), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
-### Cloud Security Engineer, Expert @CI&T - Remote
+### Cloud Security Engineer, Expert - CI&T.
 Working in a technical leadership role as Cloud Security Engineer supporting the (Growth Units). supporting the administration, billing and optimization of medium to large cloud environments, ensuring the governance of cloud use in various projects, supporting security, efficiency, compliance and optimization in the use of resources in cloud environments from the main providers (AWS, Azure and GCP). 
 
-### Professor (MBA FIAP)
-I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/), formed by ([Alura](https://www.alura.com.br/), [FIAP](https://www.fiap.com.br/) and [PM3](https://pm3.com.br/)). I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
+### Professor MBA - FIAP.
+I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/), formed by (Alura, FIAP and PM3). I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
   
 ### Community Leader
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
