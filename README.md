@@ -1,3 +1,5 @@
+### Hi, I'm Amaury!👏
+
 Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/pt-br). Professor & Tech Writer with 12+ years in the industry. Recognized Community Leader ([AWS](https://aws.amazon.com/developer/community/community-builders/), [HashiCorp](https://www.hashicorp.com/pt/ambassador), [DoDs](https://devopsdays.org/)), who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, ethical hacking, and Linux. I specialize in Cloud Security, automation, and AI-driven solutions. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ## 📑Índice
