@@ -11,6 +11,9 @@ Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/p
 - [Tech Conferences I'm attending](#tech-conferences-im-attending)
 - [Viva o Linux contributions](#viva-o-linux-contributions)
 - [Open-Source Projects](#open-source-projects)
+- [Previous Job](previous-job)
+- [Contact](#contact)
+- [Support](#support)
 
 ---
 
