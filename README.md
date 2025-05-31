@@ -6,6 +6,8 @@ Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/p
 ### Cloud Security Engineer, Expert - CI&T.
 Working in a technical leadership role as Cloud Security Engineer supporting the (Growth Units). supporting the administration, billing and optimization of medium to large cloud environments, ensuring the governance of cloud use in various projects, supporting security, efficiency, compliance and optimization in the use of resources in cloud environments from the main providers (AWS, Azure and GCP). 
 
+---
+
 ### Professor MBA - FIAP.
 I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/), formed by (Alura, FIAP and PM3). I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
   
