@@ -16,7 +16,7 @@ Hi, I'm Amaury! Experienced Cloud Security Engineer and Leader at [CI&T](https:/
 - [Contact](#contact)
 - [Support](#support)
 
-## Professional Experience
+## Tech Journey
 
 ### Cloud Security Engineer, Expert - CI&T.
 Working in a technical leadership role as Cloud Security Engineer supporting the (Growth Units). supporting the administration, billing and optimization of medium to large cloud environments, ensuring the governance of cloud use in various projects, supporting security, efficiency, compliance and optimization in the use of resources in cloud environments from the main providers (AWS, Azure and GCP). 
@@ -25,6 +25,8 @@ Working in a technical leadership role as Cloud Security Engineer supporting the
 
 ### Professor MBA - FIAP.
 I'm MBA Professor at [FIAP](https://www.fiap.com.br/mba/), formed by (Alura, FIAP and PM3). I am a Professor of the DevOps, Automation and Cloud Strategy FIAP MBA. I teach the DevSecOps & AI course, focusing on integrating security into continuous pipelines by leveraging Artificial Intelligence and automation to enhance cybersecurity strategies in modern development environments.
+
+---
   
 ### Community Leader
 I'm passionate about sharing knowledge and empowering others. As an[ AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=cb-type%23containers&awsf.location=location%23latam&awsf.year=year%232023) and [HashiCorp U.G. Lead](https://www.meetup.com/campinas-hashicorp-user-group/), I'm actively involved in the tech community, organizing meetups, workshops, and hackathons. Interested in joining the community?
