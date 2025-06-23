@@ -12,9 +12,9 @@ Hi, I'm Amaury! Experienced Cloud Security Engineer and Leader at [CI&T](https:/
 - 🎤[Tech Conferences I'm attending](#tech-conferences-im-attending)
 - 🐧[Viva o Linux contributions](#viva-o-linux-contributions)
 - 🛠️[Open-Source Projects](#open-source-projects)
-- [Previous Job](#previous-job)
-- [Contact](#contact)
-- [Support](#support)
+- ⏮️[Previous Job](#previous-job)
+- 📧[Contact](#contact)
+- 📌[Support](#support)
 
 ## Tech Journey
 
