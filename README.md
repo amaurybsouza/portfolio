@@ -1,6 +1,6 @@
 ## Professional Experience
 
-Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/pt-br) with 12+ years in the industry. Professor at [FIAP](https://www.fiap.com.br/mba/) & Tech Writer publishing on Medium and through my own newsletter. Recognized Community Leader AWS, HashiCorp, DoDs, who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, ethical hacking, and Linux.I specialize in Cloud Security, automation, and AI-driven solutions. Based in Brazil. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
+Hi, I am Amaury. Experienced Cloud Security Engineer and Leader at [CI&T](https://ciandt.com/br/pt-br) with 12+ years in the industry. Professor at [FIAP](https://www.fiap.com.br/mba/) & Tech Writer publishing on Medium and through my own newsletter. Recognized Community Leader AWS, HashiCorp, DoDs, who actively supports the tech ecosystem by writing technical content, organizing meetups, and contributing to community events.  Passionate about AI/ML, loves automation tools, ethical hacking, and Linux.I specialize in Cloud Security, automation, and AI-driven solutions. Based in Brazil. To discuss further, please connect with me on my [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ## Topics
 
