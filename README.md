@@ -4,17 +4,17 @@ Hi, I am Amaury. Experienced Cloud Security Engineer and Leader at [CI&T](https:
 
 ## Topics
 
-- 💼[Professional Experience](#professional-experience)
-  - 🔐[Cloud Security Engineer, Expert - CI&T](#cloud-security-engineer-expert---cit)
-  - 👨‍🏫[Professor MBA - FIAP](#professor-mba---fiap)
-  - 🌍[Community Leader](#community-leader)
-- 📝[Latest Tech posts](#latest-tech-posts)
-- 🎤[Tech Conferences I'm attending](#tech-conferences-im-attending)
-- 🐧[Viva o Linux contributions](#viva-o-linux-contributions)
-- 🛠️[Open-Source Projects](#open-source-projects)
-- ⏮️[Previous Job](#previous-job)
-- 📧[Contact](#contact)
-- 📌[Support](#support)
+- [Professional Experience](#professional-experience)
+  - [Cloud Security Engineer, Expert - CI&T](#cloud-security-engineer-expert---cit)
+  - [Professor MBA - FIAP](#professor-mba---fiap)
+  - [Community Leader](#community-leader)
+- [Latest Tech posts](#latest-tech-posts)
+- [Tech Conferences I'm attending](#tech-conferences-im-attending)
+- [Viva o Linux contributions](#viva-o-linux-contributions)
+- [Open-Source Projects](#open-source-projects)
+- ⏮[Previous Job](#previous-job)
+- [Contact](#contact)
+- [Support](#support)
 
 ## Tech Journey
 
