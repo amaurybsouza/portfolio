@@ -66,7 +66,7 @@ Responsabilities:
 Competencies: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
 
 ## Contact
-My name is Amaury (he/his/him) currently working remote at Kyndryl! I'm working mostly with DevOps tools like, Docker containers, Kubernetes, Ansible, Terraform, GH Actions (CI/CD), along with Azure and AWS! I am keep me focused on CNCF solutions like Helm, Prometheus, Crossplane and Argo. I love Open-Source and I'm an Ops since 2013! Also, I love to sharing, teach and learn everthing! Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). Also you can DM me on [Twitter](https://twitter.com/amaurybsouza_).
+Whether you need a secure IaC review, guest lecture, or DevSecOps workshop, feel free to reach out, let’s make the cloud a safer place together. Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). 
 
 ## Support
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.  
