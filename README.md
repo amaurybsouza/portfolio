@@ -33,8 +33,6 @@ Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hash
 - [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [TDC - The Developers Conference](https://thedevconf.com/tdc/2024/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 
----
-
 ## Viva o Linux contributions
 Check out my open-source journey with Linux in [Viva o Linux](https://www.vivaolinux.com.br/). 🏆Ranked: 1.930 (🎉71.121 points).
 - Article: [Trilha Filesystems Linux - Operação de Sistemas de Arquivos](https://www.vivaolinux.com.br/artigo/Trilha-Filesystems-Linux-Operacao-de-Sistemas-de-Arquivos/) - [Hits: 2.931].
