@@ -1,7 +1,5 @@
 Cloud Security Engineer serving on a dedicated security team and MBA Professor with +12 years of industry experience. Hands-on in purple teaming, incident post-mortems, CSPM, runtime cloud defenses, IAM hardening, and forensics. Passionate about DevSecOps, automation tools, ethical hacking, and Linux, I specialize in Cloud Security, AppSec, Automation, and AI-driven solutions.
 
-Recognized as an AWS Community Builder, HashiCorp Ambassador, and open-source community leader, I published a cybersecurity newsletter and Medium blog focused on DevSecOps, Cloud Security, and Automation. Skilled at collaborating with cross-functional teams to deliver innovative answers to complex challenges, I continually pursue new ways to streamline software delivery and harden infrastructure for greater performance and security.
-
 ## Latest Tech posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - May 25, 2025: [SonarQube para Gestão de Vulnerabilidades](https://amaurybsouza.medium.com/sonarqube-para-gest%C3%A3o-de-vulnerabilidades-48b5e8661784)
