@@ -16,8 +16,6 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Jun 18, 2023: [Reagindo à pesquisa anual do Stack Overflow (Developer Survey 2023)](https://amaurybsouza.medium.com/reagindo-%C3%A0-pesquisa-anual-do-stack-overflow-developer-survey-2023-40f100245dca)
 - Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
 - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff).
-    
----
 
 ## Tech Conferences
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
