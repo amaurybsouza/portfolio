@@ -1,4 +1,4 @@
-Cloud Security Engineer serving on a dedicated security team and MBA Professor with +12 years of industry experience. Hands-on in purple teaming, incident post-mortems, CSPM, runtime cloud defenses, IAM hardening, and forensics. Passionate about DevSecOps, automation tools, ethical hacking, and Linux, I specialize in Cloud Security, AppSec, Automation, and AI-driven solutions.
+I am an engineer person on a security team with +12 years of experience. Hands-on in purple teaming, incident post-mortems, CSPM, runtime cloud defenses, IAM hardening, and forensics. Passionate about DevSecOps, automation tools, ethical hacking, and Linux, I specialize in Cloud Security, AppSec, Automation, and AI-driven solutions.
 
 ## Latest Tech posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
