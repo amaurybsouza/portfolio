@@ -1,4 +1,4 @@
-I am an engineer person on a security team with +12 years of experience. Passionate about appsec #devsecops, automation tools, ethical hacking, and linux.
+I am an engineer person on a security team with +12 years of experience. Passionate about appsec #devsecops, #aws, automation tools, ethical hacking, and linux.
 ## Latest Tech posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - May 25, 2025: [SonarQube para Gestão de Vulnerabilidades](https://amaurybsouza.medium.com/sonarqube-para-gest%C3%A3o-de-vulnerabilidades-48b5e8661784)
