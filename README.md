@@ -63,8 +63,6 @@ Responsabilities:
 - Strong experience in collaborating with cross-functional teams to achieve common goals and provide innovative solutions to complex problems. 
 - Always looking for new challenges to improve the software delivery process and optimize the infrastructure for better performance and scalability.
 
-Competencies: DevOps · Linux Systems · Ansible · YAML · Terraform · Bash Sripting · Automation · AWS (Amazon Web Services) · Solutions Architecture · Infrastructure as Code (IaC) · Configuration Management · Markdown · Helm · Prometehus · Observability · Monitoring · Continuous Integration · Continuous Delivery · GitLab · Git · GitHub.
-
 ## Contact
 Whether you need a secure IaC review, guest lecture, or DevSecOps workshop, feel free to reach out, let’s make the cloud a safer place together. Best way to get contact with me is on my [Linkedin](https://www.linkedin.com/in/amaurybsouza/). 
 
