@@ -18,7 +18,7 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
     
 ---
 
-## Tech Conferences I'm attending
+## Tech Conferences
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending. These events are great opportunities to participate in hands-on workshops.
 - [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/CA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [HashiTalks 2025](https://events.hashicorp.com/hashitalks2024) - (Virtual Event)<img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
