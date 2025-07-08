@@ -17,22 +17,6 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Jun 12, 2023: [5 things I love about Terraform](https://amaurybsouza.medium.com/5-things-i-love-about-terraform-89682856d35d) 
 - Jun 11, 2023: [#eufui no AWS Cloud Experience](https://amaurybsouza.medium.com/eufui-no-aws-cloud-experience-10331a1b2fff).
 
-## Tech Conferences
-Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending.
-- [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/CA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [HashiTalks 2025](https://events.hashicorp.com/hashitalks2024) - (Virtual Event)<img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
-- [AWS re:Invent 2025](https://reinvent.awsevents.com/) - (Las Vegas/NV)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [AWS Community Day Brasil](https://awscommunityday.com.br/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [AWS Cloud Experience Brasil](https://aws.amazon.com/pt/events/cloudexperience/) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [BSides São Paulo](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [BxSec 2025](https://bxsec.org/) - (Santos/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [IAM Tech Day](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [DevOps Days São Paulo 2025](https://devopsdays.org) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [DevOps Days Campinas 2025](https://devopsdays.org) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [TDC - The Developers Conference](https://thedevconf.com/tdc/2024/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Oct 26, 2022: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (helps you with the most commonly and used commands).
@@ -50,6 +34,22 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 - Created sep/2022: [nginx-docker-image](https://github.com/Docker-Tutorialz/nginx-docker-image); (*brief way to build and push a Docker image on Dockerhub*).
 - Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (*basic Kubernetes environment to play into your envr.*).
 - Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (*basic Helm Chart using NGINX webserver on K8S*).
+
+## Tech Conferences
+Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending.
+- [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/CA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [HashiTalks 2025](https://events.hashicorp.com/hashitalks2024) - (Virtual Event)<img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
+- [AWS re:Invent 2025](https://reinvent.awsevents.com/) - (Las Vegas/NV)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [AWS Community Day Brasil](https://awscommunityday.com.br/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [AWS Cloud Experience Brasil](https://aws.amazon.com/pt/events/cloudexperience/) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [BSides São Paulo](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [BxSec 2025](https://bxsec.org/) - (Santos/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [IAM Tech Day](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [DevOps Days São Paulo 2025](https://devopsdays.org) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [DevOps Days Campinas 2025](https://devopsdays.org) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- [TDC - The Developers Conference](https://thedevconf.com/tdc/2024/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 
 ## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
