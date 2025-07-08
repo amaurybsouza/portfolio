@@ -35,7 +35,7 @@ Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hash
 
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
-- Merged recently: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (helps you with the most commonly and used commands).
+- Oct 26, 2022: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (helps you with the most commonly and used commands).
 - Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (devops glossary helps you with DevOps tools descriptions).
 - Created nov/2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (a bit automation with AWS, Terraform and Ansible tools).
 - Created jan/2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (integrate OTRS 6 ticket systems with Zabbix).
