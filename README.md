@@ -20,20 +20,20 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
 - Oct 26, 2022: [devops-cheatsheet](https://github.com/amaurybsouza/devops-cheatsheet); (helps you with the most commonly and used commands).
-- Created dec/2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (devops glossary helps you with DevOps tools descriptions).
-- Created nov/2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (a bit automation with AWS, Terraform and Ansible tools).
-- Created jan/2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (integrate OTRS 6 ticket systems with Zabbix).
+- Dec 10, 2022: [devops-glossary](https://github.com/Kubernetes-Tutorialz/devops-glossary); (devops glossary helps you with DevOps tools descriptions).
+- Nov 12, 2021: [iac-practice](https://github.com/amaurybsouza/iac-practice); (a bit automation with AWS, Terraform and Ansible tools).
+- Jan 05, 2018: [zabbix-otrs-integrating](https://github.com/amaurybsouza/zabbix-otrs-integrating); (integrate OTRS 6 ticket systems with Zabbix).
 - PR recently opened: [devops-exercises](https://github.com/bregman-arie/devops-exercises#scripts); (exercises about various technical topics).
 - Created jan/2023: [learn-terraform-associate-exam](https://github.com/Terraform-Tutorials/learn-terraform-associate-exam); (practice Terraform exam questions).
-- Created jan/2021: [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2); (*a brief way to provision an EC2 instance on AWS Cloud*).
-- Created nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (*create a Terraform configuration to deploy on Azure*).
-- Created mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (*allows you to automate vms azure*).
-- Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (*ansible ad hoc command uses to automate the configurations*).
-- Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (*playbook used to install Docker on EC2 using YML files*).
-- Created oct/2022: [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown readme.md ansible steps documentation*).
-- Created sep/2022: [nginx-docker-image](https://github.com/Docker-Tutorialz/nginx-docker-image); (*brief way to build and push a Docker image on Dockerhub*).
-- Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (*basic Kubernetes environment to play into your envr.*).
-- Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (*basic Helm Chart using NGINX webserver on K8S*).
+- Created jan/2021: [terraform-aws-ec2](https://github.com/Terraform-Tutorials/terraform-aws-ec2); (a brief way to provision an EC2 instance on AWS Cloud).
+- Created nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (create a Terraform configuration to deploy on Azure).
+- Created mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (allows you to automate vms azure).
+- Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (ansible ad hoc command uses to automate the configurations).
+- Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (playbook used to install Docker on EC2 using YML files).
+- Created oct/2022: [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown readme.md ansible steps documentation).
+- Created sep/2022: [nginx-docker-image](https://github.com/Docker-Tutorialz/nginx-docker-image); (brief way to build and push a Docker image on Dockerhub).
+- Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (basic Kubernetes environment to play into your envr).
+- Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (basic Helm Chart using NGINX webserver on K8S).
 
 ## Tech Conferences
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending.
