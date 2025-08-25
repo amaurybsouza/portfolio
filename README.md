@@ -37,7 +37,7 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 
 ## Tech Conferences
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending.
-- [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) - (San Fracisco/CA)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- Sep 23-26, 2025: [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) – Community. Connections. Cloud. <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [HashiTalks 2025](https://events.hashicorp.com/hashitalks2024) - (Virtual Event)<img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
 - [AWS re:Invent 2025](https://reinvent.awsevents.com/) - (Las Vegas/NV)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
