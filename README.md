@@ -35,13 +35,14 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 - Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (basic Kubernetes environment to play into your envr).
 - Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (basic Helm Chart using NGINX webserver on K8S).
 
-## Tech Conferences
+## Conferences & Events
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending.
-- Sep 23-26, 2025: [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) – Community. Connections. Cloud. <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- Sep 23-26, 2025 (San Francisco, CA): [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) – Community. Connections. Cloud. <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - Aug 07, 2025: Speaking at [HashiTalks 2025](https://events.hashicorp.com/hashitalksbrasil) – Terraform & IA: Práticas de DevSecOps com Prompt Engineering. <img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
-- [HashiTalks 2025](https://events.hashicorp.com/hashitalks2024) - (Virtual Event)<img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
+- Aug 13, 2025: Attending at [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all)
+
 - [AWS re:Invent 2025](https://reinvent.awsevents.com/) - (Las Vegas/NV)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+-  - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [AWS Community Day Brasil](https://awscommunityday.com.br/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [AWS Cloud Experience Brasil](https://aws.amazon.com/pt/events/cloudexperience/) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - [BSides São Paulo](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
