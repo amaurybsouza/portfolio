@@ -36,7 +36,7 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 - Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (basic Helm Chart using NGINX webserver on K8S).
 
 ## Tech Conferences & Events
-Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending.
+Below are the scheduled conferences and events that I am either organizing, speaking at, or attending.
 - Dec 04, 2025: Speaking at [SREDay](https://sreday.com/) –  (Hortolândia, SP)
 - Oct 18, 2025: Organizing at [DevOps Days Campinas](https://devopsdays.org/events/2025-campinas/welcome/) - Content Reviewer. (Campinas, SP)
 - Sep 23-26, 2025: Attending at [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) – Community. Connections. Cloud. (San Francisco, CA)
