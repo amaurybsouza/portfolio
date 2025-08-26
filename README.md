@@ -42,19 +42,6 @@ Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hash
 - Aug 07, 2025 (São Paulo, BR): Speaking at [HashiTalks 2025](https://events.hashicorp.com/hashitalksbrasil) – Terraform & IA. <img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
 - Aug 13, 2025: Attending at [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all)
 
-
-- [AWS re:Invent 2025](https://reinvent.awsevents.com/) - (Las Vegas/NV)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
--  - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [AWS Community Day Brasil](https://awscommunityday.com.br/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [AWS Cloud Experience Brasil](https://aws.amazon.com/pt/events/cloudexperience/) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [BSides São Paulo](https://securitybsides.com.br/2024/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [BxSec 2025](https://bxsec.org/) - (Santos/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [IAM Tech Day](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial/) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [DevOps Days São Paulo 2025](https://devopsdays.org) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [DevOps Days Campinas 2025](https://devopsdays.org) - (Campinas/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [Paloalto Ignite on Tour São Paulo](https://register.paloaltonetworks.com/igniteontour) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- [TDC - The Developers Conference](https://thedevconf.com/tdc/2024/index.html) - (São Paulo/SP)<img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-
 ## Previous Job
 I am an experienced DevOps Engineer with a strong focus on cloud technologies, automation, and Infrastructure as Code (IaC). Throughout my career, I've had the privilege of making impactful contributions to projects, particularly during my tenure at Bradesco bank, where I played a key role in optimizing processes and ensuring the reliability of infrastructure.
 
