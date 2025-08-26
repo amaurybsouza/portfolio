@@ -37,7 +37,7 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 
 ## Tech Conferences & Events
 Below are the scheduled conferences and events that I am either organizing, speaking at, or attending.
-- Dec 04, 2025: Speaking at [SREDay](https://sreday.com/) – To be annunced. (Hortolândia, SP)
+- Dec 04, 2025: Speaking at [SREDay](https://sreday.com/) – To be announced. (Hortolândia, SP)
 - Nov 18, 2025: Speaking at [CI&T Security Summer](https://ciandt.com/br/pt-br/home) – Cloud Security Practices. (Campinas, SP)
 - Oct 18, 2025: Organizing at [DevOps Days Campinas](https://devopsdays.org/events/2025-campinas/welcome/) - Content Reviewer. (Campinas, SP)
 - Sep 23-26, 2025: Attending at [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) – Community. Connections. Cloud. (San Francisco, CA)
