@@ -37,8 +37,8 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 
 ## Conferences & Events
 Below are the scheduled [conferences](https://www.hashicorp.com/conferences/hashiconf) and [meetups](https://www.meetup.com/campinas-hashicorp-user-group/) that I am either organizing, speaking at, or attending.
-- Oct 18, 2025 (São Paulo, BR): Organizing at [DevOps Days Campinas](https://devopsdays.org/events/2025-campinas/welcome/) - Content Reviewer. <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
-- Sep 23-26, 2025 (San Francisco, CA): Attending at [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) – Community. Connections. Cloud. <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
+- Oct 18, 2025: Organizing at [DevOps Days Campinas](https://devopsdays.org/events/2025-campinas/welcome/) - Content Reviewer. (Campinas, SP)
+- Sep 23-26, 2025: Attending at [HashiConf 2025](https://www.hashicorp.com/conferences/hashiconf/register) – Community. Connections. Cloud. (San Francisco, CA)
 - Sep 16, 2025 (São Paulo, BR): Speaking at [Hashicorp User Group](https://www.sympla.com.br/evento/meetup-de-comunidade-seguranca-e-ia-em-devops-desafios-e-possibilidades/3087539?referrer=www.linkedin.com&referrer=www.linkedin.com&share_id=copiarlink&referrer=www.meetup.com&share_id=copiarlink) - Segurança e IA em DevOps. <img src="https://img.shields.io/badge/Presencial-blue.svg" alt="Presencial">
 - Aug 07, 2025 (São Paulo, BR): Speaking at [HashiTalks 2025](https://events.hashicorp.com/hashitalksbrasil) – Terraform & IA. <img src="https://img.shields.io/badge/Virtual-green.svg" alt="Virtual">
 - Aug 13, 2025 (São Paulo, BR): Attending at [AWS Summit 2025](https://aws.amazon.com/pt/events/summits/?awsf.events-location=*all&awsf.events-series=*all)
