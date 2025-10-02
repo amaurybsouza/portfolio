@@ -25,11 +25,6 @@ Check out my collection of [GitHub](https://github.com/amaurybsouza) projects sh
 - Created nov/2022: [learn-terraform-azure](https://github.com/Terraform-Tutorials/learn-terraform-azure); (create a Terraform configuration to deploy on Azure).
 - Created mar/2023: [terraform-azure-virtual-machines](https://github.com/Terraform-Tutorials/terraform-azure-virtual-machines); (allows you to automate vms azure).
 - Created dec/2021: [ad-hoc-commands](https://github.com/Ansible-Tutorials/ad-hoc-commands); (ansible ad hoc command uses to automate the configurations).
-- Created nov/2022: [ansible-install-docker](https://github.com/Ansible-Tutorials/ansible-install-docker); (playbook used to install Docker on EC2 using YML files).
-- Created oct/2022: [ansible-in-prod](https://github.com/Ansible-Tutorials/ansible-in-prod?tab=readme-ov-file#conditional-tasks); (*markdown readme.md ansible steps documentation).
-- Created sep/2022: [nginx-docker-image](https://github.com/Docker-Tutorialz/nginx-docker-image); (brief way to build and push a Docker image on Dockerhub).
-- Created oct/2022: [kind-kubernetes-play](https://github.com/Kubernetes-Tutorialz/kind-kubernetes-play); (basic Kubernetes environment to play into your envr).
-- Created dec/2022: [helm-charts-kubernetes](https://github.com/Kubernetes-Tutorialz/helm-charts-kubernetes-hands-on); (basic Helm Chart using NGINX webserver on K8S).
 
 ## Tech Conferences & Events
 Below are the scheduled conferences and events that I am either organizing, speaking at, or attending.
