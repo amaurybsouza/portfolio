@@ -1,4 +1,4 @@
-## Featured
+## Featured Intro
 
 Cloud Security Engineer Lead, professor & writer with 12+ years of experience. Recognized by HashiCorp for the third year as an [Hashicorp Ambassador](https://www.hashicorp.com/en/ambassador) as well by AWS as an [AWS Community Builder](https://builder.aws.com/connect/community/community-builders), with proven expertise in #devsecops, #cybersecurity #automation #terraform. 
 
@@ -16,6 +16,10 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - Jan 19, 2025: [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
 - Jan 10, 2025: [Automate AWS CLI Deployment Using Ansible – Step by Step](https://community.aws/content/2rGOv0VY5bSbxI4HEXTjQisRU8L/automate-aws-cli-deployment-using-ansible-step-by-step)
 - Jul 14, 2024: [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
+
+## AWSome Cybersecurity News
+- OCT 02, 2025 [HashiTalks'26](https://amauryborgessouza.substack.com/p/hashitalks26)
+- AUG 22, 2025 [Workshop de segurança a vista: Protegendo sua infraestrutura como código com Snyk, AWS e Terraform](https://amauryborgessouza.substack.com/p/workshop-de-seguranca-a-vista-protegendo)
   
 ## Open-Source Projects
 Check out my collection of [GitHub](https://github.com/amaurybsouza) projects showcasing Infrastructure as Code (IaC) principles, using tools like Terraform and Ansible. Includes templates for cloud platforms like AWS and Azure.
