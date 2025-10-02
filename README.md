@@ -1,9 +1,9 @@
 I am an engineer person on a security team with +12 years of experience. Passionate about #appsec #devsecops, #aws, #automation #terraform, ethical hacking, and linux.
 
 ## Latest Tech posts
-I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
-### Aug 24, 2025: [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
-### Aug 08, 2025: [Terraform Sandbox: Ambiente Interativo para aprender](https://amaurybsouza.medium.com/terraform-sandbox-ambiente-interativo-para-aprender-1e1ebd4588da)
+### I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
+- Aug 24, 2025: [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
+- Aug 08, 2025: [Terraform Sandbox: Ambiente Interativo para aprender](https://amaurybsouza.medium.com/terraform-sandbox-ambiente-interativo-para-aprender-1e1ebd4588da)
 ### Jul 10, 2025: [Como Subir o Dependency-Track no AWS EC2 para Análise de Dependências (SCA)](https://amaurybsouza.medium.com/security-first-como-subir-o-dependency-track-no-aws-ec2-para-an%C3%A1lise-de-depend%C3%AAncias-sca-14b85f0474e1).
 ### May 25, 2025: [SonarQube para Gestão de Vulnerabilidades](https://amaurybsouza.medium.com/sonarqube-para-gest%C3%A3o-de-vulnerabilidades-48b5e8661784)
 ### May 15, 2025: [AWS Community Builder Renovado](https://amaurybsouza.medium.com/aws-community-builder-renovado-60221fa5fb0c)
