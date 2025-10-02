@@ -1,6 +1,6 @@
-Cloud Security Engineer Lead, professor & writer with 12+ years of experience. Recognized by HashiCorp for the third year as an Hashicorp Ambassador as well by AWS as an AWSCommunity Builder, with proven expertise in #devsecops, #cybersecurity #automation #terraform. 
+Cloud Security Engineer Lead, professor & writer with 12+ years of experience. Recognized by HashiCorp for the third year as an [Hashicorp Ambassador](https://www.hashicorp.com/en/ambassador) as well by AWS as an AWSCommunity Builder, with proven expertise in #devsecops, #cybersecurity #automation #terraform. 
 
-Frequent speaker at international conferences such as HashiTal DevOpsDays, and AWS Community events, sharing insights on cloud security and modern app delivery. 📫Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/)
+Frequent speaker at international conferences such as HashiTal DevOpsDays, and AWS Community events, sharing insights on cloud security and modern app delivery. 📫Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
 ## Latest Tech posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
