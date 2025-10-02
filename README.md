@@ -4,7 +4,7 @@ Cloud Security Engineer Lead, professor & writer with 12+ years of experience. R
 
 Frequent speaker at international conferences such as HashiTalks, SREDay, Summits, DevOpsDays, and local meetups, sharing insights on appsec, cloud security and modern app delivery. 📫Let’s connect on [LinkedIn](https://www.linkedin.com/in/amaurybsouza/).
 
-## Latest Tech posts
+## Most Recent articles
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Aug 24, 2025: [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
 - Aug 08, 2025: [Terraform Sandbox: Ambiente Interativo para aprender](https://amaurybsouza.medium.com/terraform-sandbox-ambiente-interativo-para-aprender-1e1ebd4588da)
