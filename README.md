@@ -1,3 +1,5 @@
+Hi, I'm Amaury!👏👏👏
+
 ## Featured Journey
 
 Cloud Security Engineer Lead, professor & writer with 12+ years of experience. Recognized by HashiCorp for the third year as an [Hashicorp Ambassador](https://www.hashicorp.com/en/ambassador) as well by AWS as an [AWS Community Builder](https://builder.aws.com/connect/community/community-builders), with proven expertise in #devsecops, #cybersecurity #automation #terraform. 
