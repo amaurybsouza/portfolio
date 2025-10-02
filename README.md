@@ -1,4 +1,4 @@
-I am an engineer person on a security team with +12 years of experience. Passionate about #appsec #devsecops, #aws, #automation #terraform, ethical hacking, and linux.
+Cloud Security Leader & MBA Professor with 12+ years of experience. HashiCorp Ambassador & AWS Community Builder, passionate about #devsecops, #cybersecurity #automation #terraform. Speaker at conferences such as HashiTalks, DevOpsDays, and AWS Community events.
 
 ## Latest Tech posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
