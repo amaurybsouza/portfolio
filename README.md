@@ -1,4 +1,5 @@
 I am an engineer person on a security team with +12 years of experience. Passionate about #appsec #devsecops, #aws, automation tools, ethical hacking, and linux.
+
 ## Latest Tech posts
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
 - Aug 24, 2025: [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
