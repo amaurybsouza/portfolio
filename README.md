@@ -1,4 +1,4 @@
-Hi, I'm Amaury!👏👏👏
+## Hi, I'm Amaury!👏👏👏
 
 ## Featured Journey
 
