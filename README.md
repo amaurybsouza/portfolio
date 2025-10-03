@@ -6,6 +6,7 @@ Frequent speaker at international conferences such as HashiTalks, SREDay, Summit
 
 ## Most Recent articles
 I'm excited to dive into DevOps and share my journey on [Medium](https://amaurybsouza.medium.com/), aiming to inspire, connect, and grow with the community.
+- SEP 30, 2025 - [HashiConf’25](https://amaurybsouza.medium.com/hashiconf25-1437c5fb239e)
 - AUG 24, 2025 - [Usando Amazon Q para Detecção de Vulnerabilidades](https://amaurybsouza.medium.com/usando-amazon-q-para-detec%C3%A7%C3%A3o-de-vulnerabilidades-703eab813dd2)
 - AUG 08, 2025 - [Terraform Sandbox: Ambiente Interativo para aprender](https://amaurybsouza.medium.com/terraform-sandbox-ambiente-interativo-para-aprender-1e1ebd4588da)
 - JUL 10, 2025 - [Como Subir o Dependency-Track no AWS EC2 para Análise de Dependências (SCA)](https://amaurybsouza.medium.com/security-first-como-subir-o-dependency-track-no-aws-ec2-para-an%C3%A1lise-de-depend%C3%AAncias-sca-14b85f0474e1).
@@ -15,7 +16,6 @@ I'm excited to dive into DevOps and share my journey on [Medium](https://amauryb
 - FEB 02, 2025 - [AWS Translate: From english to any language in seconds](https://community.aws/content/2sV489BjzB0mLBLvRfLCbejRBnK/aws-translate-from-english-to-any-language-in-seconds)
 - JAN 19, 2025 - [5 Must-Have AI/ML Tools for AWS Certified AI Practitioner](https://community.aws/content/2ro2cXtVxEhhuzPptwZ0Lny5w2I/5-must-have-ai-ml-tools-for-aws-certified-ai-practitioner)
 - JAN 10, 2025 - [Automate AWS CLI Deployment Using Ansible – Step by Step](https://community.aws/content/2rGOv0VY5bSbxI4HEXTjQisRU8L/automate-aws-cli-deployment-using-ansible-step-by-step)
-- JUL 14, 2024 - [Onde eu estive esses meses fora do Medium?](https://amaurybsouza.medium.com/onde-eu-estive-esses-meses-fora-do-medium-9c70dbe12800)
 
 ## AWSome Cybersecurity News
 - OCT 02, 2025 [HashiTalks'26](https://amauryborgessouza.substack.com/p/hashitalks26)
